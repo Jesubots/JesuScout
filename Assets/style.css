@@ -67,7 +67,7 @@ h1 {
 }
 .split.left {
   left:0;
-  background: url(img/poweUp_logo.png) center center no-repeat;
+  background: url("img/powerUp_logo.png") center center no-repeat;
   background-size: cover;
 }
 .split.left:before {
@@ -79,7 +79,7 @@ h1 {
 }
 .split.right {
   right:0;
-  background: url('https://image.ibb.co/m3ZbRb/programmer.png') center center no-repeat;
+  background: url("img/server_stock.png") center center no-repeat;
   background-size: cover;
 }
 .split.right:before {
@@ -155,7 +155,13 @@ h1 {
   background: rgba(31,113,255, 0.3);
 }
 /*******************
-*** Scouting Sect **
+*** DragMap Sect ***
+*******************/
+canvas {
+	border: solid black 3px;
+}
+/*******************
+*** Form Sect ******
 *******************/
 .formSect {
 	display: inline-block;
