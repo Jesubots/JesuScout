@@ -1,6 +1,6 @@
 var bg; // background color
 var btnSave, btnReset, btnReplay; // buttons
-var dc = new DragCircle(50, 50, 45, 45); // draggable circle
+var dc = new DragCircle(50, 50, 40, 40); // draggable circle
 
 // one and done
 function setup() {
