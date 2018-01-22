@@ -12,12 +12,13 @@
   --speed: 900ms;
 }
 html, body {
-  padding:0;
-  margin:0;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  width: 100%;
-  height: 100%;
-  overflow-x: hidden;
+  	padding:0;
+  	margin:0;
+  	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  	width: 100%;
+  	height: 100%;
+  	overflow-x: hidden;
+	justify-content: center;
 }
 h1 {
   font-size: 4rem;
@@ -130,7 +131,7 @@ h1 {
 	display: block;
   	position: absolute;
   	left: 50%;
-  	top: 85%;
+  	top: 88%;
   	height: 2.5rem;
   	padding-top: 1.3rem;
   	width: 15rem;
@@ -159,6 +160,12 @@ h1 {
 *******************/
 canvas {
 	border: solid black 3px;
+	position: relative;
+}
+#map-holder {
+	display: flex;
+	margin-left: 4%;
+	padding-top: 3%;
 }
 /*******************
 *** Form Sect ******
@@ -167,7 +174,7 @@ canvas {
 	display: inline-block;
 	position: absolute;
 	width: 100%;
-	top: 55%;
+	top: 59%;
 	height: 12rem;
 	border: 2px solid #d59563;
 	border-left: none;
