@@ -17,12 +17,12 @@ $(document).ready(function() {
 		var climbMech 	= document.getElementById('climbMech').value;
 		var winLoss	 	= document.getElementById('winLoss').value;
 		
-		console.log("Scouter Name: " + scoutName);
-		console.log("Match Number: " + matchNum);
-		console.log("Team Number: " + teamNum);
-		console.log(blocks);
-		console.log("Climbing Mech: " + climbMech);
-		console.log("Win or Loss: " + winLoss);
+		console.log("Scouter Name: " 	+ scoutName);
+		console.log("Match Number: " 	+ matchNum);
+		console.log("Team Number: " 	+ teamNum);
+		console.log("Climbing Mech: " 	+ climbMech);
+		console.log("Win or Loss: " 	+ winLoss);
+		console.log(JSON.stringify(blocks));
 	});
 });
 

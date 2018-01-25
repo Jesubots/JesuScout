@@ -4,7 +4,7 @@ var dc = new DragCircle(50, 50, 40, 40); // draggable circle
 
 // one and done
 function setup() {
-	var cnv = createCanvas(900, 372);
+	var cnv = createCanvas(910, 372);
 	cnv.parent('map-holder');
 	
 	bg = loadImage("../Assets/img/blankMap_overhead.png");
