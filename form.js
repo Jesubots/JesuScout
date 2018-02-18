@@ -14,8 +14,8 @@ $(document).ready(function() {
 		blocks.force		=	$("#force-count").val();
 		blocks.boost		=	$("#boost-count").val();
 		
-		var climbMech 	= document.getElementById('climbMech').value;
-		var winLoss	 	= document.getElementById('winLoss').value;
+		var climbMech 		= 	document.getElementById('climbMech').value;
+		var winLoss	 		= 	document.getElementById('winLoss').value;
 		
 		console.log("Scouter Name: " 	+ scoutName);
 		console.log("Match Number: " 	+ matchNum);
@@ -24,5 +24,12 @@ $(document).ready(function() {
 		console.log("Win or Loss: " 	+ winLoss);
 		console.log(JSON.stringify(blocks));
 	});
+	
+	$( "form" ).submit(function( event ) {
+  		console.log( $( this ).serializeArray() );
+  		event.preventDefault();
+	});
+	
 });
+
 
