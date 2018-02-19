@@ -25,6 +25,7 @@ $(document).ready(function() {
 		console.log(JSON.stringify(blocks));
 	});
 	
+	// object format
 	$( "form" ).submit(function( event ) {
   		console.log( $( this ).serializeArray() );
   		event.preventDefault();
