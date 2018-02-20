@@ -1,0 +1,23 @@
+TO DO's
+__________________________________
+
+Building MySQL DB
+	Finalize and Verify design/layout
+	Create visual and Code versions
+
+Figure out ajax issues 
+	how to send form data to DB / Servers page
+	create log of different types of errors that could occur
+
+Map Regions aspect
+	logistics / timeframe
+	creating regions
+	how to trigger them
+	how to USE the data / organize into useful data
+	
+________
+
+Start testing!
+	make sure the thing works
+	
+Gather materials
