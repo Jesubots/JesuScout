@@ -1,6 +1,6 @@
 
 $(function () {
-//cache table to DOM	(server.html)
+	//cache table to DOM	(server.html)
 	var $sumEnding			= $('#matchSummary');
 	
 	//cache form elements to DOM	(scouting.html)
@@ -18,18 +18,17 @@ $(function () {
 	
 	var matchTemplate = "" +
 		"<tr>"
-			"<th><strong>Scouter:</strong> {{Scouter}}</th>" +
-			"<th><strong>Match:</strong> {{Match}}</th>" +
-			"<th><strong>Match:</strong> {{Match}}</th>" +
-			"<th><strong>Team:</strong> {{Team}}</th>" +
-			"<th><strong>Red Switch Count:</strong> {{RedSwitch}}</th>" +
-			"<th><strong>Scale Count:</strong> {{Scale}}</th>" +
-			"<th><strong>Blue Switch Count:</strong> {{BlueSwitch}}</th>" +
-			"<th><strong>Levitate Count:</strong> {{Levitate}}</th>" +
-			"<th><strong>Force Count:</strong> {{Force}}</th>" +
-			"<th><strong>Boost Count:</strong> {{Boost}}</th>" +
-			"<th><strong>Climb Mechanism:</strong> {{ClimbMech}}</th>" +
-			"<th><strong>W/L:</strong> {{WinLoss}}</th>" +
+			"<td>{{Scouter}}</td>" +
+			"<td>{{Match}}</td>" +
+			"<td>{{Team}}</td>" +
+			"<td>{{RedSwitch}}</td>" +
+			"<td>{{Scale}}</td>" +
+			"<td>{{BlueSwitch}}</td>" +
+			"<td>{{Levitate}}</td>" +
+			"<td>{{Force}}</td>" +
+			"<td>{{Boost}}</td>" +
+			"<td>{{ClimbMech}}</td>" +
+			"<td>{WinLoss}}</td>" +
 		"</tr>";
 
 	function addMatch(matchSum) {
