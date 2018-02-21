@@ -35,7 +35,7 @@ $(document).ready(function() {
 
 
 // logger that prevents circular object reference in javascript
-var log = function(msg, obj) {
+var logg = function(msg, obj) {
     console.log('\n');
     if(obj) {
         try {
