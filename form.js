@@ -1,6 +1,7 @@
 $(document).ready(function() {
 	
 	var button = document.getElementById('manualScout');
+	
 	button.addEventListener("click", function () {
 		var scoutName = document.getElementById('scoutName').value;
 		var matchNum  = document.getElementById('matchNum').value;
@@ -17,24 +18,24 @@ $(document).ready(function() {
 		var climbMech 		= 	document.getElementById('climbMech').value;
 		var winLoss	 		= 	document.getElementById('winLoss').value;
 		
-		console.log("Scouter Name: " 	+ scoutName);
-		console.log("Match Number: " 	+ matchNum);
-		console.log("Team Number: " 	+ teamNum);
-		console.log("Climbing Mech: " 	+ climbMech);
-		console.log("Win or Loss: " 	+ winLoss);
-		console.log(JSON.stringify(blocks));
+		logg("Scouter Name: " 	+ scoutName);
+		logg("Match Number: " 	+ matchNum);
+		logg("Team Number: " 	+ teamNum);
+		logg("Climbing Mech: " 	+ climbMech);
+		logg("Win or Loss: " 	+ winLoss);
+		logg(JSON.stringify(blocks));
 	});
 	
 	// object format
 	$( "form" ).submit(function( event ) {
-  		console.log( $( this ).serializeArray() );
+  		logg( $( this ).serializeArray() );
   		event.preventDefault();
 	});
 	
 });
 
 
-// logger that prevents circular object reference in javascript
+// console log that prevents circular object reference in javascript
 var logg = function(msg, obj) {
     console.log('\n');
     if(obj) {

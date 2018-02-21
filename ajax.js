@@ -1,9 +1,9 @@
 
 $(function () {
-	//cache tablesetting to DOM
+//cache table to DOM	(server.html)
 	var $sumEnding			= $('#matchSummary');
 	
-	//cache form elements to DOM
+	//cache form elements to DOM	(scouting.html)
 	var $scouterName 		= $('#scoutName');
 	var $matchNumber 		= $('#matchNum');
 	var $teamNumber  		= $('#teamNum');
