@@ -1,13 +1,13 @@
 TO DO's
 __________________________________
 
+AJAX Things
+	****'POST' url...rest api needed?****
+	create log of different types of errors that could occur
+	
 Building MySQL DB
 	Finalize and Verify design/layout
 	Create visual and Code versions
-
-Figure out ajax issues 
-	how to send form data to DB / Servers page
-	create log of different types of errors that could occur
 
 Map Regions aspect
 	logistics / timeframe
