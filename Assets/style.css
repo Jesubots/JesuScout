@@ -239,3 +239,22 @@ canvas {
 	background: rgba(31,113,255, 0.3);
 	border: 1px solid #003ca2;
 }
+
+/*******************
+*** Servers Page ***
+*******************/
+
+table, tr, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th {
+	width: 130px;
+}
+td {
+	align-content: center;
+	text-align: center;
+}
+#matchSummary {
+	background: white;
+}

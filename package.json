@@ -1,0 +1,26 @@
+{
+  "name": "2018-scouting-system",
+  "version": "1.0.0",
+  "description": "Electronic FRC Scouting System for Data Entry and Storage",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesubots/2018-scouting-system.git"
+  },
+  "author": "Max Goeke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesubots/2018-scouting-system/issues"
+  },
+  "homepage": "https://github.com/Jesubots/2018-scouting-system#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-validator": "^5.0.1",
+    "http": "0.0.0",
+    "mongodb": "^3.0.2",
+    "socket.io": "^2.0.4"
+  }
+}

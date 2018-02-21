@@ -21,3 +21,16 @@ Start testing!
 	make sure the thing works
 	
 Gather materials
+
+*********
+2/21 ----
+*********
+
+we need a rest api
+Create node.js web server w/ express to create routes
+Connect ajax post/get with new routes
+incorporate websocket
+
+Create database
+
+

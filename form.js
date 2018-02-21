@@ -1,3 +1,4 @@
+
 $(document).ready(function() {
 	
 	var button = document.getElementById('manualScout');
