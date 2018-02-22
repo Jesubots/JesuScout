@@ -1,15 +1,27 @@
-var express 			= require('express');
+var fs					= require('fs'); // file systems
+var express 			= require('express'); // web server
 var expressValidator 	= require('express-validator');
-var http				= require('http');
-var mongo      			= require('mongodb').MongoClient;
+//var request				= require('request'); // http trafficer
+var http				= require('http'); // http protocol
+var mongodb      		= require('mongodb'); // MongoDB driver
+var bodyParser			= require('body-parser'); // http body parser
 var assert				= require('assert');
-//var socketio 			= require('socket.io')();
+var socketio 			= require('socket.io')();
 
-// web server
+var mongo 				= mongodb.MongoClient;
+var objectID			= mongodb.ObjectID;
+
 var app = express();
 var route = express.Router(); // add support for express routing
 var server = http.Server(app);
 //var io = socketio(server);
+
+app.use(express.static('./../'));
+app.use(express.static('./../Assets/'));
+app.get('/', function(req, res) {
+	res.sendFile('index.html');
+});
+app.listen(3000, () => logg('Example app listening on port 3000!'));
 
 // error handling middleware
 var errorHandler = function(err, req, res, next) {
@@ -23,10 +35,29 @@ var errorHandler = function(err, req, res, next) {
 };
 
 app.use(errorHandler);
-app.get('/', (req, res) => res.send('Hello World!'));
-app.listen(3000, () => logg('Example app listening on port 3000!'));
 
-// logger that prevents circular object reference in javascript
+/**
+ * Middleware:
+ * allows cross domain requests
+ * ends preflight checks
+ */
+function allowCrossDomain(req, res, next) {
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Methods', 'PUT, GET, POST, DELETE');
+    res.setHeader('Access-Control-Allow-Headers', 'Authorization');
+
+    // end pre flights
+    if (req.method === 'OPTIONS') {
+        res.writeHead(204);
+        res.end();
+    } else {
+        next();
+    }
+}
+
+/**
+ * Custom logger to prevent circular reference in JSON.parse(obj)
+ */
 var logg = function(msg, obj) {
     console.log('\n');
     if(obj) {
