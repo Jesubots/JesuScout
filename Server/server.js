@@ -21,7 +21,11 @@ app.use(express.static('./../Assets/'));
 app.get('/', function(req, res) {
 	res.sendFile('index.html');
 });
-app.listen(3000, () => logg('Example app listening on port 3000!'));
+app.listen(3000, () => logg('JesuScout listening on port 3000!'));
+
+// body parsing ensures req.body property
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: false }));
 
 // error handling middleware
 var errorHandler = function(err, req, res, next) {

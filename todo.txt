@@ -31,6 +31,6 @@ Create node.js web server w/ express to create routes
 Connect ajax post/get with new routes
 incorporate websocket
 
-Create database
+Create database	-->	MONGO
 
 
