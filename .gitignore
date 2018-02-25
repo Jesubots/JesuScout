@@ -1,10 +1,13 @@
 .gitignore
 
 ############################
-## GITIGNORE OSX STUFF 	  ##
+## GITIGNORE OS STUFF 	  ##
 ############################
 
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
 .git
 
 ############################
