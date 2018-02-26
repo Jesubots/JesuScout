@@ -1,4 +1,4 @@
-
+/*
 $(function () {
 	//cache table to DOM	(server.html)
 	var $sumEnding			= $('#matchSummary');
@@ -100,3 +100,4 @@ var logg = function(msg, obj) {
         console.log(msg);
     }
 };
+*/

@@ -14,7 +14,7 @@
 		<div id="map-holder"></div>
 		<div class="formSect">
 			<div class="manualForm">
-				<form class="formStuff" id="scoutForm">
+				<form action="/match" method="POST" class="formStuff" id="scoutForm">
 					Scouter Name:
 					<input type="text" name="scoutName" id="scoutName">
 					<div class="matchNum">
@@ -60,7 +60,7 @@
 						W/L:
 						<input type="text" name="winLoss" id="winLoss">
 					</div>
-					<input type="submit" id="manualScout" value="submit">
+					<button type="submit" id="manualScout">Submit</button>
 				</form>
 			</div>
 		</div>

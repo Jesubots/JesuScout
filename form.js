@@ -1,4 +1,4 @@
-
+/*
 $(document).ready(function() {
 	
 	var button = document.getElementById('manualScout');
@@ -62,5 +62,5 @@ var logg = function(msg, obj) {
         console.log(msg);
     }
 };
-
+*/
 
