@@ -17,14 +17,14 @@ var DB_NAME   = 'jesuscout';
 /**
  * MongoDB operations
  * connects to MongoDB and registers a series of asynchronous methods
- */
+ 
 mongo.connect(murl, function(err, db) {
 	assert.equal(null, err);
 	logg("Connected successfully to server");
 	
 	db.close;
 });
-
+*/
 var app = express();
 var route = express.Router(); // add support for express routing
 var server = http.Server(app);
