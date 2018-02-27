@@ -24,45 +24,45 @@ mongo.connect(murl, function(err, db) {
 	
 	const db = client.db(DB_NAME);
 	
-	Mongo.ops = {};
+	mongo.ops = {};
     
-    Mongo.ops.find = function(collection, json, callback) {
+    mongo.ops.find = function(collection, json, callback) {
         db.collection(collection).find(json).toArray(function(error, docs) {
             if(callback) callback(error, docs);
         });
     };
     
-    Mongo.ops.findOne = function(collection, json, callback) {
+    mongo.ops.findOne = function(collection, json, callback) {
         db.collection(collection).findOne(json, function(error, doc) {
             if(callback) callback(error, doc);
         });
     };
 
-    Mongo.ops.insert = function(collection, json, callback) {
+    mongo.ops.insert = function(collection, json, callback) {
         db.collection(collection).insert(json, function(error, result) {
             if(callback) callback(error, result);
         });
     };
 
-    Mongo.ops.upsert = function(collection, query, json, callback) {
+    mongo.ops.upsert = function(collection, query, json, callback) {
         db.collection(collection).updateOne(query, { $set: json }, { upsert: true }, function(error, result) {
             if (callback) callback(error, result);
         });
     };
     
-    Mongo.ops.updateOne = function(collection, query, json, callback) {
+    mongo.ops.updateOne = function(collection, query, json, callback) {
         db.collection(collection).updateOne(query, { $set : json }, function(error, result) {
             if(callback) callback(error, result);
         });
     };
     
-    Mongo.ops.deleteOne = function(collection, query, callback) {
+    mongo.ops.deleteOne = function(collection, query, callback) {
         db.collection(collection).deleteOne(query, function(error, result) {
             if(callback) callback(error, result);
         });
     };
     
-    Mongo.ops.deleteMany = function(collection, query, callback) {
+    mongo.ops.deleteMany = function(collection, query, callback) {
         db.collection(collection).deleteMany(query, function(error, result) {
             if(callback) callback(error, result);
         });
