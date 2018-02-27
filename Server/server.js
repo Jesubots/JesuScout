@@ -11,20 +11,20 @@ var mongo      			= require('mongodb').MongoClient, // MongoDB driver
 	assert				= require('assert'); // mongo
 var objectID			= mongo.ObjectID;
 
-var murl = 'mongodb://localhost:27017/data';
+var murl = 'mongodb://localhost:27017';
 var DB_NAME   = 'jesuscout';
 
 /**
  * MongoDB operations
  * connects to MongoDB and registers a series of asynchronous methods
- 
+ */
 mongo.connect(murl, function(err, db) {
 	assert.equal(null, err);
 	logg("Connected successfully to server");
 	
 	db.close;
 });
-*/
+
 var app = express();
 var route = express.Router(); // add support for express routing
 var server = http.Server(app);
@@ -48,6 +48,7 @@ app.listen(3000, function() {
 app.post('/match', function(req,res) {
 	logg('match posted successfully!');
 	logg(req.body);
+	res.send(req.body);
 });
 
 
