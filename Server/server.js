@@ -92,7 +92,17 @@ app.listen(3000, function() {
 app.post('/match', function(req,res) {
 	logg('match posted successfully!');
 	logg(req.body);
+	/*
+	var query = { id: req.body.winLoss };
+	db.ops.insert('winLoss', query, function(error, result) {
+		logg('/match req.body.winLoss = ', req.body.winLoss);
+		
+		if(error) res.status(500).send(error);
+        else res.status(201).send(result);
+	});
+	*/
 	res.send(req.body);
+	res.redirect('/');
 });
 
 

@@ -1,13 +1,19 @@
 TO DO's
 __________________________________
 
+*********
+Immediate ----
+*********
+
+Connect ajax post/get with new routes }
+incorporate websocket (socket.io)	  } connected?
+connect mongo to values being saved in form
+
+figure out process of downloading data...configuring in tableau
+________
+
 AJAX Things
-	****'POST' url...rest api needed?****
 	create log of different types of errors that could occur
-	
-Building MySQL DB
-	Finalize and Verify design/layout
-	Create visual and Code versions
 
 Map Regions aspect
 	logistics / timeframe
@@ -22,15 +28,5 @@ Start testing!
 	
 Gather materials
 
-*********
-2/21 ----
-*********
-
-we need a rest api
-Create node.js web server w/ express to create routes
-Connect ajax post/get with new routes
-incorporate websocket
-
-Create database	-->	MONGO
 
 
