@@ -10,9 +10,54 @@ var socketio 			= require('socket.io')();
 var mongo      			= require('mongodb').MongoClient, // MongoDB driver
 	assert				= require('assert'); // mongo
 var objectID			= mongo.ObjectID;
+var mongoose = require('mongoose');
 
 var murl = 'mongodb://localhost:27017';
 var DB_NAME   = 'jesuscout';
+
+//load files in DB dir
+fs.readdirSync(__dirname + '/DB').forEach(function(filename) {
+	if (~filename.indexOf('js')) require(__dirname + '/DB/' + filename)
+});
+
+var app = express();
+var route = express.Router(); // add support for express routing
+var server = http.Server(app);
+//var io = socketio(server);
+
+app.use(express.static('./../'));
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(errorHandler);
+app.use(allowCrossDomain);
+
+app.get('/', function(req, res) {
+	res.sendFile(__dirname + '/index.html');
+});
+app.listen(3000, function() {
+	logg('listening on port 3000');
+});
+
+
+/*************
+*************/
+app.post('/match', function(req,res) {
+	logg('match posted successfully!');
+	logg(req.body);
+	
+	var query = { id: req.body.winLoss };
+	mongo.ops.insert('winLoss', query, function(error, result) {
+		logg('/match req.body.winLoss = ', req.body.winLoss);
+		
+		//if(error) res.status(500).send(error);
+        //else res.status(201).send(result);
+	});
+	
+	res.send(req.body);
+	res.redirect('/');
+	
+	db.close();
+});
 
 /**
  * MongoDB operations
@@ -69,53 +114,7 @@ mongo.connect(murl, function(err, client) {
     };
 });
 
-var app = express();
-var route = express.Router(); // add support for express routing
-var server = http.Server(app);
-//var io = socketio(server);
 
-app.use(express.static('./../'));
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
-app.use(errorHandler);
-app.use(allowCrossDomain);
-
-app.get('/', function(req, res) {
-	res.sendFile(__dirname + '/index.html');
-});
-app.listen(3000, function() {
-	logg('listening on port 3000');
-});
-
-/*************
-*************/
-app.post('/match', function(req,res) {
-	logg('match posted successfully!');
-	logg(req.body);
-	
-	var query = { id: req.body.winLoss };
-	mongo.ops.insert('winLoss', query, function(error, result) {
-		logg('/match req.body.winLoss = ', req.body.winLoss);
-		
-		if(error) res.status(500).send(error);
-        else res.status(201).send(result);
-	});
-	
-	res.send(req.body);
-	res.redirect('/');
-});
-
-
-// error handling middleware
-function errorHandler(err, req, res, next) {
-    if(err.status) {
-        res.status(err.status);
-    } else {
-        res.status(500);
-    }
-    res.render('error', { error : err });
-    next(err);
-};
 
 /**
  * Middleware:
@@ -135,6 +134,16 @@ function allowCrossDomain(req, res, next) {
         next();
     }
 }
+// error handling middleware
+function errorHandler(err, req, res, next) {
+    if(err.status) {
+        res.status(err.status);
+    } else {
+        res.status(500);
+    }
+    res.render('error', { error : err });
+    next(err);
+};
 
 /**
  * Custom logger to prevent circular reference in JSON.parse(obj)
