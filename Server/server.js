@@ -1,24 +1,21 @@
-var fs					= require('fs'); // file systems
+var fs				= require('fs'); // file systems
 var express 			= require('express'); // web server
-var expressValidator 	= require('express-validator');
-//var request				= require('request'); // http trafficer
-var http				= require('http'); // http protocol
+var expressValidator 		= require('express-validator');
+//var request			= require('request'); // http trafficer
+var http			= require('http'); // http protocol
 var bodyParser			= require('body-parser'); // http body parser
-var assert				= require('assert');
+var assert			= require('assert');
 var socketio 			= require('socket.io')();
 
 var mongo      			= require('mongodb').MongoClient, // MongoDB driver
-	assert				= require('assert'); // mongo
+	assert			= require('assert'); // mongo
 var objectID			= mongo.ObjectID;
-var mongoose = require('mongoose');
+var mongoose 			= require('mongoose');
 
 var murl = 'mongodb://localhost:27017';
 var DB_NAME   = 'jesuscout';
 
-//load files in DB dir
-fs.readdirSync(__dirname + '/DB').forEach(function(filename) {
-	if (~filename.indexOf('js')) require(__dirname + '/DB/' + filename)
-});
+Matches = require('./../DB/models/matches.js');
 
 var app = express();
 var route = express.Router(); // add support for express routing
@@ -26,11 +23,11 @@ var route = express.Router(); // add support for express routing
 app.use(express.static('./../'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
-app.use(errorHandler);
-app.use(allowCrossDomain);
+//app.use(errorHandler);
+//app.use(allowCrossDomain);
 
-mongoose.connect('mongodb://localhost/jesuScout');
-var database = mongo.connection;
+mongoose.connect('mongodb://localhost/jesuscout');
+var database = mongoose.connection;
 
 /*************
 *************/
@@ -41,7 +38,7 @@ app.get('/', function(req, res) {
 app.listen(3000, function() {
 	logg('listening on port 3000');
 });
-
+/*
 app.post('/match', function(req,res) {
 	logg('match posted successfully!');
 	logg(req.body);
@@ -59,9 +56,14 @@ app.post('/match', function(req,res) {
 	
 	db.close();
 });
-
+*/
 app.get('/api/HeartlandMatches', function(req, res) {
-	
+	Matches.getMatches(function(err, matches) {
+		if(err) {
+			throw err;
+		}
+		res.json(matches);
+	});
 });
 
 /**
@@ -120,35 +122,6 @@ mongo.connect(murl, function(err, client) {
 });
  */
 
-
-/**
- * Middleware:
- * allows cross domain requests
- * ends preflight checks
- */
-function allowCrossDomain(req, res, next) {
-    res.setHeader('Access-Control-Allow-Origin', '*');
-    res.setHeader('Access-Control-Allow-Methods', 'PUT, GET, POST, DELETE');
-    res.setHeader('Access-Control-Allow-Headers', 'Authorization');
-
-    // end pre flights
-    if (req.method === 'OPTIONS') {
-        res.writeHead(204);
-        res.end();
-    } else {
-        next();
-    }
-}
-// error handling middleware
-function errorHandler(err, req, res, next) {
-    if(err.status) {
-        res.status(err.status);
-    } else {
-        res.status(500);
-    }
-    res.render('error', { error : err });
-    next(err);
-};
 
 /**
  * Custom logger to prevent circular reference in JSON.parse(obj)

@@ -3,15 +3,16 @@
 help							# show command options
 
 show dbs						# show existing DBs
-show collections				# show collections in current DB
+show collections					# show collections in current DB
 
-db								# display database you're using
+db							# display database you're using
 use jesuscout					# switch to database jesuscout
 
-db.collection.drop()			# remove collection
-db.createCollection('')			# create collection
+db.collection.drop()				# remove collection
+db.createCollection('')				# create collection
 
-db.collection.insert({name:'val'})	# insert to collection
+db.collection.insert({name:'val'})		# insert to collection
 db.collection.find()				#list collection contents
+db.collection.find().pretty()				#pretty object view 
 
-~/.dbshell						# access command history
+~/.dbshell					# access command history

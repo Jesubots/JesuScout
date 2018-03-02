@@ -13,8 +13,9 @@ var matchSchema = new Schema({
 	forceCount: Number,
 	boostCount: Number,
 	climbMech: String,
-	winLoss: String
+	winLoss: String,
 });
+
 
 var scoutName 		= module.exports = mongoose.model('scoutName', matchSchema);
 var matchNum 		= module.exports = mongoose.model('matchNum', matchSchema);
@@ -28,3 +29,16 @@ var boostCount 		= module.exports = mongoose.model('boostCount', matchSchema);
 var climbMech 		= module.exports = mongoose.model('climbMech', matchSchema);
 var winLoss 		= module.exports = mongoose.model('winLoss', matchSchema);
 
+// Get Matches
+module.exports.getMatches = function(callback, limit) {
+	scoutName.find(callback).limit(limit);
+	matchNum.find(callback).limit(limit); 		
+	teamNum.find(callback).limit(limit);		
+	redSwitchCount.find(callback).limit(limit); 	
+	scaleCount.find(callback).limit(limit); 		
+	blueSwitchCount.find(callback).limit(limit); 
+	forceCount.find(callback).limit(limit);
+	boostCount.find(callback).limit(limit);		
+	climbMech.find(callback).limit(limit); 		
+	winLoss.find(callback).limit(limit); 		
+}
