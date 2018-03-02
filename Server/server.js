@@ -22,14 +22,18 @@ fs.readdirSync(__dirname + '/DB').forEach(function(filename) {
 
 var app = express();
 var route = express.Router(); // add support for express routing
-var server = http.Server(app);
-//var io = socketio(server);
 
 app.use(express.static('./../'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(errorHandler);
 app.use(allowCrossDomain);
+
+mongoose.connect('mongodb://localhost/jesuScout');
+var database = mongo.connection;
+
+/*************
+*************/
 
 app.get('/', function(req, res) {
 	res.sendFile(__dirname + '/index.html');
@@ -38,9 +42,6 @@ app.listen(3000, function() {
 	logg('listening on port 3000');
 });
 
-
-/*************
-*************/
 app.post('/match', function(req,res) {
 	logg('match posted successfully!');
 	logg(req.body);
@@ -59,10 +60,14 @@ app.post('/match', function(req,res) {
 	db.close();
 });
 
+app.get('/api/HeartlandMatches', function(req, res) {
+	
+});
+
 /**
  * MongoDB operations
  * connects to MongoDB and registers a series of asynchronous methods
- */
+
 mongo.connect(murl, function(err, client) {
 	assert.equal(null, err);
 	logg("Connected successfully to server");
@@ -113,7 +118,7 @@ mongo.connect(murl, function(err, client) {
         });
     };
 });
-
+ */
 
 
 /**
