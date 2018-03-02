@@ -57,6 +57,8 @@ app.post('/match', function(req,res) {
 	db.close();
 });
 */
+//old
+/*
 app.get('/api/HeartlandMatches', function(req, res) {
 	Matches.getMatches(function(err, matches) {
 		if(err) {
@@ -64,6 +66,22 @@ app.get('/api/HeartlandMatches', function(req, res) {
 		}
 		res.json(matches);
 	});
+});
+*/
+
+app.get('/api/HeartlandMatches', function(req, res) {
+    var once = true;
+    Matches.getMatches(function(err, matches) {
+        if(err) {
+            throw err;
+        } else {
+            logg('callback');
+            if(once) {
+                once = false;
+                res.json(matches);
+            }
+        }
+    });
 });
 
 /**

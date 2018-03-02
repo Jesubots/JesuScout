@@ -19,10 +19,10 @@ var matchSchema = new Schema({
 
 var scoutName 		= module.exports = mongoose.model('scoutName', matchSchema);
 var matchNum 		= module.exports = mongoose.model('matchNum', matchSchema);
-var teamNum			= module.exports = mongoose.model('teamNum', matchSchema);
+var teamNum		= module.exports = mongoose.model('teamNum', matchSchema);
 var redSwitchCount 	= module.exports = mongoose.model('redSwitchCount', matchSchema);
 var scaleCount 		= module.exports = mongoose.model('scaleCount', matchSchema);
-var blueSwitchCount = module.exports = mongoose.model('blueSwitchCount', matchSchema);
+var blueSwitchCount 	= module.exports = mongoose.model('blueSwitchCount', matchSchema);
 var levitateCount	= module.exports = mongoose.model('levitateCount', matchSchema);
 var forceCount 		= module.exports = mongoose.model('forceCount', matchSchema);
 var boostCount 		= module.exports = mongoose.model('boostCount', matchSchema);
