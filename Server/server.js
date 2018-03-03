@@ -15,22 +15,14 @@ var mongoose 			= require('mongoose');
 var murl = 'mongodb://localhost:27017';
 var DB_NAME   = 'jesuscout';
 
-Matches = require('./../DB/models/matches.js');
+//Matches = require('./../DB/models/matches.js');
 
 var app = express();
-var route = express.Router(); // add support for express routing
+var router = express.Router(); // add support for express routing
 
 app.use(express.static('./../'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
-
-mongoose.connect('mongodb://localhost/jesuscout');
-mongoose.Promise = global.Promise;
-var database = mongoose.connection;
-db.on('error', console.error.bind(console, 'connection error:'));
-db.once('open', function() {
-	logg('Successfully connected to database!');
-});
 
 /*************
 	Routes
@@ -62,36 +54,20 @@ app.post('/match', function(req,res) {
 });
 */
 //old
-/*
-app.get('/api/HeartlandMatches', function(req, res) {
-	Matches.getMatches(function(err, matches) {
-		if(err) {
-			throw err;
-		}
-		res.json(matches);
-	});
-});
-*/
 
 app.get('/api/HeartlandMatches', function(req, res) {
-    var once = true;
-    Matches.getMatches(function(err, matches) {
-        if(err) {
-            throw err;
-        } else {
-            logg('callback');
-            if(once) {
-                once = false;
-                res.json(matches);
-            }
-        }
-    });
+	var name = '';
+	mongo.ops.find('HeartlandMatches', req.body, function(error, docs) {
+		logg('get /HeartlandMatches = ' + JSON.stringify(req.body)); //not logging?
+		if(error) res.status(500).send(error);
+		else res.status(200).send(docs);
+	});
 });
 
 /**
  * MongoDB operations
  * connects to MongoDB and registers a series of asynchronous methods
-
+ */
 mongo.connect(murl, function(err, client) {
 	assert.equal(null, err);
 	logg("Connected successfully to server");
@@ -142,7 +118,7 @@ mongo.connect(murl, function(err, client) {
         });
     };
 });
- */
+
 
 
 /**
