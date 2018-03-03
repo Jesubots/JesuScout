@@ -23,13 +23,17 @@ var route = express.Router(); // add support for express routing
 app.use(express.static('./../'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
-//app.use(errorHandler);
-//app.use(allowCrossDomain);
 
 mongoose.connect('mongodb://localhost/jesuscout');
+mongoose.Promise = global.Promise;
 var database = mongoose.connection;
+db.on('error', console.error.bind(console, 'connection error:'));
+db.once('open', function() {
+	logg('Successfully connected to database!');
+});
 
 /*************
+	Routes
 *************/
 
 app.get('/', function(req, res) {
