@@ -12,7 +12,10 @@ db.collection.drop()				# remove collection
 db.createCollection('')				# create collection
 
 db.collection.insert({name:'val'})		# insert to collection
-db.collection.find()				#list collection contents
-db.collection.find().pretty()				#pretty object view 
+db.collection.find()				# list collection contents
+db.collection.find().pretty()				# pretty object view
+
+db.collection.remove({})			# remove all documents in a collection
+db.collection.remove({type:"x"})		# remove documents with specific type
 
 ~/.dbshell					# access command history

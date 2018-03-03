@@ -10,12 +10,9 @@ var socketio 			= require('socket.io')();
 var mongo      			= require('mongodb').MongoClient, // MongoDB driver
 	assert			= require('assert'); // mongo
 var objectID			= mongo.ObjectID;
-var mongoose 			= require('mongoose');
 
 var murl = 'mongodb://localhost:27017';
 var DB_NAME   = 'jesuscout';
-
-//Matches = require('./../DB/models/matches.js');
 
 var app = express();
 var router = express.Router(); // add support for express routing
@@ -34,33 +31,21 @@ app.get('/', function(req, res) {
 app.listen(3000, function() {
 	logg('listening on port 3000');
 });
-/*
+
 app.post('/match', function(req,res) {
-	logg('match posted successfully!');
-	logg(req.body);
-	
-	var query = { id: req.body.winLoss };
-	mongo.ops.insert('winLoss', query, function(error, result) {
-		logg('/match req.body.winLoss = ', req.body.winLoss);
+	mongo.ops.insert('HeartlandMatches', req.body, function(error, result) {
+		logg('/match req.body = ', req.body);
 		
-		//if(error) res.status(500).send(error);
-        //else res.status(201).send(result);
+		if(error) res.status(500).send(error);
+        else res.status(201).send(result);
 	});
-	
-	res.send(req.body);
-	res.redirect('/');
-	
-	db.close();
 });
-*/
-//old
 
 app.get('/api/HeartlandMatches', function(req, res) {
-	var name = '';
-	mongo.ops.find('HeartlandMatches', req.body, function(error, docs) {
+	mongo.ops.find('HeartlandMatches', req.body, function(error, result) {
 		logg('get /HeartlandMatches = ' + JSON.stringify(req.body)); //not logging?
 		if(error) res.status(500).send(error);
-		else res.status(200).send(docs);
+		else res.status(200).send(result);
 	});
 });
 
@@ -70,7 +55,7 @@ app.get('/api/HeartlandMatches', function(req, res) {
  */
 mongo.connect(murl, function(err, client) {
 	assert.equal(null, err);
-	logg("Connected successfully to server");
+	logg("Successfully connected to database");
 	
 	const db = client.db(DB_NAME);
 	
