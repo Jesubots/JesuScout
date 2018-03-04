@@ -258,3 +258,15 @@ td {
 #matchSummary {
 	background: white;
 }
+#loadMtch {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 40px;
+}
+#loadMtch li {
+	padding: 5px 10px;
+}
+#loadMtch li:nth-child(odd) {
+	background: #eee;
+}

@@ -4,8 +4,8 @@
   "description": "Electronic FRC Scouting System for Data Entry and Storage",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon Server/server.js"
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js"
   },
   "repository": {
     "type": "git",
