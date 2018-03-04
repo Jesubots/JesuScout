@@ -213,6 +213,18 @@
 			
 			FIRST Champs - Houston				April 18 - 21
 			
+			
+	Completed Regionals:
+	
+			Team Titanium / 1986
+				Great Northern Regional
+				lines 480-500
+			The Core / 2164
+				Dallas Regional
+				lines 539-558
+			Commandobots / 5889
+				Dallas Regional
+				lines 859-880
 ***********************
 ***********************		
 **********************/
@@ -473,6 +485,16 @@
 		"Great Northern Regional",
 		"Seven Rivers Regional"
 	},
+	"Great-Northern-Regional-RESULTS": {
+		"2-9",					//quals record
+		"46",					//rank (47 tot)
+		"0.81",					//ranking score
+		"420",					//Park/Climb Pts
+		"200",					//auto points
+		"1843",					//ownership
+		"210",					//vault
+		"9",					//total ranking pts
+	},
 	"past-competitions": "none",
 	"2017-record": "78-17-0"
 } 			// feb 28
@@ -520,6 +542,16 @@
 	"upcoming-competitions": {
 		"Greater Kansas City Regional",
 		"Dallas Regional"
+	},
+	"Dallas-Regional-RESULTS": {
+		"4-5",					//quals record
+		"37",					//rank
+		"1.22",					//ranking score
+		"275",					//Park/Climb Pts
+		"180",					//auto points
+		"1266",					//ownership
+		"175",					//vault
+		"11",					//total ranking pts
 	},
 	"past-competitions": "none",
 	"2017-record": "25-19-2"
@@ -830,6 +862,18 @@
 	"upcoming-competitions": {
 		"Greater Kansas City Regional",
 		"Dallas Regional"
+	},
+	"Dallas-Regional-RESULTS": {
+		"7-2",					//quals record
+		"11",					//rank
+		"1.88",					//ranking score
+		"235",					//Park/Climb Pts
+		"191",					//auto points
+		"1786",					//ownership
+		"180",					//vault
+		"17",					//total ranking pts
+		"alliance-captain-7",
+		"1-2"					//playoff record
 	},
 	"past-competitions": "none",
 	"2017-record": "14-15-0"
