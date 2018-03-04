@@ -5,15 +5,16 @@ __________________________________
 Immediate ----
 *********
 
-Connect ajax post/get with new routes }
 incorporate websocket (socket.io)	  } connected?
-connect mongo to values being saved in form
+figure out process of downloading data...
+configure data in tableau
 
-figure out process of downloading data...configuring in tableau
+purchase switch & necessary materials
+
+finish readme
 ________
 
-AJAX Things
-	create log of different types of errors that could occur
+LONG TERM
 
 Map Regions aspect
 	logistics / timeframe
@@ -24,9 +25,7 @@ Map Regions aspect
 ________
 
 Start testing!
-	make sure the thing works
+	make sure the thing works with 6 + users connected
 	
-Gather materials
-
 
 
