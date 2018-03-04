@@ -14,9 +14,10 @@ var murl = 'mongodb://localhost:27017/jesuscout';
 var DB_NAME   = 'jesuscout';
 
 var app = express();
-var server = http.createServer(app);
-var io = require('socket.io')(server);
 var router = express.Router(); // add support for express routing
+
+var server = http.createServer(app);
+//var io = require('socket.io')(server);
 
 app.use(express.static('./../'));
 app.use(bodyParser.json());
@@ -29,6 +30,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.get('/', function(req, res) {
 	res.sendFile(__dirname + '/index.html');
 });
+
 //NOT YET
 /*
 // connect to socket.io
@@ -40,6 +42,7 @@ io.on('connection', function(socket){
 	});
 });
 */
+
 server.listen(3000, function() {
 	console.log('listening on port 3000');
 });
@@ -56,6 +59,7 @@ app.post('/match', function(req,res) {
 app.get('/api/HeartlandMatches', function(req, res) {
 	mongo.ops.find('HeartlandMatches', req.body, function(error, result) {
 		logg('/HeartlandMatches req.body = ', req.body); //not logging?
+		
 		if(error) res.status(500).send(error);
 		else res.status(200).send(result);
 	});
