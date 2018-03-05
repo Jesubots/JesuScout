@@ -5,94 +5,94 @@
 	"competition": "Heartland Regional 2018",
 	"totalTeams": 43,
 	"teamNums": {
-		"935",
-		"938",
-		"967",
-		"1108",
-		"1710",
-		"1723",
-		"1730",
-		"1769",
-		"1777",
-		"1785",
-		"1806",
-		"1810",
-		"1847",
-		"1939",
-		"1982",
-		"1984",
-		"1994",
-		"1997",
-		"2001",
-		"2167",
-		"2353",
-		"2410",
-		"2457",
-		"2765",
-		"3184",
-		"4388",
-		"4455",
-		"4499",
-		"4522",
-		"4646",
-		"4786",
-		"4959",
-		"5082",
-		"5119",
-		"5268",
-		"5809",
-		"5918",
-		"6317",
-		"6359",
-		"6420",
-		"6424",
-		"6843",
-		"6886"
+		"1":"935",
+		"2":"938",
+		"3":"967",
+		"4":"1108",
+		"5":"1710",
+		"6":"1723",
+		"7":"1730",
+		"8":"1769",
+		"9":"1777",
+		"10":"1785",
+		"11":"1806",
+		"12":"1810",
+		"13":"1847",
+		"14":"1939",
+		"15":"1982",
+		"16":"1984",
+		"17":"1994",
+		"18":"1997",
+		"19":"2001",
+		"20":"2167",
+		"21":"2353",
+		"22":"2410",
+		"23":"2457",
+		"24":"2765",
+		"25":"3184",
+		"26":"4388",
+		"27":"4455",
+		"28":"4499",
+		"29":"4522",
+		"30":"4646",
+		"31":"4786",
+		"32":"4959",
+		"33":"5082",
+		"34":"5119",
+		"35":"5268",
+		"36":"5809",
+		"37":"5918",
+		"38":"6317",
+		"39":"6359",
+		"40":"6420",
+		"41":"6424",
+		"42":"6843",
+		"43":"6886"
 	},
 	"teamNames": {
-		"RaileRobotics",
-		"Code Gold",
-		"Iron Lions",
-		"Panther Robotics",
-		"The Ravonics Revolution",
-		"The FBI",
-		"Team Driven",
-		"Digital Hawks",
-		"Viking Robotics",
-		"Blue Springs Robocats",
-		"S.W.A.T.",
-		"Jaguar Robotics",
-		"W.R.A.T.H",
-		"The Kuhnigits",
-		"Cougar Robotics",
-		"Jawas",
-		"Quixote",
-		"Stag Robotics",
-		"HERMES",
-		"Radical Tech",
-		"The Legion",
-		"Blue Valley CAPS Metal Mustang Robotics",
-		"The Law",
-		"Radioactive Robotics",
-		"Blaze Robotics",
-		"Ridgebotics",
-		"The Burger Bots",
-		"The Highlanders",
-		"Team SCREAM",
-		"Team ASAP",
-		"Nicolet FEAR",
-		"Millennium Falcons",
-		"Northmen Robotics",
-		"Team STEAM",
-		"The BioMech Falcons",
-		"The Jesubots",
-		"Pumatron",
-		"Disruptive Innovation",
-		"TechKnow Difficulties",
-		"Fire Island Robotics",
-		"Stealth Panther Robotics",
-		"Guardian Gears",
-		"Synthesizers"
+		"1":"RaileRobotics",
+		"2":"Code Gold",
+		"3":"Iron Lions",
+		"4":"Panther Robotics",
+		"5":"The Ravonics Revolution",
+		"6":"The FBI",
+		"7":"Team Driven",
+		"8":"Digital Hawks",
+		"9":"Viking Robotics",
+		"10":"Blue Springs Robocats",
+		"11":"S.W.A.T.",
+		"12":"Jaguar Robotics",
+		"13":"W.R.A.T.H",
+		"14":"The Kuhnigits",
+		"15":"Cougar Robotics",
+		"16":"Jawas",
+		"17":"Quixote",
+		"18":"Stag Robotics",
+		"19":"HERMES",
+		"20":"Radical Tech",
+		"21":"The Legion",
+		"22":"Blue Valley CAPS Metal Mustang Robotics",
+		"23":"The Law",
+		"24":"Radioactive Robotics",
+		"25":"Blaze Robotics",
+		"26":"Ridgebotics",
+		"27":"The Burger Bots",
+		"28":"The Highlanders",
+		"29":"Team SCREAM",
+		"30":"Team ASAP",
+		"31":"Nicolet FEAR",
+		"32":"Millennium Falcons",
+		"33":"Northmen Robotics",
+		"34":"Team STEAM",
+		"35":"The BioMech Falcons",
+		"36":"The Jesubots",
+		"37":"Pumatron",
+		"38":"Disruptive Innovation",
+		"39":"TechKnow Difficulties",
+		"40":"Fire Island Robotics",
+		"41":"Stealth Panther Robotics",
+		"42":"Guardian Gears",
+		"43":"Synthesizers"
 	},
 	"eventPage": "https://www.thebluealliance.com/event/2018mokc2"
 }
@@ -102,92 +102,92 @@
 	"competition": "Greater Kansas City Regional 2018",
 	"totalTeams": 42,
 	"teamNums": {
-		"932",
-		"935",
-		"937",
-		"938",
-		"1288",
-		"1723",
-		"1737",
-		"1763",
-		"1764",
-		"1775",
-		"1802",
-		"1825",
-		"1827",
-		"1986",
-		"1987",
-		"1997",
-		"2164",
-		"2345",
-		"2352",
-		"2357",
-		"2457",
-		"2560",
-		"2874",
-		"3172",
-		"3284",
-		"4809",
-		"5013",
-		"5082",
-		"5098",
-		"5126",
-		"5141",
-		"5189",
-		"5801",
-		"5809",
-		"5889",
-		"5968",
-		"6452",
-		"6805",
-		"6817",
-		"6886",
-		"6976",
-		"7064"
+		"1":"932",
+		"2":"935",
+		"3":"937",
+		"4":"938",
+		"5":"1288",
+		"6":"1723",
+		"7":"1737",
+		"8":"1763",
+		"9":"1764",
+		"10":"1775",
+		"11":"1802",
+		"12":"1825",
+		"13":"1827",
+		"14":"1986",
+		"15":"1987",
+		"16":"1997",
+		"17":"2164",
+		"18":"2345",
+		"19":"2352",
+		"20":"2357",
+		"21":"2457",
+		"22":"2560",
+		"23":"2874",
+		"24":"3172",
+		"25":"3284",
+		"26":"4809",
+		"27":"5013",
+		"28":"5082",
+		"29":"5098",
+		"30":"5126",
+		"31":"5141",
+		"32":"5189",
+		"33":"5801",
+		"34":"5809",
+		"35":"5889",
+		"36":"5968",
+		"37":"6452",
+		"38":"6805",
+		"39":"6817",
+		"40":"6886",
+		"41":"6976",
+		"42":"7064"
 	},
 	"teamNames": {
-		"Circuit Chargers",
-		"RaileRobotics",
-		"Robo Tribe",
-		"Code Gold",
-		"RAVEN Robotics",
-		"The FBI",
-		"Project X",
-		"Paseliens",
-		"Liberty Robotics",
-		"Tigerbytes",
-		"Team Stealth",
-		"The Cyborgs",
-		"The HIVE",
-		"Team Titanium",
-		"Broncobots",
-		"Stag Robotics",
-		"The Core",
-		"Animal Control",
-		"Metal Mayhem",
-		"System Meltdown",
-		"The Law",
-		"RoboDog",
-		"Iron Eagles",
-		"HorsePOWER",
-		"Camdenton LASER",
-		"Black Knight Robotics",
-		"Trobots",
-		"Northmen Robotics",
-		"STING - R",
-		"Electromagnetic Panthers",
-		"GRIFFINITE",
-		"SABRE",
-		"CTC Inspire",
-		"The Jesubots",
-		"Commandobots",
-		"Cyborg Indians",
-		"Technomancers",
-		"Cyber Jays",
-		"10 Factorial",
-		"Synthesizers",
-		"Electric Eagles",
-		"Voltron Robotics"
+		"1":"Circuit Chargers",
+		"2":"RaileRobotics",
+		"3":"Robo Tribe",
+		"4":"Code Gold",
+		"5":"RAVEN Robotics",
+		"6":"The FBI",
+		"7":"Project X",
+		"8":"Paseliens",
+		"9":"Liberty Robotics",
+		"10":"Tigerbytes",
+		"11":"Team Stealth",
+		"12":"The Cyborgs",
+		"13":"The HIVE",
+		"14":"Team Titanium",
+		"15":"Broncobots",
+		"16":"Stag Robotics",
+		"17":"The Core",
+		"18":"Animal Control",
+		"19":"Metal Mayhem",
+		"20":"System Meltdown",
+		"21":"The Law",
+		"22":"RoboDog",
+		"23":"Iron Eagles",
+		"24":"HorsePOWER",
+		"25":"Camdenton LASER",
+		"26":"Black Knight Robotics",
+		"27":"Trobots",
+		"28":"Northmen Robotics",
+		"29":"STING - R",
+		"30":"Electromagnetic Panthers",
+		"31":"GRIFFINITE",
+		"32":"SABRE",
+		"33":"CTC Inspire",
+		"34":"The Jesubots",
+		"35":"Commandobots",
+		"36":"Cyborg Indians",
+		"37":"Technomancers",
+		"38":"Cyber Jays",
+		"39":"10 Factorial",
+		"40":"Synthesizers",
+		"41":"Electric Eagles",
+		"42":"Voltron Robotics"
 	},
 	"eventPage": "https://www.thebluealliance.com/event/2018mokc"
 }
@@ -208,7 +208,7 @@
 			Greater Pittsburgh Regional			March 21 - 24
 			Oklahoma Regional				March 28 - 31
 			Medtronic Foundation Regional			March 28 - 31
-			Midwest Regional					April 4 - 7
+			Midwest Regional				April 4 - 7
 			Seven Rivers Regional				April 4 - 7
 			
 			FIRST Champs - Houston				April 18 - 21
@@ -232,8 +232,8 @@
 	"teamNum": 932,
 	"teamName": "Circuit Chargers",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"Oklahoma Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"Oklahoma Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "21-16-1"
@@ -242,8 +242,8 @@
 	"teamNum": 935,
 	"teamName": "RaileRobotics",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Greater Kansas City Regional"
+		"1":"Heartland Regional",
+		"2":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "28-17-1"
@@ -252,7 +252,7 @@
 	"teamNum": 937,
 	"teamName": "Robo Tribe",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional"
+		"1":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "1-8-0"
@@ -261,8 +261,8 @@
 	"teamNum": 938,
 	"teamName": "Code Gold",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Greater Kansas City Regional"
+		"1":"Heartland Regional",
+		"2":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "6-12-0"
@@ -271,8 +271,8 @@
 	"teamNum": 967,
 	"teamName": "Iron Lions",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Iowa Regional"
+		"1":"Heartland Regional",
+		"2":"Iowa Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "10-12-1"
@@ -281,8 +281,8 @@
 	"teamNum": 1108,
 	"teamName": "Panther Robotics",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Wisconsin Regional"
+		"1":"Heartland Regional",
+		"2":"Wisconsin Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "13-16-0"
@@ -291,8 +291,8 @@
 	"teamNum": 1288,
 	"teamName": "RAVEN Robotics",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"St. Louis Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"St. Louis Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "17-21-0"
@@ -301,8 +301,8 @@
 	"teamNum": 1710,
 	"teamName": "The Ravonics Revolution",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Iowa Regional"
+		"1":"Heartland Regional",
+		"2":"Iowa Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "34-24-2"
@@ -311,8 +311,8 @@
 	"teamNum": 1723,
 	"teamName": "The FBI",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Greater Kansas City Regional"
+		"1":"Heartland Regional",
+		"2":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "16-18-0"
@@ -321,8 +321,8 @@
 	"teamNum": 1730,
 	"teamName": "Team Driven",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Colorado Regional"
+		"1":"Heartland Regional",
+		"2":"Colorado Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "28-19-0"
@@ -331,7 +331,7 @@
 	"teamNum": 1737,
 	"teamName": "Project X",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional"
+		"1":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "5-4-0"
@@ -340,7 +340,7 @@
 	"teamNum": 1763,
 	"teamName": "Paseliens",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional"
+		"1":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "10-10-0"
@@ -349,8 +349,8 @@
 	"teamNum": 1764,
 	"teamName": "Liberty Robotics",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"Arkansas Rock City Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"Arkansas Rock City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "11-15-0"
@@ -359,7 +359,7 @@
 	"teamNum": 1769,
 	"teamName": "Digital Hawks",
 	"upcoming-competitions": {
-		"Heartland Regional"
+		"1":"Heartland Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "9-10-0"
@@ -368,8 +368,8 @@
 	"teamNum": 1775,
 	"teamName": "Tigerbytes",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"Seven Rivers Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"Seven Rivers Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "18-15-1"
@@ -378,7 +378,7 @@
 	"teamNum": 1777,
 	"teamName": "Viking Robotics",
 	"upcoming-competitions": {
-		"Heartland Regional"
+		"1":"Heartland Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "9-9-0"
@@ -387,8 +387,8 @@
 	"teamNum": 1785,
 	"teamName": "Blue Springs Robocats",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Oklahoma Regional"
+		"1":"Heartland Regional",
+		"2":"Oklahoma Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "7-19-0"
@@ -397,7 +397,7 @@
 	"teamNum": 1802,
 	"teamName": "Team Stealth",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional"
+		"1":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "4-13-0"
@@ -406,8 +406,8 @@
 	"teamNum": 1806,
 	"teamName": "S.W.A.T.",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Oklahoma Regional"
+		"1":"Heartland Regional",
+		"2":"Oklahoma Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "36-29-0"
@@ -416,7 +416,7 @@
 	"teamNum": 1810,
 	"teamName": "Jaguar Robotics",
 	"upcoming-competitions": {
-		"Heartland Regional"
+		"1":"Heartland Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "15-15-1"
@@ -425,7 +425,7 @@
 	"teamNum": 1825,
 	"teamName": "The Cyborgs",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional"
+		"1":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "6-14-0"
@@ -434,7 +434,7 @@
 	"teamNum": 1827,
 	"teamName": "The HIVE",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional"
+		"1":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "5-4-0"
@@ -443,7 +443,7 @@
 	"teamNum": 1847,
 	"teamName": "W.R.A.T.H",
 	"upcoming-competitions": {
-		"Heartland Regional"
+		"1":"Heartland Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "2-7-0"
@@ -452,8 +452,8 @@
 	"teamNum": 1939,
 	"teamName": "The Kuhnigits",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Oklahoma Regional"
+		"1":"Heartland Regional",
+		"2":"Oklahoma Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "30-22-0"
@@ -462,8 +462,8 @@
 	"teamNum": 1982,
 	"teamName": "Cougar Robotics",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Iowa Regional"
+		"1":"Heartland Regional",
+		"2":"Iowa Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "3-6-0"
@@ -472,7 +472,7 @@
 	"teamNum": 1984,
 	"teamName": "Jawas",
 	"upcoming-competitions": {
-		"Heartland Regional"
+		"1":"Heartland Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "13-8-0"
@@ -481,19 +481,19 @@
 	"teamNum": 1986,
 	"teamName": "Team Titanium",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"Great Northern Regional",
-		"Seven Rivers Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"Great Northern Regional",
+		"3":"Seven Rivers Regional"
 	},
 	"Great-Northern-Regional-RESULTS": {
-		"2-9",					//quals record
-		"46",					//rank (47 tot)
-		"0.81",					//ranking score
-		"420",					//Park/Climb Pts
-		"200",					//auto points
-		"1843",					//ownership
-		"210",					//vault
-		"9",					//total ranking pts
+		"quals-record":"2-9",
+		"rank":"46",
+		"ranking-score":"0.81",	
+		"park-climb-points":"420",
+		"auto-points":"200",
+		"ownership":"1843",	
+		"vault":"210",
+		"total-ranking-points":"9"
 	},
 	"past-competitions": "none",
 	"2017-record": "78-17-0"
@@ -502,8 +502,8 @@
 	"teamNum": 1987,
 	"teamName": "Broncobots",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"Oklahoma Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"Oklahoma Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "38-23-3"
@@ -512,7 +512,7 @@
 	"teamNum": 1994,
 	"teamName": "Quixote",
 	"upcoming-competitions": {
-		"Heartland Regional"
+		"1":"Heartland Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "3-6-0"
@@ -521,8 +521,8 @@
 	"teamNum": 1997,
 	"teamName": "Stag Robotics",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Greater Kansas City Regional"
+		"1":"Heartland Regional",
+		"2":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "13-9-2"
@@ -531,7 +531,7 @@
 	"teamNum": 2001,
 	"teamName": "HERMES",
 	"upcoming-competitions": {
-		"Heartland Regional"
+		"1":"Heartland Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "7-10-0"
@@ -540,18 +540,18 @@
 	"teamNum": 2164,
 	"teamName": "The Core",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"Dallas Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"Dallas Regional"
 	},
 	"Dallas-Regional-RESULTS": {
-		"4-5",					//quals record
-		"37",					//rank
-		"1.22",					//ranking score
-		"275",					//Park/Climb Pts
-		"180",					//auto points
-		"1266",					//ownership
-		"175",					//vault
-		"11",					//total ranking pts
+		"quals-record":"4-5",		
+		"rank":"37",				
+		"ranking-score":"1.22",		
+		"park-climb-points":"275",	
+		"auto-points":"180",		
+		"ownership":"1266",			
+		"vault":"175",				
+		"total-ranking-points":"11"	
 	},
 	"past-competitions": "none",
 	"2017-record": "25-19-2"
@@ -560,7 +560,7 @@
 	"teamNum": 2167,
 	"teamName": "Radical Tech",
 	"upcoming-competitions": {
-		"Heartland Regional"
+		"1":"Heartland Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "4-5-0"
@@ -569,7 +569,7 @@
 	"teamNum": 2345,
 	"teamName": "Animal Control",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional"
+		"1":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "6-5-0"
@@ -578,8 +578,8 @@
 	"teamNum": 2352,
 	"teamName": "Metal Mayhem",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"Oklahoma Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"Oklahoma Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "20-15-1"
@@ -588,7 +588,7 @@
 	"teamNum": 2353,
 	"teamName": "The Legion",
 	"upcoming-competitions": {
-		"Heartland Regional"
+		"1":"Heartland Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "4-5-0"
@@ -597,7 +597,7 @@
 	"teamNum": 2357,
 	"teamName": "System Meltdown",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional"
+		"1":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "8-9-0"
@@ -606,8 +606,8 @@
 	"teamNum": 2410,
 	"teamName": "Blue Valley CAPS Metal Mustangs Robotics",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Iowa Regional"
+		"1":"Heartland Regional",
+		"2":"Iowa Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "31-17-3"
@@ -616,8 +616,8 @@
 	"teamNum": 2457,
 	"teamName": "The Law",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Greater Kansas City Regional"
+		"1":"Heartland Regional",
+		"2":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "8-11-0"
@@ -626,7 +626,7 @@
 	"teamNum": 2560,
 	"teamName": "RoboDog",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional"
+		"1":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "9-10-0"
@@ -635,8 +635,8 @@
 	"teamNum": 2765,
 	"teamName": "Radioactive Robotics",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Oklahoma Regional"
+		"1":"Heartland Regional",
+		"2":"Oklahoma Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "11-10-1"
@@ -645,8 +645,8 @@
 	"teamNum": 2874,
 	"teamName": "Iron Eagles",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"Iowa Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"Iowa Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "1-8-0"
@@ -655,7 +655,7 @@
 	"teamNum": 3172,
 	"teamName": "HorsePOWER",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
+		"1":"Greater Kansas City Regional",
 	},
 	"past-competitions": "none",
 	"2017-record": "8-13-0"
@@ -664,8 +664,8 @@
 	"teamNum": 3184,
 	"teamName": "Blaze Robotics",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Medtronic Foundation Regional"
+		"1":"Heartland Regional",
+		"2":"Medtronic Foundation Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "33-26-2"
@@ -674,9 +674,9 @@
 	"teamNum": 3284,
 	"teamName": "Camdenton LASER",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"St. Louis Regional",
-		"Oklahoma Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"St. Louis Regional",
+		"3":"Oklahoma Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "47-19-0"
@@ -685,8 +685,8 @@
 	"teamNum": 4388,
 	"teamName": "Ridgebotics",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Colorado Regional"
+		"1":"Heartland Regional",
+		"2":"Colorado Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "23-12-0"
@@ -695,7 +695,7 @@
 	"teamNum": 4455,
 	"teamName": "The Burger Botics",
 	"upcoming-competitions": {
-		"Heartland Regional"
+		"1":"Heartland Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "6-11-0"
@@ -704,8 +704,8 @@
 	"teamNum": 4499,
 	"teamName": "The Highlanders",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Colorado Regional"
+		"1":"Heartland Regional",
+		"2":"Colorado Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "29-25-0"
@@ -714,9 +714,9 @@
 	"teamNum": 4522,
 	"teamName": "Team SCREAM",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Greater Pittsburgh Regional",
-		"Seven Rivers Regional"
+		"1":"Heartland Regional",
+		"2":"Greater Pittsburgh Regional",
+		"3":"Seven Rivers Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "24-20-2"
@@ -725,8 +725,8 @@
 	"teamNum": 4646,
 	"teamName": "Team ASAP",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Iowa Regional"
+		"1":"Heartland Regional",
+		"2":"Iowa Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "16-16-0"
@@ -735,8 +735,8 @@
 	"teamNum": 4786,
 	"teamName": "Nicolet FEAR",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Wisconsin Regional"
+		"1":"Heartland Regional",
+		"2":"Wisconsin Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "6-14-0"
@@ -745,7 +745,7 @@
 	"teamNum": 4809,
 	"teamName": "Black Knight Robotics",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
+		"1":"Greater Kansas City Regional",
 	},
 	"past-competitions": "none",
 	"2017-record": "4-5-0"
@@ -754,8 +754,8 @@
 	"teamNum": 4959,
 	"teamName": "Millenium Falcons",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Iowa Regional"
+		"1":"Heartland Regional",
+		"2":"Iowa Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "30-22-1"
@@ -764,8 +764,8 @@
 	"teamNum": 5013,
 	"teamName": "Trobots",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"Midwest Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"Midwest Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "13-18-1"
@@ -774,8 +774,8 @@
 	"teamNum": 5082,
 	"teamName": "Northmen Robotics",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Greater Kansas City Regional"
+		"1":"Heartland Regional",
+		"2":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "1-8-0"
@@ -784,8 +784,8 @@
 	"teamNum": 5098,
 	"teamName": "STING - R",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"Oklahoma Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"Oklahoma Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "10-9-0"
@@ -794,7 +794,7 @@
 	"teamNum": 5119,
 	"teamName": "Team STEAM",
 	"upcoming-competitions": {
-		"Heartland Regional"
+		"1":"Heartland Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "11-7-0"
@@ -803,8 +803,8 @@
 	"teamNum": 5126,
 	"teamName": "Electromagnetic Panthers",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"Colorado Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"Colorado Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "9-15-1"
@@ -813,7 +813,7 @@
 	"teamNum": 5141,
 	"teamName": "GRIFFINITE",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
+		"1":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "3-6-0"
@@ -822,7 +822,7 @@
 	"teamNum": 5189,
 	"teamName": "SABRE",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
+		"1":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "3-6-0"
@@ -831,7 +831,7 @@
 	"teamNum": 5268,
 	"teamName": "The BioMech Falcons",
 	"upcoming-competitions": {
-		"Heartland Regional"
+		"1":"Heartland Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "3-8-1"
@@ -840,8 +840,8 @@
 	"teamNum": 5801,
 	"teamName": "CTC Inspire",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"Oklahoma Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"Oklahoma Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "33-17-0"
@@ -850,8 +850,8 @@
 	"teamNum": 5809,
 	"teamName": "The Jesubots",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Greater Kansas City Regional"
+		"1":"Heartland Regional",
+		"2":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "14-18-3"
@@ -860,20 +860,20 @@
 	"teamNum": 5889,
 	"teamName": "Commandobots",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
-		"Dallas Regional"
+		"1":"Greater Kansas City Regional",
+		"2":"Dallas Regional"
 	},
 	"Dallas-Regional-RESULTS": {
-		"7-2",					//quals record
-		"11",					//rank
-		"1.88",					//ranking score
-		"235",					//Park/Climb Pts
-		"191",					//auto points
-		"1786",					//ownership
-		"180",					//vault
-		"17",					//total ranking pts
-		"alliance-captain-7",
-		"1-2"					//playoff record
+		"quals-record":"7-2",			
+		"rank":"11",					
+		"ranking-score":"1.88",			
+		"park-climb-points":"235",		
+		"auto-points":"191",			
+		"ownership":"1786",				
+		"vault":"180",					
+		"total-ranking-points":"17",	
+		"alliance":"alliance-captain-7",
+		"playoff-record":"1-2"			
 	},
 	"past-competitions": "none",
 	"2017-record": "14-15-0"
@@ -882,7 +882,7 @@
 	"teamNum": 5968,
 	"teamName": "Cyborg Indians",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
+		"1":"Greater Kansas City Regional",
 	},
 	"past-competitions": "none",
 	"2017-record": "11-11-2"
@@ -891,8 +891,8 @@
 	"teamNum": 6317,
 	"teamName": "Disruptive Innovation",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Iowa Regional"
+		"1":"Heartland Regional",
+		"2":"Iowa Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "6-13-0"
@@ -901,8 +901,8 @@
 	"teamNum": 6359,
 	"teamName": "TechKnow Difficulties",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Iowa Regional"
+		"1":"Heartland Regional",
+		"2":"Iowa Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "6-5-0"
@@ -911,8 +911,8 @@
 	"teamNum": 6420,
 	"teamName": "Fire Island Robotics",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Iowa Regional"
+		"1":"Heartland Regional",
+		"2":"Iowa Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "13-18-0"
@@ -921,8 +921,8 @@
 	"teamNum": 6424,
 	"teamName": "Stealth Panther Robotics",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Iowa Regional"
+		"1":"Heartland Regional",
+		"2":"Iowa Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "23-20-0"
@@ -931,7 +931,7 @@
 	"teamNum": 6542,
 	"teamName": "Technomancers",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
+		"1":"Greater Kansas City Regional",
 	},
 	"past-competitions": "none",
 	"2017-record": "8-3-1"
@@ -940,7 +940,7 @@
 	"teamNum": 6805,
 	"teamName": "Cyber Jays",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
+		"1":"Greater Kansas City Regional",
 	},
 	"past-competitions": "none",
 	"2017-record": "none"
@@ -949,7 +949,7 @@
 	"teamNum": 6817,
 	"teamName": "10 Factorial",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
+		"1":"Greater Kansas City Regional",
 	},
 	"past-competitions": "none",
 	"2017-record": "none"
@@ -958,7 +958,7 @@
 	"teamNum": 6843,
 	"teamName": "Guardian Gears",
 	"upcoming-competitions": {
-		"Heartland Regional"
+		"1":"Heartland Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "none"
@@ -967,8 +967,8 @@
 	"teamNum": 6886,
 	"teamName": "Synthesizers",
 	"upcoming-competitions": {
-		"Heartland Regional",
-		"Greater Kansas City Regional"
+		"1":"Heartland Regional",
+		"2":"Greater Kansas City Regional"
 	},
 	"past-competitions": "none",
 	"2017-record": "none"
@@ -977,7 +977,7 @@
 	"teamNum": 6976,
 	"teamName": "Electric Eagles",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
+		"1":"Greater Kansas City Regional",
 	},
 	"past-competitions": "none",
 	"2017-record": "none"
@@ -986,7 +986,7 @@
 	"teamNum": 7064,
 	"teamName": "Voltron Robotics",
 	"upcoming-competitions": {
-		"Greater Kansas City Regional",
+		"1":"Greater Kansas City Regional",
 	},
 	"past-competitions": "none",
 	"2017-record": "none"
