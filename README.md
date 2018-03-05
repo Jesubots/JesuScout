@@ -42,9 +42,9 @@ npm install
 Since the application needs to run locally, due to FIRST compliance rules regarding the strict prohibition of ad-hoc wifi networks, much of the setup can be configured for each teams own use.
 
 With room for future improvements and modification, the intention of JesuScout is to compile the most in depth local database which can be downloaded and reinstalled in the pit for in depth data-analysis with Tableau.
-> **Note**: As of 2014, Tableau Software licenses are included in each FRC Teams' Kit of Parts
+> As of 2014, Tableau Software licenses are included in each FRC Teams' Kit of Parts
 
-#### Running JesuScout is extremely simple. 
+#### Running JesuScout is *extremely* simple. 
 
 1. Open up two terminal windows
     - cd one to JesuScout/server (part two)
@@ -65,8 +65,8 @@ mongo
 4. With this, you're ready to roll
 > **Success!** JesuScout is now running and ready for use at http://localhost:3000
 
-- The computer running the server needs to remain powered on throughout the entire day of matches
-    - The scouter computers, however, may be switched out throughout the day
+- The computer running the server should remain powered on throughout the entire day of matches
+    - The scouter computers, however, may be switched out throughout the day without issues.
 - The ideal setup is obviously to have six scouters for six robots on the field, but whatever is most convenient to your team can be used.
 - For an entire breakdown of the system and the concept, a fully polished whitepage is on the way. If you need a more immediate response, however, feel free to [contact us](#contact).
 
