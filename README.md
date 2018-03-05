@@ -3,9 +3,6 @@ JesuScout
 ![mongoDB](https://img.shields.io/badge/mongoDB-v3.6-red.svg)
 ![CDNJS](https://img.shields.io/cdnjs/v/jquery.svg)
 =========
-Team 5809 Scouting System is a work in progress...
-
-Full Documentation will be provided upon completion, Target: Mid-March.
 
 ## Contents
 
@@ -19,7 +16,7 @@ Full Documentation will be provided upon completion, Target: Mid-March.
 
 ## Installation
 
-JesuScout is a web-app built with node.js, express, mongoDB, and more. Thankfully though, npm provides an easy way to install all required dependencies in one command.
+JesuScout is a web-app built with node.js, express, mongoDB, and more. Thankfully though, npm provides an easy way to install all of the required dependencies in one command.
 
 ### Step one: Clone the repo
 - Click on the green icon, then press 'copy to clipboard'.
@@ -28,8 +25,8 @@ git clone https://github.com/Jesubots/JesuScout.git
 ```
 - Insert this command into whatever directory is most conenient to you.
 
-### Step two: Install npm
-- cd into the /Server folder
+### Step two: Install npm and all required dependencies
+- cd into the /server folder
 ```sh
 npm install
 ```
@@ -66,7 +63,7 @@ mongo
 > **Note**: The brew command can only be used if you have Homebrew installed
 
 4. With this, you're ready to roll
-> **Success!** JesuScout is now running at http://localhost:3000
+> **Success!** JesuScout is now running and ready for use at http://localhost:3000
 
 - The computer running the server needs to remain powered on throughout the entire day of matches
     - The scouter computers, however, may be switched out throughout the day
