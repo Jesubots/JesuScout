@@ -6,12 +6,10 @@ Immediate ----
 *********
 
 incorporate websocket (socket.io)	  } connected?
-figure out process of downloading data...
-configure data in tableau
-
-purchase switch & necessary materials
-
-finish readme
+	make use of server.html
+learn how to configure data in tableau
+	also how to get json or csv into tableau
+purchase network switch & necessary materials
 ________
 
 LONG TERM

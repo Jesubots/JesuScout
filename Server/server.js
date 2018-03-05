@@ -1,7 +1,6 @@
 var fs				= require('fs'); // file systems
 var express 			= require('express'); // web server
-var expressValidator 		= require('express-validator');
-//var request			= require('request'); // http trafficer
+var request			= require('request'); // http trafficer
 var http			= require('http'); // http protocol
 var bodyParser			= require('body-parser'); // http body parser
 var assert			= require('assert');

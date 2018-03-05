@@ -19,3 +19,8 @@ db.collection.remove({})			# remove all documents in a collection
 db.collection.remove({type:"x"})		# remove documents with specific type
 
 ~/.dbshell					# access command history
+
+
+# EXPORTING MONGO DATA i.e. downloading the database
+mongoexport --db jesuscout --collection HeartlandMatches --out matches.json --pretty    # get the entire Heartland Collection
+mongoexport --db jesuscout --collection HeartlandMatches --query '{"scoutName": "max"}' --out matches.json --pretty #only get specified query from Heartland Collection
