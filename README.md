@@ -70,6 +70,11 @@ mongo
 - The ideal setup is obviously to have six scouters for six robots on the field, but whatever is most convenient to your team can be used.
 - For an entire breakdown of the system and the concept, a fully polished whitepage is on the way. If you need a more immediate response, however, feel free to [contact us](#contact).
 
+5. When you are ready to download your database for actual analysis in the pit, make use of this command in the ROOT directory of your terminal:
+```sh
+mongoexport --db jesuscout --collection HeartlandMatches --out matches.json --pretty
+```
+
 ## Contributing
 
 We are welcoming contributions on a variety of fronts. In the future the project wiki will have more detailed information on what we are looking to improve, but for now if your team would like to contribute and be recognized, please [contact us](#contact).
