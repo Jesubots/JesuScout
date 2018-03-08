@@ -1,0 +1,25 @@
+
+1) Make a schedule if there are a surplus of scouters   
+        after x matches the match scouters become the data processers, etc.
+
+2) Start JesuScout
+
+3) Have Scouters fill out the data and submit after each match
+
+4) With AT LEAST ~4 games to go, export the current data
+
+5) Drag this newly created file (matches.json, you can just search it in spotlight) onto USB Drive
+
+6) Have a carrier take the USB drive to the pit so the data can be analyzed in Tableau or RAW json
+    
+7) If you don't have time to learn Tableau-->
+        simply have the extra scouters (non 6 match scouters) organize the created files by team or however strategists prefer.
+            give each "calculator" a different task to maximize time    
+                one can organize data by team number  
+                one could organize by scale/switch/climb ability
+                literally any kind of grouping
+
+***Don't let people just sit around***
+        give them a task so that the data can be as useful as possible for strategists until we perfect using Tableau
+
+
