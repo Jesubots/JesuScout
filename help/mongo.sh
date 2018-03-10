@@ -24,3 +24,9 @@ db.collection.remove({type:"x"})		# remove documents with specific type
 # EXPORTING MONGO DATA i.e. downloading the database
 mongoexport --db jesuscout --collection HeartlandMatches --out matches.json --pretty    # get the entire Heartland Collection
 mongoexport --db jesuscout --collection HeartlandMatches --query '{"scoutName": "max"}' --out matches.json --pretty #only get specified query from Heartland Collection
+
+# TABLEAU CONVERSION
+
+mongodrdl --db jesuscout --collection HeartlandMatches --out schema.drdl
+
+db.HeartlandMatches.aggregate([  ])

@@ -236,22 +236,37 @@ canvas {
 	display: inline-block;
 	margin-left: 2.5%;
 }
+/* END GAME */
+.endPoints {
+	display: block;
+	height: 20px;
+}
+#endData {
+	margin-top: 5px;
+	color: #f3db51;
+	display: inline-block;
+}
 .climbMech {
 	display: inline-block;
-	margin-top: 18px;
+	margin-top: 13px;
+	margin-left: 5.5%;
 }
 .winLoss {
 	display: inline-block;
-	margin-left: 5.2%;
+	margin-left: 7.2%;
 }
 .comments {
 	display: inline-block;
 	margin-left: 6.2%;
 }
+#scoutComments {
+	width: 300px;
+}
+/* AUTO GAME */
 .autoPoints {
 	display: block;
 	height: 20px;
-	margin-top: 10px
+	margin-top: 10px;
 }
 #autoData {
 	margin-top: 5px;
@@ -270,6 +285,7 @@ canvas {
 	margin-left: 5%;
 	display: inline-block;
 }
+/* SUBMIT */
 #manualScout {
 	display: inline-block;
 	margin-top: 35px; 

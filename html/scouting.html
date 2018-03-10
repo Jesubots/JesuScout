@@ -41,7 +41,7 @@
 						</div>
 					</div>
 					<div class="redSwitch">
-						Blocks in Red Switch:
+						Blocks in Home Switch:
 						<input type="text" name="redSwitch-count" id="redSwitch-count" autocomplete="off">
 					</div>
 					<div class="scale-count">
@@ -49,7 +49,7 @@
 						<input type="text" name="scale-count" id="scale-count" autocomplete="off">
 					</div>
 					<div class="blueSwitch">
-						Blocks in Blue Switch:
+						Blocks in Opposing Switch:
 						<input type="text" name="blueSwitch-count" id="blueSwitch-count" autocomplete="off">
 					</div>
 					<br>
@@ -66,18 +66,38 @@
 						<input type="text" name="boost-count" id="boost-count" autocomplete="off">
 					</div>
 					<br>
-					<div class="climbMech">
-						Climb Mechanism:
-						<input type="text" name="climbMech" id="climbMech" autocomplete="off">
+					<div class="endPoints">
+						<p id="endData">END:</p>
+						<div class="climbMech">
+							Climb?
+							<input type="checkbox" name="climbMech" id="climbMech" autocomplete="off">
+						</div>
+						<div class="winLoss">
+							Win?
+							<input type="checkbox" name="winLoss" id="winLoss" autocomplete="off">
+						</div>
+						<div class="comments">
+							Scouter Comments:
+							<input type="text" name="scoutComments" id="scoutComments" autocomplete="off">
+						</div>
 					</div>
-					<div class="winLoss">
-						Win/Loss:
-						<input type="text" name="winLoss" id="winLoss" autocomplete="off">
+					<!--
+					<div class="autoPoints">
+						<p id="autoData">AUTO:</p>
+						<div class="lineCross">
+							Line Cross
+							<input type="checkbox" name="autoCross" id="autoCross" autocomplete="off">
+						</div>
+						<div class="preSwitch">
+							Auto Switch
+							<input type="checkbox" name="autoSwitch" id="autoSwitch" autocomplete="off">
+						</div>
+						<div class="preScale">
+							Auto Scale
+							<input type="checkbox" name="autoScale" id="autoScale" autocomplete="off">
+						</div>
 					</div>
-					<div class="comments">
-						Scouter Comments:
-						<input type="text" name="scoutComments" id="scoutComments" autocomplete="off">
-					</div>
+					-->
 					<button type="submit" id="manualScout">Submit</button>
 				</form>
 			</div>
