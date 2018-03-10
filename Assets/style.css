@@ -187,7 +187,7 @@ canvas {
 	position: absolute;
 	width: 100%;
 	margin-top: 50px;
-	height: 250px;;
+	height: 230px;;
 	border: 2px solid #f3db51;
 	border-left: none;
 	background: #2b2b2b;
@@ -202,7 +202,7 @@ canvas {
 	color: white;
 	border: 1px solid #003ca2;
 	padding: 10px;
-	padding-bottom: 20px;
+	padding-bottom: 25px;
 }
 .matchNum {
 	display: inline-block;
@@ -269,7 +269,7 @@ canvas {
 	margin-top: 10px;
 }
 #autoData {
-	margin-top: 5px;
+	margin-top: 13px;
 	color: #f3db51;
 	display: inline-block;
 }
@@ -288,7 +288,7 @@ canvas {
 /* SUBMIT */
 #manualScout {
 	display: inline-block;
-	margin-top: 35px; 
+	margin-top: 22px; 
 	float: right;
 	color: #f3db51;
 	background: rgba(31,113,255, 0.3);
