@@ -76,6 +76,7 @@ mongo
 ```sh
 mongoexport --db jesuscout --collection HeartlandMatches --out matches.json --pretty
 ```
+> **Note**: This is assuming that you are using the collection 'HeartlandMatches', you can easily rename this for your preferred competition, as long as you do so in the server.js file.
 
 ## Contributing
 
