@@ -212,7 +212,7 @@ canvas {
 	display: inline-block;
 	margin-left: 2.7%;
 }
-.redSwitch {
+.homeSwitch {
 	display: inline-block;
 	margin-top: 18px;
 }
@@ -220,7 +220,7 @@ canvas {
 	display: inline-block;
 	margin-left: 3%
 }
-.blueSwitch {
+.opposingSwitch {
 	display: inline-block;
 	margin-left: 2.5%;
 }
