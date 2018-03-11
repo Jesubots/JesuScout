@@ -6,6 +6,11 @@ JesuScout
 
 <img src="Assets/img/landingsc.png" alt="Scouting Portal" height="50%" width="50%"><img src="Assets/img/scoutingsc.png" alt="Scouting Portal" height="50%" width="50%">
 
+## The Basics
+JesuScout is a web-based Scouting System built for the simplest and most effective data collection in FIRST Robotics Competitions. With just a few laptops any team can configure the system to their needs and have access to analysis of every match at a competition.
+
+> **Note**: At this point in time, JesuScout docs only cover using the system for data collection, data processing and analysis will be added soon.
+
 ## Contents
 
 - [Installation](#installation)
