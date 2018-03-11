@@ -4,6 +4,8 @@ JesuScout
 ![CDNJS](https://img.shields.io/cdnjs/v/jquery.svg)
 =========
 
+<img src="Assets/img/landingsc.png" alt="Scouting Portal" height="50%" width="50%"><img src="Assets/img/scoutingsc.png" alt="Scouting Portal" height="50%" width="50%">
+
 ## Contents
 
 - [Installation](#installation)
