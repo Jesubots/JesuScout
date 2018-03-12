@@ -30,17 +30,9 @@ function init() {
 	bg = loadImage("../Assets/img/blankMap_overhead.png");
   
 	// download the coordinates
-	var btnSave   = document.createElement("BUTTON");
-	saveme	= document.createTextNode("Save");
-	btnSave.appendChild(saveme);
-	
-	var btnReset  = document.createElement("BUTTON");
-	resetme	= document.createTextNode("Reset");
-	btnReset.appendChild(resetme);
-	
-	var btnReplay = document.createElement("BUTTON");
-	replayme	= document.createTextNode("Replay");
-	btnReplay.appendChild(replayme);
+	btnSave   = createButton('Save');
+    btnReset  = createButton('Reset');
+    btnReplay = createButton('Replay');
 
 	btnSave.mousePressed(function() {
 		var json = {
