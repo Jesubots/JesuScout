@@ -2,7 +2,7 @@ TO DO's
 __________________________________
 
 *********
-Immediate ----
+NECESSARY ----
 *********
 
 incorporate websocket (socket.io)	  } connected?
@@ -22,8 +22,9 @@ Map Regions aspect
 	
 ________
 
-Start testing!
-	make sure the thing works with 6 + users connected
-	
+IMMEDIATE
+
+Get working connected map with internal libraries
+TABLEAU
 
 
