@@ -213,165 +213,274 @@
 			
 			FIRST Champs - Houston				April 18 - 21
 			
-			
-	Completed Regionals:
-	
-			Team Titanium / 1986
-				Great Northern Regional
-				lines 480-500
-			The Core / 2164
-				Dallas Regional
-				lines 539-558
-			Commandobots / 5889
-				Dallas Regional
-				lines 859-879
+		
 ***********************
 ***********************		
 **********************/
 {
 	"teamNum": 932,
 	"teamName": "Circuit Chargers",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"Oklahoma Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "21-16-1"
 }
 {
 	"teamNum": 935,
 	"teamName": "RaileRobotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"4-8",
+		"rank":"32",
+		"ranking-score":"1.16",	
+		"park-climb-points":"455",
+		"auto-points":"268",
+		"ownership":"1835",	
+		"vault":"295",
+		"total-ranking-points":"14",
+		"OPR":"none",
+		"playoffs":"alliance-2-pick-2",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+	},
 	"2017-record": "28-17-1"
 }
 {
 	"teamNum": 937,
 	"teamName": "Robo Tribe",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "1-8-0"
 }
 {
 	"teamNum": 938,
 	"teamName": "Code Gold",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"5-7",
+		"rank":"34",
+		"ranking-score":"1.16",	
+		"park-climb-points":"330",
+		"auto-points":"208",
+		"ownership":"1926",	
+		"vault":"165",
+		"total-ranking-points":"14",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "6-12-0"
 }
 {
 	"teamNum": 967,
 	"teamName": "Iron Lions",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Iowa Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"6-6",
+		"rank":"37",
+		"ranking-score":"1.08",	
+		"park-climb-points":"515",
+		"auto-points":"222",
+		"ownership":"2013",	
+		"vault":"230",
+		"total-ranking-points":"13",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "10-12-1"
 }
 {
 	"teamNum": 1108,
 	"teamName": "Panther Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Wisconsin Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"7-5",
+		"rank":"16",
+		"ranking-score":"1.75",	
+		"park-climb-points":"480",
+		"auto-points":"338",
+		"ownership":"2172",	
+		"vault":"180",
+		"total-ranking-points":"21",
+		"OPR":"none",
+		"playoffs":"alliance-7-pick-1",
+		"playoffs-record":"3-2",
+		"result:""semis"
+	},
 	"2017-record": "13-16-0"
 }
 {
 	"teamNum": 1288,
 	"teamName": "RAVEN Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"St. Louis Regional"
 	},
-	"past-competitions": "none",
+	"stlRegional-RESULTS": {
+		"quals-record":"5-5",
+		"rank":"33",
+		"ranking-score":"1.10",	
+		"park-climb-points":"345",
+		"auto-points":"168",
+		"ownership":"1561",	
+		"vault":"200",
+		"total-ranking-points":"11",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "17-21-0"
-}			// march 7
+}			
 {
 	"teamNum": 1710,
 	"teamName": "The Ravonics Revolution",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Iowa Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"8-4",
+		"rank":"14",
+		"ranking-score":"1.83",	
+		"park-climb-points":"475",
+		"auto-points":"368",
+		"ownership":"2700",	
+		"vault":"385",
+		"total-ranking-points":"22",
+		"OPR":"169.17",
+		"OPR-rank":"2",
+		"playoffs":"alliance-3-pick-1",
+		"playoffs-record":"6-1",
+		"result":"champions"
+	},
 	"2017-record": "34-24-2"
 }
 {
 	"teamNum": 1723,
 	"teamName": "The FBI",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"8-4",
+		"rank":"4",
+		"ranking-score":"2.08",	
+		"park-climb-points":"635",
+		"auto-points":"377",
+		"ownership":"2742",	
+		"vault":"330",
+		"total-ranking-points":"25",
+		"OPR":"150.14",
+		"OPR-rank":"4",
+		"playoffs":"alliance-4-captain",
+		"playoffs-record":"2-2",
+		"result":"semis"
+	},
 	"2017-record": "16-18-0"
 }
 {
 	"teamNum": 1730,
 	"teamName": "Team Driven",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Colorado Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"10-0",
+		"rank":"1",
+		"ranking-score":"2.66",	
+		"park-climb-points":"495",
+		"auto-points":"390",
+		"ownership":"3271",	
+		"vault":"270",
+		"total-ranking-points":"32",
+		"OPR":"197.23",
+		"OPR-rank":"1",
+		"playoffs":"alliance-1-captain",
+		"playoffs-record":"4-2",
+		"result":"finals"
+	},
 	"2017-record": "28-19-0"
 }
 {
 	"teamNum": 1737,
 	"teamName": "Project X",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "5-4-0"
 }
 {
 	"teamNum": 1763,
 	"teamName": "Paseliens",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "10-10-0"
 }
 {
 	"teamNum": 1764,
 	"teamName": "Liberty Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"Arkansas Rock City Regional"
 	},
-	"past-competitions": "none",
+	"arkansasRegional-RESULTS": {
+		"quals-record":"6-4",
+		"rank":"14",
+		"ranking-score":"1.70",	
+		"park-climb-points":"360",
+		"auto-points":"219",
+		"ownership":"1912",	
+		"vault":"155",
+		"total-ranking-points":"17",
+		"OPR":"none",
+		"playoffs":"alliance-7-pick-1",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+	},
 	"2017-record": "11-15-0"
-}			// march 7
+}			
 {
 	"teamNum": 1769,
 	"teamName": "Digital Hawks",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"5-7",
+		"rank":"33",
+		"ranking-score":"1.16",	
+		"park-climb-points":"450",
+		"auto-points":"282",
+		"ownership":"2062",	
+		"vault":"170",
+		"total-ranking-points":"14",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "9-10-0"
 }
 {
 	"teamNum": 1775,
 	"teamName": "Tigerbytes",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"Seven Rivers Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "18-15-1"
 }
 {
@@ -380,107 +489,195 @@
 	"upcoming-competitions": {
 		"1":"Heartland Regional"
 	},
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"5-7",
+		"rank":"26",
+		"ranking-score":"1.25",	
+		"park-climb-points":"580",
+		"auto-points":"257",
+		"ownership":"1914",	
+		"vault":"345",
+		"total-ranking-points":"15",
+		"OPR":"106.30",
+		"OPR-rank":"15",
+		"playoffs":"no"
+	},
 	"past-competitions": "none",
 	"2017-record": "9-9-0"
 }
 {
 	"teamNum": 1785,
 	"teamName": "Blue Springs Robocats",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Oklahoma Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"5-7",
+		"rank":"24",
+		"ranking-score":"1.33",	
+		"park-climb-points":"440",
+		"auto-points":"254",
+		"ownership":"1910",	
+		"vault":"225",
+		"total-ranking-points":"16",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "7-19-0"
 }
 {
 	"teamNum": 1802,
 	"teamName": "Team Stealth",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "4-13-0"
 }
 {
 	"teamNum": 1806,
 	"teamName": "S.W.A.T.",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Oklahoma Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"7-5",
+		"rank":"13",
+		"ranking-score":"1.83",	
+		"park-climb-points":"520",
+		"auto-points":"381",
+		"ownership":"2659",	
+		"vault":"310",
+		"total-ranking-points":"22",
+		"OPR":"109.73",
+		"OPR-rank":"13",
+		"playoffs":"alliance-1-pick-1",
+		"playoffs-record":"4-2",
+		"result":"finals"
+	},
 	"2017-record": "36-29-0"
 }
 {
 	"teamNum": 1810,
 	"teamName": "Jaguar Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"6-6",
+		"rank":"18",
+		"ranking-score":"1.58",	
+		"park-climb-points":"555",
+		"auto-points":"297",
+		"ownership":"2172",	
+		"vault":"230",
+		"total-ranking-points":"19",
+		"OPR":"none",
+		"playoffs":"alliance-1-pick-2",
+		"playoffs-record":"4-2",
+		"result":"finals"
+	},
 	"2017-record": "15-15-1"
 }
 {
 	"teamNum": 1825,
 	"teamName": "The Cyborgs",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "6-14-0"
 }
 {
 	"teamNum": 1827,
 	"teamName": "The HIVE",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "5-4-0"
 }
 {
 	"teamNum": 1847,
 	"teamName": "W.R.A.T.H",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "2-7-0"
 }
 {
 	"teamNum": 1939,
 	"teamName": "The Kuhnigits",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Oklahoma Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"8-4",
+		"rank":"12",
+		"ranking-score":"1.83",	
+		"park-climb-points":"525",
+		"auto-points":"260",
+		"ownership":"2383",	
+		"vault":"285",
+		"total-ranking-points":"22",
+		"OPR":"116.30",
+		"OPR-rank":"11",
+		"playoffs":"alliance-8-captain",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+	},
 	"2017-record": "30-22-0"
 }
 {
 	"teamNum": 1982,
 	"teamName": "Cougar Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Iowa Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"6-6",
+		"rank":"19",
+		"ranking-score":"1.41",	
+		"park-climb-points":"535",
+		"auto-points":"244",
+		"ownership":"2221",	
+		"vault":"330",
+		"total-ranking-points":"17",
+		"OPR":"none",
+		"playoffs":"alliance-3-pick-2",
+		"playoffs-record":"6-1",
+		"result":"champions"
+	},
 	"2017-record": "3-6-0"
 }
 {
 	"teamNum": 1984,
 	"teamName": "Jawas",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"7-5",
+		"rank":"10",
+		"ranking-score":"1.83",	
+		"park-climb-points":"605",
+		"auto-points":"321",
+		"ownership":"2383",	
+		"vault":"325",
+		"total-ranking-points":"22",
+		"OPR":"131.89",
+		"OPR-rank":"8",
+		"playoffs":"alliance-4-pick-1",
+		"playoffs-record":"2-2",
+		"result":"semis"
+	},
 	"2017-record": "13-8-0"
 }
 {
 	"teamNum": 1986,
 	"teamName": "Team Titanium",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"Great Northern Regional",
 		"3":"Seven Rivers Regional"
@@ -493,53 +690,86 @@
 		"auto-points":"200",
 		"ownership":"1843",	
 		"vault":"210",
-		"total-ranking-points":"9"
+		"total-ranking-points":"9",
+		"OPR":"none",
+		"playoffs":"no"
 	},
-	"past-competitions": "none",
 	"2017-record": "78-17-0"
-} 			// feb 28
+} 			
 {
 	"teamNum": 1987,
 	"teamName": "Broncobots",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"Oklahoma Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "38-23-3"
 }
 {
 	"teamNum": 1994,
 	"teamName": "Quixote",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"5-7",
+		"rank":"40",
+		"ranking-score":"0.83",	
+		"park-climb-points":"545",
+		"auto-points":"239",
+		"ownership":"2097",	
+		"vault":"260",
+		"total-ranking-points":"10",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "3-6-0"
 }
 {
 	"teamNum": 1997,
 	"teamName": "Stag Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"6-6",
+		"rank":"25",
+		"ranking-score":"1.33",	
+		"park-climb-points":"380",
+		"auto-points":"242",
+		"ownership":"2162",	
+		"vault":"250",
+		"total-ranking-points":"16",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "13-9-2"
 }
 {
 	"teamNum": 2001,
 	"teamName": "HERMES",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"4-8",
+		"rank":"41",
+		"ranking-score":"0.83",	
+		"park-climb-points":"425",
+		"auto-points":"230",
+		"ownership":"1501",	
+		"vault":"135",
+		"total-ranking-points":"10",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "7-10-0"
 }
 {
 	"teamNum": 2164,
 	"teamName": "The Core",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"Dallas Regional"
 	},
@@ -551,315 +781,531 @@
 		"auto-points":"180",		
 		"ownership":"1266",			
 		"vault":"175",				
-		"total-ranking-points":"11"	
+		"total-ranking-points":"11",
+		"OPR":"none",
+		"playoffs":"no"
 	},
-	"past-competitions": "none",
 	"2017-record": "25-19-2"
-}			// march 1
+}		
 {
 	"teamNum": 2167,
 	"teamName": "Radical Tech",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"6-6",
+		"rank":"21",
+		"ranking-score":"1.41",	
+		"park-climb-points":"410",
+		"auto-points":"261",
+		"ownership":"1971",	
+		"vault":"235",
+		"total-ranking-points":"17",
+		"OPR":"169.17",
+		"OPR-rank":"2",
+		"playoffs":"alliance-6-pick-2",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+	},
 	"2017-record": "4-5-0"
 }
 {
 	"teamNum": 2345,
 	"teamName": "Animal Control",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "6-5-0"
 }
 {
 	"teamNum": 2352,
 	"teamName": "Metal Mayhem",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"Oklahoma Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "20-15-1"
 }
 {
 	"teamNum": 2353,
 	"teamName": "The Legion",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"6-6",
+		"rank":"17",
+		"ranking-score":"1.66",	
+		"park-climb-points":"830",
+		"auto-points":"277",
+		"ownership":"2290",	
+		"vault":"275",
+		"total-ranking-points":"20",
+		"OPR":"134.45",
+		"OPR-rank":"7",
+		"playoffs":"no"
+	},
 	"2017-record": "4-5-0"
 }
 {
 	"teamNum": 2357,
 	"teamName": "System Meltdown",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "8-9-0"
 }
 {
 	"teamNum": 2410,
 	"teamName": "Blue Valley CAPS Metal Mustangs Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Iowa Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"5-7",
+		"rank":"36",
+		"ranking-score":"1.08",	
+		"park-climb-points":"535",
+		"auto-points":"287",
+		"ownership":"2136",	
+		"vault":"225",
+		"total-ranking-points":"13",
+		"OPR":"none",
+		"playoffs":"alliance-4-pick-2",
+		"playoffs-record":"2-2",
+		"result":"semis"
+	},
 	"2017-record": "31-17-3"
 }
 {
 	"teamNum": 2457,
 	"teamName": "The Law",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"4-8",
+		"rank":"29",
+		"ranking-score":"1.16",	
+		"park-climb-points":"505",
+		"auto-points":"278",
+		"ownership":"2103",	
+		"vault":"215",
+		"total-ranking-points":"14",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "8-11-0"
 }
 {
 	"teamNum": 2560,
 	"teamName": "RoboDog",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "9-10-0"
 }
 {
 	"teamNum": 2765,
 	"teamName": "Radioactive Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Oklahoma Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"7-5",
+		"rank":"15",
+		"ranking-score":"1.75",	
+		"park-climb-points":"565",
+		"auto-points":"328",
+		"ownership":"2382",	
+		"vault":"275",
+		"total-ranking-points":"21",
+		"OPR":"127.64",
+		"OPR-rank":"9",
+		"playoffs":"alliance-5-pick-2",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+	},
 	"2017-record": "11-10-1"
 }
 {
 	"teamNum": 2874,
 	"teamName": "Iron Eagles",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"Iowa Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "1-8-0"
 }
 {
 	"teamNum": 3172,
 	"teamName": "HorsePOWER",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 	},
-	"past-competitions": "none",
 	"2017-record": "8-13-0"
 }
 {
 	"teamNum": 3184,
 	"teamName": "Blaze Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Medtronic Foundation Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"8-4",
+		"rank":"9",
+		"ranking-score":"1.91",	
+		"park-climb-points":"470",
+		"auto-points":"298",
+		"ownership":"2555",	
+		"vault":"250",
+		"total-ranking-points":"23",
+		"OPR":"140.68",
+		"OPR-rank":"5",
+		"playoffs":"alliance-7-captains",
+		"playoffs-record":"3-2",
+		"result":"semis"
+	},
 	"2017-record": "33-26-2"
 }
 {
 	"teamNum": 3284,
 	"teamName": "Camdenton LASER",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"St. Louis Regional",
 		"3":"Oklahoma Regional"
 	},
-	"past-competitions": "none",
+	"stlRegional-RESULTS": {
+		"quals-record":"7-3",
+		"rank":"11",
+		"ranking-score":"1.80",	
+		"park-climb-points":"450",
+		"auto-points":"202",
+		"ownership":"1813",	
+		"vault":"270",
+		"total-ranking-points":"18",
+		"OPR":"114.73",
+		"OPR-rank":"14",
+		"playoffs":"alliance-6-pick-2",
+		"playoffs-record":"2-2",
+		"result":"semis"
+	},
 	"2017-record": "47-19-0"
-} 			// march 7
+} 			
 {
 	"teamNum": 4388,
 	"teamName": "Ridgebotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Colorado Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"8-4",
+		"rank":"8",
+		"ranking-score":"1.91",	
+		"park-climb-points":"555",
+		"auto-points":"303",
+		"ownership":"2721",	
+		"vault":"255",
+		"total-ranking-points":"23",
+		"OPR":"127.21",
+		"OPR-rank":"10",
+		"playoffs":"alliance-2-pick-1",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+	},
 	"2017-record": "23-12-0"
 }
 {
 	"teamNum": 4455,
 	"teamName": "The Burger Botics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"4-8",
+		"rank":"43",
+		"ranking-score":"0.75",	
+		"park-climb-points":"375",
+		"auto-points":"196",
+		"ownership":"1558",	
+		"vault":"215",
+		"total-ranking-points":"9",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "6-11-0"
 }
 {
 	"teamNum": 4499,
 	"teamName": "The Highlanders",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Colorado Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"5-7",
+		"rank":"22",
+		"ranking-score":"1.41",	
+		"park-climb-points":"405",
+		"auto-points":"329",
+		"ownership":"2375",	
+		"vault":"315",
+		"total-ranking-points":"17",
+		"OPR":"none",
+		"playoffs":"alliance-7-pick-2",
+		"playoffs-record":"3-2",
+		"result":"semis"
+	},
 	"2017-record": "29-25-0"
 }
 {
 	"teamNum": 4522,
 	"teamName": "Team SCREAM",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Greater Pittsburgh Regional",
 		"3":"Seven Rivers Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"9-3",
+		"rank":"3",
+		"ranking-score":"2.25",	
+		"park-climb-points":"665",
+		"auto-points":"345",
+		"ownership":"2719",	
+		"vault":"255",
+		"total-ranking-points":"27",
+		"OPR":"139.53",
+		"OPR-rank":"6",
+		"playoffs":"alliance-3-captain",
+		"playoffs-record":"6-1",
+		"result":"champions"
+	},
 	"2017-record": "24-20-2"
 }
 {
 	"teamNum": 4646,
 	"teamName": "Team ASAP",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Iowa Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"4-8",
+		"rank":"31",
+		"ranking-score":"1.16",	
+		"park-climb-points":"470",
+		"auto-points":"303",
+		"ownership":"2219",	
+		"vault":"260",
+		"total-ranking-points":"14",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "16-16-0"
 }
 {
 	"teamNum": 4786,
 	"teamName": "Nicolet FEAR",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Wisconsin Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"8-4",
+		"rank":"6",
+		"ranking-score":"1.91",	
+		"park-climb-points":"615",
+		"auto-points":"297",
+		"ownership":"2416",	
+		"vault":"255",
+		"total-ranking-points":"23",
+		"OPR":"none",
+		"playoffs":"alliance-6-captain",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+	},
 	"2017-record": "6-14-0"
 }
 {
 	"teamNum": 4809,
 	"teamName": "Black Knight Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 	},
-	"past-competitions": "none",
 	"2017-record": "4-5-0"
 }
 {
 	"teamNum": 4959,
 	"teamName": "Millenium Falcons",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Iowa Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"7-5",
+		"rank":"11",
+		"ranking-score":"1.83",	
+		"park-climb-points":"525",
+		"auto-points":"417",
+		"ownership":"2496",	
+		"vault":"335",
+		"total-ranking-points":"22",
+		"OPR":"114.91",
+		"OPR-rank":"12",
+		"playoffs":"alliance-6-pick-1",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+	},
 	"2017-record": "30-22-1"
 }
 {
 	"teamNum": 5013,
 	"teamName": "Trobots",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"Midwest Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "13-18-1"
 }
 {
 	"teamNum": 5082,
 	"teamName": "Northmen Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"3-9",
+		"rank":"42",
+		"ranking-score":"0.83",	
+		"park-climb-points":"395",
+		"auto-points":"229",
+		"ownership":"1502",	
+		"vault":"210",
+		"total-ranking-points":"10",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "1-8-0"
 }
 {
 	"teamNum": 5098,
 	"teamName": "STING - R",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"Oklahoma Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "10-9-0"
 }
 {
 	"teamNum": 5119,
 	"teamName": "Team STEAM",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"8-4",
+		"rank":"7",
+		"ranking-score":"1.91",	
+		"park-climb-points":"565",
+		"auto-points":"359",
+		"ownership":"2383",	
+		"vault":"200",
+		"total-ranking-points":"23",
+		"OPR":"none",
+		"playoffs":"alliance-5-pick-1",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+	},
 	"2017-record": "11-7-0"
 }
 {
 	"teamNum": 5126,
 	"teamName": "Electromagnetic Panthers",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"Colorado Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "9-15-1"
 }
 {
 	"teamNum": 5141,
 	"teamName": "GRIFFINITE",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "3-6-0"
 }
 {
 	"teamNum": 5189,
 	"teamName": "SABRE",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "3-6-0"
 }
 {
 	"teamNum": 5268,
 	"teamName": "The BioMech Falcons",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"5-7",
+		"rank":"20",
+		"ranking-score":"1.41",	
+		"park-climb-points":"520",
+		"auto-points":"313",
+		"ownership":"2037",	
+		"vault":"280",
+		"total-ranking-points":"17",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "3-8-1"
 }
 {
 	"teamNum": 5801,
 	"teamName": "CTC Inspire",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"Oklahoma Regional"
 	},
-	"past-competitions": "none",
 	"2017-record": "33-17-0"
 }
 {
 	"teamNum": 5809,
 	"teamName": "The Jesubots",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"4-8",
+		"rank":"30",
+		"ranking-score":"1.16",	
+		"park-climb-points":"485",
+		"auto-points":"284",
+		"ownership":"1895",	
+		"vault":"175",
+		"total-ranking-points":"14",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "14-18-3"
 }
 {
 	"teamNum": 5889,
 	"teamName": "Commandobots",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 		"2":"Dallas Regional"
 	},
@@ -872,123 +1318,195 @@
 		"ownership":"1786",				
 		"vault":"180",					
 		"total-ranking-points":"17",	
-		"alliance":"alliance-captain-7",
-		"playoff-record":"1-2"			
+		"OPR":"131.52",
+		"OPR-rank":"8",
+		"playoffs":"alliance-captain-7",
+		"playoff-record":"1-2",
+		"result":"quarters"
 	},
-	"past-competitions": "none",
 	"2017-record": "14-15-0"
-}			// march 1
+}		
 {
 	"teamNum": 5968,
 	"teamName": "Cyborg Indians",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 	},
-	"past-competitions": "none",
 	"2017-record": "11-11-2"
 }
 {
 	"teamNum": 6317,
 	"teamName": "Disruptive Innovation",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Iowa Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"5-7",
+		"rank":"27",
+		"ranking-score":"1.25",	
+		"park-climb-points":"515",
+		"auto-points":"331",
+		"ownership":"2194",	
+		"vault":"305",
+		"total-ranking-points":"15",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "6-13-0"
 }
 {
 	"teamNum": 6359,
 	"teamName": "TechKnow Difficulties",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Iowa Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"4-8",
+		"rank":"35",
+		"ranking-score":"1.08",	
+		"park-climb-points":"550",
+		"auto-points":"220",
+		"ownership":"2090",	
+		"vault":"305",
+		"total-ranking-points":"13",
+		"OPR":"none",
+		"playoffs":"alliance-8-pick-1",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+	},
 	"2017-record": "6-5-0"
 }
 {
 	"teamNum": 6420,
 	"teamName": "Fire Island Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Iowa Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"4-8",
+		"rank":"39",
+		"ranking-score":"0.91",	
+		"park-climb-points":"580",
+		"auto-points":"240",
+		"ownership":"1754",	
+		"vault":"250",
+		"total-ranking-points":"11",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"2017-record": "13-18-0"
 }
 {
 	"teamNum": 6424,
 	"teamName": "Stealth Panther Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Iowa Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"5-7",
+		"rank":"23",
+		"ranking-score":"1.33",	
+		"park-climb-points":"505",
+		"auto-points":"268",
+		"ownership":"2324",	
+		"vault":"355",
+		"total-ranking-points":"16",
+		"OPR":"none",
+		"playoffs":"alliance-8-pick-2",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+	},
 	"2017-record": "23-20-0"
 }
 {
 	"teamNum": 6542,
 	"teamName": "Technomancers",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 	},
-	"past-competitions": "none",
 	"2017-record": "8-3-1"
 }
 {
 	"teamNum": 6805,
 	"teamName": "Cyber Jays",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 	},
-	"past-competitions": "none",
 	"2017-record": "none"
 }
 {
 	"teamNum": 6817,
 	"teamName": "10 Factorial",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 	},
-	"past-competitions": "none",
 	"2017-record": "none"
 }
 {
 	"teamNum": 6843,
 	"teamName": "Guardian Gears",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"7-5",
+		"rank":"5",
+		"ranking-score":"2.00",	
+		"park-climb-points":"525",
+		"auto-points":"308",
+		"ownership":"2312",	
+		"vault":"240",
+		"total-ranking-points":"24",
+		"OPR":"106.30",
+		"OPR-rank":"15",
+		"playoffs":"alliance-5-captain",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+	},
 	"2017-record": "none"
 }
 {
 	"teamNum": 6886,
 	"teamName": "Synthesizers",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Heartland Regional",
 		"2":"Greater Kansas City Regional"
 	},
-	"past-competitions": "none",
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"10-2",
+		"rank":"2",
+		"ranking-score":"2.58",	
+		"park-climb-points":"595",
+		"auto-points":"354",
+		"ownership":"2862",	
+		"vault":"285",
+		"total-ranking-points":"31",
+		"OPR":"156.41",
+		"OPR-rank":"3",
+		"playoffs":"alliance-2-captain",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+	},
 	"2017-record": "none"
 }
 {
 	"teamNum": 6976,
 	"teamName": "Electric Eagles",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 	},
-	"past-competitions": "none",
 	"2017-record": "none"
 }
 {
 	"teamNum": 7064,
 	"teamName": "Voltron Robotics",
-	"upcoming-competitions": {
+	"competitions": {
 		"1":"Greater Kansas City Regional",
 	},
-	"past-competitions": "none",
 	"2017-record": "none"
 }
 

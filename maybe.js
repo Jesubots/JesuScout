@@ -1,4 +1,10 @@
 /*
+STUFF that might be useful later once working with socket 
+and passing values to server.html, but for now is not needed
+*/
+
+
+/*
 $(document).ready(function() {
 	
 	var button = document.getElementById('manualScout');
