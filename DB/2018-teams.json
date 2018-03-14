@@ -247,6 +247,7 @@
 		"playoffs-record":"0-2",
 		"result":"quarters"
 	},
+	"Heartland-comments":"Stable design is good for moving around at full height",
 	"2017-record": "28-17-1"
 }
 {
@@ -276,6 +277,7 @@
 		"OPR":"none",
 		"playoffs":"no"
 	},
+	"Heartland-comments":"they didn't move for 20sec; no cubes moved; had mobility but no RSL?",
 	"2017-record": "6-12-0"
 }
 {
@@ -297,6 +299,7 @@
 		"OPR":"none",
 		"playoffs":"no"
 	},
+	"Heartland-comments":"Design that allows robot to be fast and effective, excellent climber",
 	"2017-record": "10-12-1"
 }
 {
@@ -413,6 +416,7 @@
 		"playoffs-record":"4-2",
 		"result":"finals"
 	},
+	"Heartland-comments":"excellent autonomous operation, very good at putting blocks on scale, relatively stable operation",
 	"2017-record": "28-19-0"
 }
 {
@@ -471,6 +475,10 @@
 		"total-ranking-points":"14",
 		"OPR":"none",
 		"playoffs":"no"
+	},
+	"Heartland-comments": {
+		"1":"ineffective intake",
+		"2":"movement control troubles."
 	},
 	"2017-record": "9-10-0"
 }
@@ -556,6 +564,7 @@
 		"playoffs-record":"4-2",
 		"result":"finals"
 	},
+	"Heartland-comments":"good strategy - heads up driving (!!!!)",
 	"2017-record": "36-29-0"
 }
 {
@@ -577,6 +586,10 @@
 		"playoffs":"alliance-1-pick-2",
 		"playoffs-record":"4-2",
 		"result":"finals"
+	},
+	"Heartland-comments": {
+		"1":"good design: allows for quick handling of blocks, good climbing system",
+		"2":"pvc intake is a bit weird but okay, the climb is close"
 	},
 	"2017-record": "15-15-1"
 }
@@ -602,8 +615,10 @@
 	"competitions": {
 		"1":"Heartland Regional"
 	},
+	"HeartlandRegional-RESULTS": {},
+	"Heartland-comments":"Strategically and effectively placed blocks on switches",
 	"2017-record": "2-7-0"
-}
+} //missed
 {
 	"teamNum": 1939,
 	"teamName": "The Kuhnigits",
@@ -649,6 +664,7 @@
 		"playoffs-record":"6-1",
 		"result":"champions"
 	},
+	"Heartland-comments":"slow, methodical input",
 	"2017-record": "3-6-0"
 }
 {
@@ -672,6 +688,7 @@
 		"playoffs-record":"2-2",
 		"result":"semis"
 	},
+	"Heartland-comments":"good autonomous operation, interesting climbing system",
 	"2017-record": "13-8-0"
 }
 {
@@ -694,6 +711,7 @@
 		"OPR":"none",
 		"playoffs":"no"
 	},
+	"Heartland-comments":"bad bad robot",
 	"2017-record": "78-17-0"
 } 			
 {
@@ -722,6 +740,10 @@
 		"total-ranking-points":"10",
 		"OPR":"none",
 		"playoffs":"no"
+	},
+	"Heartland-comments":{
+		"1":"Multiple connection losses; poorly built",
+		"2":"Too short for scale; bad driving"
 	},
 	"2017-record": "3-6-0"
 }
@@ -808,6 +830,7 @@
 		"playoffs-record":"0-2",
 		"result":"quarters"
 	},
+	"Heartland-comments":"Mecannum drive; too short for scale",
 	"2017-record": "4-5-0"
 }
 {
@@ -930,6 +953,7 @@
 		"playoffs-record":"0-2",
 		"result":"quarters"
 	},
+	"Heartland-comments":"fast climb",
 	"2017-record": "11-10-1"
 }
 {
@@ -1020,6 +1044,7 @@
 		"playoffs-record":"0-2",
 		"result":"quarters"
 	},
+	"Heartland-comments":"Excellent at moving blocks to scales/switches, good climber, relatively stable when moving and lifting blocks, all-around excellent robot",
 	"2017-record": "23-12-0"
 }
 {
@@ -1164,6 +1189,7 @@
 		"playoffs-record":"0-2",
 		"result":"quarters"
 	},
+	"Heartland-comments":"Excellent at putting blocks in/on switch/scale/vault, did well autonomously, very good robot overall",
 	"2017-record": "30-22-1"
 }
 {
@@ -1225,6 +1251,7 @@
 		"playoffs-record":"0-2",
 		"result":"quarters"
 	},
+	"Heartland-comments":"Effective when placing blocks in switch/scale, interesting climbing method, good robot",
 	"2017-record": "11-7-0"
 }
 {
@@ -1376,6 +1403,7 @@
 		"playoffs-record":"0-2",
 		"result":"quarters"
 	},
+	"Heartland-comments":"Fast and effective robot, good at putting power cubes into vault",
 	"2017-record": "6-5-0"
 }
 {
@@ -1420,6 +1448,7 @@
 		"playoffs-record":"0-2",
 		"result":"quarters"
 	},
+	"Heartland-comments":"Interesting method of shooting blocks onto switch, very interesting method of putting blocks onto scale: effectively converts from launcher to robot arm, very good at placing blocks in general",
 	"2017-record": "23-20-0"
 }
 {
@@ -1467,6 +1496,10 @@
 		"playoffs-record":"0-2",
 		"result":"quarters"
 	},
+	"Heartland-comments": {
+		"1":"Lift too short; poor build.",
+		"2":"really struggling with intake"
+	},
 	"2017-record": "none"
 }
 {
@@ -1509,4 +1542,8 @@
 	},
 	"2017-record": "none"
 }
+
+
+
+
 
