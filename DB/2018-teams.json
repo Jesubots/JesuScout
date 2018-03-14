@@ -615,10 +615,21 @@
 	"competitions": {
 		"1":"Heartland Regional"
 	},
-	"HeartlandRegional-RESULTS": {},
+	"HeartlandRegional-RESULTS": {
+		"quals-record":"4-8",
+		"rank":"28",
+		"ranking-score":"1.25",	
+		"park-climb-points":"455",
+		"auto-points":"281",
+		"ownership":"2150",	
+		"vault":"250",
+		"total-ranking-points":"15",
+		"OPR":"none",
+		"playoffs":"no"
+	},
 	"Heartland-comments":"Strategically and effectively placed blocks on switches",
 	"2017-record": "2-7-0"
-} //missed
+}
 {
 	"teamNum": 1939,
 	"teamName": "The Kuhnigits",
