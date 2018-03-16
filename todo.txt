@@ -5,7 +5,7 @@ IMMEDIATE
 
 Tableau Tableau Tableau
 Team Ranking Formula / Value System
-________
+__________________________________
 
 LONG TERM
 
@@ -25,7 +25,10 @@ Make Scouting.html pretty and flexible (palette and bootstrap)
 Whitepage
 	more promotion and documentation
 	
-________
+__________________________________
+
+
+
 
 
 
