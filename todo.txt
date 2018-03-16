@@ -24,6 +24,12 @@ Make Scouting.html pretty and flexible (palette and bootstrap)
 
 Whitepage
 	more promotion and documentation
+
+Data validation
+
+Add pit scouting sheets to github
+
+Organize Filesystem
 	
 __________________________________
 
