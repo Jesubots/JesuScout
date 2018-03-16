@@ -131,7 +131,7 @@ h1 {
 	display: block;
   	position: absolute;
   	left: 50%;
-  	top: 76%;
+  	top: 88.5%;
   	height: 2.5rem;
   	padding-top: 1.3rem;
   	width: 15rem;
@@ -153,7 +153,7 @@ h1 {
 .container2 {
   position: relative;
   width: 100%;
-  height: 1000px;
+  height: 750px;
   background: #003ca2;
 }
 /*******************
@@ -186,8 +186,8 @@ canvas {
 	display: inline-block;
 	position: absolute;
 	width: 100%;
-	margin-top: 50px;
-	height: 230px;;
+	margin-top: 40px;
+	height: 190px;;
 	border: 2px solid #f3db51;
 	border-left: none;
 	background: #2b2b2b;
@@ -206,35 +206,40 @@ canvas {
 }
 .matchNum {
 	display: inline-block;
-	margin-left: 7.8%;
+	margin-left: 5%;
 }
 .teamNum {
 	display: inline-block;
-	margin-left: 2.7%;
+	margin-left: 4%;
 }
 .homeSwitch {
 	display: inline-block;
-	margin-top: 18px;
+	margin-top: 25px;
+	margin-left: 9%;
+}
+#homeSwitchCount {
+	width: 35px;
 }
 .scale-count {
 	display: inline-block;
 	margin-left: 3%
 }
+#scaleCount {
+	width: 35px;
+}
 .opposingSwitch {
 	display: inline-block;
 	margin-left: 2.5%;
 }
-.levitate-count {
-	display: inline-block;
-	margin-top: 18px;
+#opposingSwitchCount {
+	width: 35px;
 }
-.force-count {
-	display: inline-block;
-	margin-left: 5.5%;
-}
-.boost-count {
+.vault {
 	display: inline-block;
 	margin-left: 2.5%;
+}
+#vaultCount {
+	width: 35px;
 }
 /* END GAME */
 .endPoints {
@@ -274,16 +279,22 @@ canvas {
 	display: inline-block;
 }
 .lineCross {
-	margin-left: 5.5%;
+	margin-left: 4.5%;
 	display: inline-block;
 }
 .preSwitch {
 	margin-left: 5%;
 	display: inline-block;
 }
+#autoSwitch {
+	width: 50px;
+}
 .preScale {
 	margin-left: 5%;
 	display: inline-block;
+}
+#autoScale {
+	width: 50px;
 }
 /* SUBMIT */
 #manualScout {

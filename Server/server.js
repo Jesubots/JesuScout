@@ -47,7 +47,7 @@ server.listen(3000, function() {
 });
 
 app.post('/match', function(req,res) {
-	mongo.ops.insert('HeartlandMatches', req.body, function(error, result) {
+	mongo.ops.insert('kcMatches', req.body, function(error, result) {
 		logg('/match req.body = ', req.body);
 		
 		if(error) res.status(500).send(error);
@@ -55,9 +55,9 @@ app.post('/match', function(req,res) {
 	});
 });
 
-app.get('/api/HeartlandMatches', function(req, res) {
-	mongo.ops.find('HeartlandMatches', req.body, function(error, result) {
-		logg('/HeartlandMatches req.body = ', req.body); //not logging?
+app.get('/api/kcMatches', function(req, res) {
+	mongo.ops.find('kcMatches', req.body, function(error, result) {
+		logg('/kcMatches req.body = ', req.body); //not logging?
 		
 		if(error) res.status(500).send(error);
 		else res.status(200).send(result);
