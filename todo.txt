@@ -1,15 +1,10 @@
 TO DO's
 __________________________________
 
-*********
-NECESSARY ----
-*********
+IMMEDIATE
 
-incorporate websocket (socket.io)	  } connected?
-	make use of server.html
-learn how to configure data in tableau
-	also how to get json or csv into tableau
-purchase network switch & necessary materials
+Tableau Tableau Tableau
+Team Ranking Formula / Value System
 ________
 
 LONG TERM
@@ -19,12 +14,18 @@ Map Regions aspect
 	creating regions
 	how to trigger them
 	how to USE the data / organize into useful data
+
+incorporate websocket (socket.io)
+	make use of server.html
+
+Make Scouting.html pretty and flexible (palette and bootstrap)
+	add header and footer with jesuscout and team info
+	add complete process as a whitepage
+
+Whitepage
+	more promotion and documentation
 	
 ________
 
-IMMEDIATE
-
-Get working connected map with internal libraries
-TABLEAU
 
 

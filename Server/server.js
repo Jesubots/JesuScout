@@ -51,7 +51,7 @@ app.post('/match', function(req,res) {
 		logg('/match req.body = ', req.body);
 		
 		if(error) res.status(500).send(error);
-        else res.status(201).send(result);
+		else res.status(201).send(result);
 	});
 });
 
@@ -76,47 +76,47 @@ mongo.connect(murl, function(err, dbn) {
 	
 	mongo.ops = {};
     
-    mongo.ops.find = function(collection, json, callback) {
-        db.collection(collection).find(json).toArray(function(error, docs) {
-            if(callback) callback(error, docs);
-        });
-    };
+	mongo.ops.find = function(collection, json, callback) {
+		db.collection(collection).find(json).toArray(function(error, docs) {
+			if(callback) callback(error, docs);
+		});
+	};
     
-    mongo.ops.findOne = function(collection, json, callback) {
-        db.collection(collection).findOne(json, function(error, doc) {
-            if(callback) callback(error, doc);
-        });
-    };
+	mongo.ops.findOne = function(collection, json, callback) {
+		db.collection(collection).findOne(json, function(error, doc) {
+			if(callback) callback(error, doc);
+		});
+	};
 
-    mongo.ops.insert = function(collection, json, callback) {
-        db.collection(collection).insert(json, function(error, result) {
-            if(callback) callback(error, result);
-        });
-    };
+	mongo.ops.insert = function(collection, json, callback) {
+		db.collection(collection).insert(json, function(error, result) {
+			if(callback) callback(error, result);
+		});
+	};
 
-    mongo.ops.upsert = function(collection, query, json, callback) {
-        db.collection(collection).updateOne(query, { $set: json }, { upsert: true }, function(error, result) {
-            if (callback) callback(error, result);
-        });
-    };
+	mongo.ops.upsert = function(collection, query, json, callback) {
+		db.collection(collection).updateOne(query, { $set: json }, { upsert: true }, function(error, result) {
+			if (callback) callback(error, result);
+		});
+	};
     
-    mongo.ops.updateOne = function(collection, query, json, callback) {
-        db.collection(collection).updateOne(query, { $set : json }, function(error, result) {
-            if(callback) callback(error, result);
-        });
-    };
+	mongo.ops.updateOne = function(collection, query, json, callback) {
+		db.collection(collection).updateOne(query, { $set : json }, function(error, result) {
+			if(callback) callback(error, result);
+		});
+	};
     
-    mongo.ops.deleteOne = function(collection, query, callback) {
-        db.collection(collection).deleteOne(query, function(error, result) {
-            if(callback) callback(error, result);
-        });
-    };
+	mongo.ops.deleteOne = function(collection, query, callback) {
+		db.collection(collection).deleteOne(query, function(error, result) {
+			if(callback) callback(error, result);
+		});
+	};
     
-    mongo.ops.deleteMany = function(collection, query, callback) {
-        db.collection(collection).deleteMany(query, function(error, result) {
-            if(callback) callback(error, result);
-        });
-    };
+	mongo.ops.deleteMany = function(collection, query, callback) {
+		db.collection(collection).deleteMany(query, function(error, result) {
+			if(callback) callback(error, result);
+		});
+	};
 });
 
 
@@ -125,27 +125,27 @@ mongo.connect(murl, function(err, dbn) {
  * Custom logger to prevent circular reference in JSON.parse(obj)
  */
 function logg(msg, obj) {
-    console.log('\n');
-    if(obj) {
-        try {
-            console.log(msg + JSON.stringify(obj));
-        } catch(err) {
-            var simpleObject = {};
-            for (var prop in obj ){
-                if (!obj.hasOwnProperty(prop)){
-                    continue;
-                }
-                if (typeof(obj[prop]) == 'object'){
-                    continue;
-                }
-                if (typeof(obj[prop]) == 'function'){
-                    continue;
-                }
-                simpleObject[prop] = obj[prop];
-            }
-            console.log('circular-' + msg + JSON.stringify(simpleObject)); // returns cleaned up JSON
-        }        
-    } else {
-        console.log(msg);
-    }
+	console.log('\n');
+	if(obj) {
+		try {
+			console.log(msg + JSON.stringify(obj));
+		} catch(err) {
+			var simpleObject = {};
+			for (var prop in obj ){
+				if (!obj.hasOwnProperty(prop)){
+					continue;
+				}
+				if (typeof(obj[prop]) == 'object'){
+					continue;
+				}
+				if (typeof(obj[prop]) == 'function'){
+					continue;
+				}
+				simpleObject[prop] = obj[prop];
+			}
+			console.log('circular-' + msg + JSON.stringify(simpleObject)); // returns cleaned up JSON
+		}        
+	} else {
+		console.log(msg);
+	}
 };
