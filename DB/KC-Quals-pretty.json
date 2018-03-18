@@ -1,0 +1,6957 @@
+{  
+    "_id":{  
+        "$oid":"5aabce1bc86e1b03debad14c"
+    },
+    "scoutName":"Jake",
+    "matchNum":"1",
+    "teamNum":"1775",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Has trouble picking blocks up--mechanical error"
+}
+{  
+    "_id":{  
+        "$oid":"5aabce20c86e1b03debad14d"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"1",
+    "teamNum":"6976",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Robot broke"
+}
+{  
+    "_id":{  
+        "$oid":"5aabce31c86e1b03debad14e"
+    },
+    "scoutName":"Henry",
+    "matchNum":"1",
+    "teamNum":"2164",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"8",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabce40c86e1b03debad14f"
+    },
+    "scoutName":"evan",
+    "matchNum":"1",
+    "teamNum":"3172",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"used 1997's  ramp to climb"
+}
+{  
+    "_id":{  
+        "$oid":"5aabce67c86e1b03debad150"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"1",
+    "teamNum":"935",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"Auto went wrong"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd01bc86e1b03debad152"
+    },
+    "scoutName":"Jake",
+    "matchNum":"2",
+    "teamNum":"932",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"2",
+    "opposingSwitch-count":"1",
+    "vaultCount":"",
+    "winLoss":"on",
+    "scoutComments":"Good Driving, bad climbing system"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd023c86e1b03debad153"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"2",
+    "teamNum":"932",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"1",
+    "vaultCount":"3",
+    "winLoss":"on",
+    "scoutComments":"missed climb"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd039c86e1b03debad154"
+    },
+    "scoutName":"evan",
+    "matchNum":"2",
+    "teamNum":"5189",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd04ac86e1b03debad156"
+    },
+    "scoutName":"Sean",
+    "matchNum":"2",
+    "teamNum":"2560",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Interesting jaw gripper design, started off a bit slow"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd04ec86e1b03debad157"
+    },
+    "scoutName":"Henry",
+    "matchNum":"2",
+    "teamNum":"1763",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"1",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":"wasted time, could have scored more"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd163c86e1b03debad159"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"3",
+    "teamNum":"6817",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"broken"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd1b5c86e1b03debad15a"
+    },
+    "scoutName":"Jake",
+    "matchNum":"3",
+    "teamNum":"2357",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "winLoss":"on",
+    "scoutComments":"They have a midget driving; broken wrist"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd1b7c86e1b03debad15b"
+    },
+    "scoutName":"evan",
+    "matchNum":"3",
+    "teamNum":"1802",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd1b8c86e1b03debad15c"
+    },
+    "scoutName":"Henry",
+    "matchNum":"3",
+    "teamNum":"5126",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd1cfc86e1b03debad15d"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"3",
+    "teamNum":"6542",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1 ",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd1d7c86e1b03debad15e"
+    },
+    "scoutName":"Sean",
+    "matchNum":"3",
+    "teamNum":"1288",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Interesting design, narrow intake width"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd323c86e1b03debad15f"
+    },
+    "scoutName":"Jake",
+    "matchNum":"4",
+    "teamNum":"7064",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":"Good driving"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd33ac86e1b03debad160"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"4",
+    "teamNum":"6886",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"4",
+    "opposingSwitch-count":"1",
+    "vaultCount":"4",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd343c86e1b03debad161"
+    },
+    "scoutName":"evan",
+    "matchNum":"4",
+    "teamNum":"1723",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"almost made the auto scale"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd357c86e1b03debad162"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"4",
+    "teamNum":"3284",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"4",
+    "vaultCount":"5",
+    "winLoss":"on",
+    "scoutComments":" "
+}
+{  
+    "_id":{  
+        "$oid":"5aabd35ec86e1b03debad163"
+    },
+    "scoutName":"Henry",
+    "matchNum":"4",
+    "teamNum":"6805",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"trouble holding cubes, lost connection, almost climbed"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd386c86e1b03debad164"
+    },
+    "scoutName":"Sean",
+    "matchNum":"4",
+    "teamNum":"5098",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"Tower design in center (promotes stability), blocks can sometimes be accidentally moved foreward by jaw wheels"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd4cbc86e1b03debad165"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"5",
+    "teamNum":"1987",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"6",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd4ccc86e1b03debad166"
+    },
+    "scoutName":"evan",
+    "matchNum":"5",
+    "teamNum":"2345",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd4cfc86e1b03debad167"
+    },
+    "scoutName":"Jake",
+    "matchNum":"5",
+    "teamNum":"1764",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"`1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"4",
+    "winLoss":"on",
+    "scoutComments":"Crazy Tall"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd4dec86e1b03debad168"
+    },
+    "scoutName":"Henry",
+    "matchNum":"5",
+    "teamNum":"938",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"could not pick up cubes"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd4ffc86e1b03debad169"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"5",
+    "teamNum":"1825",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"8",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"Levitate Power Up "
+}
+{  
+    "_id":{  
+        "$oid":"5aabd500c86e1b03debad16a"
+    },
+    "scoutName":"Sean",
+    "matchNum":"5",
+    "teamNum":"2345",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Electronics mounted on inclined board: promotes ease of access"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd64dc86e1b03debad16b"
+    },
+    "scoutName":"Jake",
+    "matchNum":"6",
+    "teamNum":"2457",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"2",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd655c86e1b03debad16c"
+    },
+    "scoutName":"evan",
+    "matchNum":"6",
+    "teamNum":"5809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd656c86e1b03debad16d"
+    },
+    "scoutName":"Henry",
+    "matchNum":"6",
+    "teamNum":"5889",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"6",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd67bc86e1b03debad16e"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"6",
+    "teamNum":"2874",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd687c86e1b03debad16f"
+    },
+    "scoutName":"Sean",
+    "matchNum":"6",
+    "teamNum":"5809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Well-built robot"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd7eac86e1b03debad170"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"7",
+    "teamNum":"5801",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd7eec86e1b03debad171"
+    },
+    "scoutName":"Henry",
+    "matchNum":"7",
+    "teamNum":"5082",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"5",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd805c86e1b03debad172"
+    },
+    "scoutName":"evan",
+    "matchNum":"7",
+    "teamNum":"1986",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"7",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"used  ramp to help teamte climb. only two robots on blue alliance"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd80ec86e1b03debad173"
+    },
+    "scoutName":"Jake",
+    "matchNum":"7",
+    "teamNum":"1827",
+    "autoCross":"on",
+    "autoSwitch":"Failed",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Connection loss"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd840c86e1b03debad174"
+    },
+    "scoutName":"Sean",
+    "matchNum":"7",
+    "teamNum":"1986",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"7",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"Excellent with scale, good autonomous, blocks occasionally bounce away from jaw wheels, clever/effective/easy-to-board climb/climb-assist system"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd948c86e1b03debad175"
+    },
+    "scoutName":"Jake",
+    "matchNum":"8",
+    "teamNum":"5968",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Connection loss"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd9a9c86e1b03debad176"
+    },
+    "scoutName":"evan",
+    "matchNum":"8",
+    "teamNum":"937",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabd9aec86e1b03debad177"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"8",
+    "teamNum":"6886",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"1",
+    "opposingSwitch-count":"3",
+    "vaultCount":"0",
+    "scoutComments":"w'"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd9b7c86e1b03debad178"
+    },
+    "scoutName":"Henry",
+    "matchNum":"8",
+    "teamNum":"1802",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":"bad driving"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd9bcc86e1b03debad179"
+    },
+    "scoutName":"Sean",
+    "matchNum":"8",
+    "teamNum":"3172",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"pool noodle at the top of the lift was an interesting design element"
+}
+{  
+    "_id":{  
+        "$oid":"5aabd9c6c86e1b03debad17a"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"8",
+    "teamNum":"1825",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"4",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"6",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabdb79c86e1b03debad17b"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"9",
+    "teamNum":"6976",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"broken"
+}
+{  
+    "_id":{  
+        "$oid":"5aabdbdec86e1b03debad17c"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"9",
+    "teamNum":"6542",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabdbdec86e1b03debad17d"
+    },
+    "scoutName":"Jake",
+    "matchNum":"9",
+    "teamNum":"5809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"",
+    "opposingSwitch-count":"",
+    "vaultCount":"",
+    "scoutComments":"Slow; connection loss"
+}
+{  
+    "_id":{  
+        "$oid":"5aabdbe1c86e1b03debad17e"
+    },
+    "scoutName":"evan",
+    "matchNum":"9",
+    "teamNum":"1763",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"launches cube into scale and switch"
+}
+{  
+    "_id":{  
+        "$oid":"5aabdbf9c86e1b03debad17f"
+    },
+    "scoutName":"Henry",
+    "matchNum":"9",
+    "teamNum":"5098",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"4",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabdc01c86e1b03debad180"
+    },
+    "scoutName":"Sean",
+    "matchNum":"9",
+    "teamNum":"5141",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"square tower design of lift promotes stability"
+}
+{  
+    "_id":{  
+        "$oid":"5aabdd27c86e1b03debad181"
+    },
+    "scoutName":"Jake",
+    "matchNum":"10",
+    "teamNum":"1827",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Connection Loss"
+}
+{  
+    "_id":{  
+        "$oid":"5aabdd61c86e1b03debad182"
+    },
+    "scoutName":"evan",
+    "matchNum":"10",
+    "teamNum":"7064",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"used 1986's ramp to climb"
+}
+{  
+    "_id":{  
+        "$oid":"5aabdd6bc86e1b03debad183"
+    },
+    "scoutName":"Henry",
+    "matchNum":"10",
+    "teamNum":"935",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabdd6ec86e1b03debad184"
+    },
+    "scoutName":"Keegan Rpoudebush",
+    "matchNum":"10",
+    "teamNum":"1986",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0 ",
+    "scale-count":"7 ",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"got all 3 with it"
+}
+{  
+    "_id":{  
+        "$oid":"5aabdd99c86e1b03debad185"
+    },
+    "scoutName":"Sean",
+    "matchNum":"10",
+    "teamNum":"5889",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"4",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"used team 1986's climb-assist feature, interesting method for receiving blocks from human players and putting them in switches (rather effective at this)"
+}
+{  
+    "_id":{  
+        "$oid":"5aabddecc86e1b03debad187"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"11",
+    "teamNum":"5126",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabdefcc86e1b03debad188"
+    },
+    "scoutName":"Jake",
+    "matchNum":"11",
+    "teamNum":"2874",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":"Mostly Defensive"
+}
+{  
+    "_id":{  
+        "$oid":"5aabdf0dc86e1b03debad189"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"11",
+    "teamNum":"2164",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"8",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabdf0dc86e1b03debad18a"
+    },
+    "scoutName":"evan",
+    "matchNum":"11",
+    "teamNum":"938",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabdf0ec86e1b03debad18b"
+    },
+    "scoutName":"Henry",
+    "matchNum":"11",
+    "teamNum":"5013",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"almost auto scale, lift issues"
+}
+{  
+    "_id":{  
+        "$oid":"5aabdf23c86e1b03debad18c"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"11",
+    "teamNum":"5126",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabdf49c86e1b03debad18d"
+    },
+    "scoutName":"Sean",
+    "matchNum":"11",
+    "teamNum":"2560",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Interesting jaw grip design"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe066c86e1b03debad18e"
+    },
+    "scoutName":"evan",
+    "matchNum":"12",
+    "teamNum":"5082",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe07bc86e1b03debad18f"
+    },
+    "scoutName":"Jake",
+    "matchNum":"12",
+    "teamNum":"5189",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":"Ridiculously Slow; only won bc blue sucked"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe07fc86e1b03debad190"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"12",
+    "teamNum":"5801",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "winLoss":"on",
+    "scoutComments":"tried to play a boost powerup on the scale, which they did not control"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe083c86e1b03debad191"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"12",
+    "teamNum":"1288",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"outake was terible "
+}
+{  
+    "_id":{  
+        "$oid":"5aabe098c86e1b03debad192"
+    },
+    "scoutName":"Sean",
+    "matchNum":"12",
+    "teamNum":"6805",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"5",
+    "scoutComments":"electronics mounted on inclined board (promotes ease-of-access), good at pushing blocks into vault (used bumpers to do this, made minimal use of jaws while doing this)"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe0a1c86e1b03debad193"
+    },
+    "scoutName":"Henry",
+    "matchNum":"12",
+    "teamNum":"2345",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe28cc86e1b03debad194"
+    },
+    "scoutName":"Jake",
+    "matchNum":"13",
+    "teamNum":"2357",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"3",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe297c86e1b03debad195"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"13",
+    "teamNum":"1737",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Full omniwheels; very pushable, not good robot"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe297c86e1b03debad196"
+    },
+    "scoutName":"Henry",
+    "matchNum":"13",
+    "teamNum":"1775",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"no grip"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe29ec86e1b03debad197"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"13",
+    "teamNum":"932",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"6",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe2acc86e1b03debad198"
+    },
+    "scoutName":"evan",
+    "matchNum":"13",
+    "teamNum":"4809",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe3ffc86e1b03debad199"
+    },
+    "scoutName":"Jake",
+    "matchNum":"14",
+    "teamNum":"1997",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe402c86e1b03debad19a"
+    },
+    "scoutName":"Henry",
+    "matchNum":"14",
+    "teamNum":"1769",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe402c86e1b03debad19b"
+    },
+    "scoutName":"evan",
+    "matchNum":"14",
+    "teamNum":"5968",
+    "autoCross":"on",
+    "autoSwitch":"",
+    "autoScale":"",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":"foul for crossing to red side during auto"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe40bc86e1b03debad19c"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"14",
+    "teamNum":"2352",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe413c86e1b03debad19d"
+    },
+    "scoutName":"Sean",
+    "matchNum":"14",
+    "teamNum":"2457",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"interesting strategy: go for opponents' switch"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe633c86e1b03debad19e"
+    },
+    "scoutName":"Jake",
+    "matchNum":"15",
+    "teamNum":"2164",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"2",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe648c86e1b03debad19f"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"15",
+    "teamNum":"3284",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"5",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"tried for 2 team ramp climbs but both failed"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe64fc86e1b03debad1a0"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"15",
+    "teamNum":"6817",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"7",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe659c86e1b03debad1a1"
+    },
+    "scoutName":"Henry",
+    "matchNum":"15",
+    "teamNum":"5082",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"8",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe65cc86e1b03debad1a2"
+    },
+    "scoutName":"evan",
+    "matchNum":"15",
+    "teamNum":"2560",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0 ",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe661c86e1b03debad1a3"
+    },
+    "scoutName":"Sean",
+    "matchNum":"15",
+    "teamNum":"1827",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Interesting lift design (rather narrow/compact)"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe774c86e1b03debad1a4"
+    },
+    "scoutName":"Jake",
+    "matchNum":"16",
+    "teamNum":"1737",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "scoutComments":"Bad Bot"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe798c86e1b03debad1a5"
+    },
+    "scoutName":"evan",
+    "matchNum":"16",
+    "teamNum":"6976",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe79ac86e1b03debad1a6"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"16",
+    "teamNum":"2874",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"bad robot, worse driver"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe79bc86e1b03debad1a7"
+    },
+    "scoutName":"Henry",
+    "matchNum":"16",
+    "teamNum":"938",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":"no intake, bad driving"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe7bfc86e1b03debad1a8"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"16",
+    "teamNum":"1764",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe7d1c86e1b03debad1a9"
+    },
+    "scoutName":"Sean",
+    "matchNum":"16",
+    "teamNum":"7064",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":"tried to get blocks into vault (used jaws minimally for this)"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe8dfc86e1b03debad1aa"
+    },
+    "scoutName":"Jake",
+    "matchNum":"17",
+    "teamNum":"3172",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":"Defensive"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe8f3c86e1b03debad1ab"
+    },
+    "scoutName":"Henry",
+    "matchNum":"17",
+    "teamNum":"5126",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabe907c86e1b03debad1ac"
+    },
+    "scoutName":"evan",
+    "matchNum":"19",
+    "teamNum":"6886",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"4",
+    "vaultCount":"",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"fouled for crossing into red during auto"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe90ec86e1b03debad1ad"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"17",
+    "teamNum":"1987",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"6",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":"could get another robot to climb on them if positioned right"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe91cc86e1b03debad1ae"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"17",
+    "teamNum":"2352",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"2  ",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"Levitate"
+}
+{  
+    "_id":{  
+        "$oid":"5aabe986c86e1b03debad1af"
+    },
+    "scoutName":"Sean",
+    "matchNum":"17",
+    "teamNum":"5809",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"4",
+    "winLoss":"on",
+    "scoutComments":"good at putting blocks into vault, good at ejecting blocks, does well when putting blocks on switch/scale, block sometimes does not go into intake correctly"
+}
+{  
+    "_id":{  
+        "$oid":"5aabea5ec86e1b03debad1b0"
+    },
+    "scoutName":"Jake",
+    "matchNum":"18",
+    "teamNum":"5889",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"1",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabea96c86e1b03debad1b1"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"18",
+    "teamNum":"1825",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"8",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabea9cc86e1b03debad1b2"
+    },
+    "scoutName":"Henry",
+    "matchNum":"18",
+    "teamNum":"5098",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabea9dc86e1b03debad1b3"
+    },
+    "scoutName":"evan",
+    "matchNum":"18",
+    "teamNum":"1288",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabead8c86e1b03debad1b4"
+    },
+    "scoutName":"Sean",
+    "matchNum":"18",
+    "teamNum":"5189",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":"strategically decided to put blocks into vault (used bumpers and jaws to do this)"
+}
+{  
+    "_id":{  
+        "$oid":"5aabebe9c86e1b03debad1b5"
+    },
+    "scoutName":"Jake",
+    "matchNum":"19",
+    "teamNum":"6805",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Good driver"
+}
+{  
+    "_id":{  
+        "$oid":"5aabebefc86e1b03debad1b6"
+    },
+    "scoutName":"Sean",
+    "matchNum":"19",
+    "teamNum":"1769",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabebf1c86e1b03debad1b7"
+    },
+    "scoutName":"evan",
+    "matchNum":"19",
+    "teamNum":"2345",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabebf9c86e1b03debad1b8"
+    },
+    "scoutName":"Henry",
+    "matchNum":"19",
+    "teamNum":"1763",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabebfcc86e1b03debad1b9"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"19",
+    "teamNum":"1802",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"topheavy"
+}
+{  
+    "_id":{  
+        "$oid":"5aabec02c86e1b03debad1ba"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"19",
+    "teamNum":"1775",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabed67c86e1b03debad1bb"
+    },
+    "scoutName":"Jake",
+    "matchNum":"20",
+    "teamNum":"2457",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"Defensive"
+}
+{  
+    "_id":{  
+        "$oid":"5aabed8dc86e1b03debad1bc"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"20",
+    "teamNum":"1986",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"3",
+    "opposingSwitch-count":"3",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":"got a triple lift for teammates"
+}
+{  
+    "_id":{  
+        "$oid":"5aabed8ec86e1b03debad1bd"
+    },
+    "scoutName":"evan",
+    "matchNum":"20",
+    "teamNum":"937",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabed91c86e1b03debad1be"
+    },
+    "scoutName":"Henry",
+    "matchNum":"20",
+    "teamNum":"1997",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabed9dc86e1b03debad1bf"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"20",
+    "teamNum":"3284",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"4",
+    "scale-count":"0",
+    "opposingSwitch-count":"3",
+    "vaultCount":"1",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"carryed on other robot"
+}
+{  
+    "_id":{  
+        "$oid":"5aabedb1c86e1b03debad1c0"
+    },
+    "scoutName":"Sean",
+    "matchNum":"20",
+    "teamNum":"4809",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"interesting design for elevating platform, interesting block-grabber position"
+}
+{  
+    "_id":{  
+        "$oid":"5aabeeeac86e1b03debad1c1"
+    },
+    "scoutName":"Jake",
+    "matchNum":"21",
+    "teamNum":"5141",
+    "autoSwitch":"Fail",
+    "autoScale":"Fail",
+    "homeSwitch-count":"2",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":"Several Penalties"
+}
+{  
+    "_id":{  
+        "$oid":"5aabeeeec86e1b03debad1c2"
+    },
+    "scoutName":"evan",
+    "matchNum":"21",
+    "teamNum":"5801",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabeef7c86e1b03debad1c3"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"21",
+    "teamNum":"935",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabeef7c86e1b03debad1c4"
+    },
+    "scoutName":"Henry",
+    "matchNum":"21",
+    "teamNum":"6817",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":"lost connection twice"
+}
+{  
+    "_id":{  
+        "$oid":"5aabeefdc86e1b03debad1c5"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"21",
+    "teamNum":"1723",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"4",
+    "opposingSwitch-count":"3",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabef2ec86e1b03debad1c6"
+    },
+    "scoutName":"Sean",
+    "matchNum":"21",
+    "teamNum":"2357",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":"Strategically decided to place blocks in vault (mainly used jaws to do this)"
+}
+{  
+    "_id":{  
+        "$oid":"5aabf01cc86e1b03debad1c7"
+    },
+    "scoutName":"Jake",
+    "matchNum":"22",
+    "teamNum":"7064",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "scoutComments":"Connection loss"
+}
+{  
+    "_id":{  
+        "$oid":"5aabf05bc86e1b03debad1c8"
+    },
+    "scoutName":"evan",
+    "matchNum":"22",
+    "teamNum":"1775",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabf05ec86e1b03debad1c9"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"22",
+    "teamNum":"6542",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":"grabber mechanism was removed, probably because of weight, and r"
+}
+{  
+    "_id":{  
+        "$oid":"5aabf069c86e1b03debad1ca"
+    },
+    "scoutName":"Henry",
+    "matchNum":"22",
+    "teamNum":"5013",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabf069c86e1b03debad1cb"
+    },
+    "scoutName":"Sean",
+    "matchNum":"22",
+    "teamNum":"5968",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"interesting lift system, interesting block-grabber system"
+}
+{  
+    "_id":{  
+        "$oid":"5aabf089c86e1b03debad1cc"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"22",
+    "teamNum":"1825",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"9",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"Levitate"
+}
+{  
+    "_id":{  
+        "$oid":"5aabf1aec86e1b03debad1cd"
+    },
+    "scoutName":"Jake",
+    "matchNum":"23",
+    "teamNum":"932",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"1",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"8",
+    "scoutComments":"Fast"
+}
+{  
+    "_id":{  
+        "$oid":"5aabf1b2c86e1b03debad1ce"
+    },
+    "scoutName":"evan",
+    "matchNum":"23",
+    "teamNum":"1763",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabf1b6c86e1b03debad1cf"
+    },
+    "scoutName":"Henry",
+    "matchNum":"23",
+    "teamNum":"5809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aabf1c3c86e1b03debad1d0"
+    },
+    "scoutName":"Sean",
+    "matchNum":"23",
+    "teamNum":"5126",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":"strategically decided to get blocks into vault (Used bumpers to maneuver the blocks into the vault)"
+}
+{  
+    "_id":{  
+        "$oid":"5aabf1cbc86e1b03debad1d1"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"23",
+    "teamNum":"3284",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"4",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"would have gotten team climbs, but team didnt let them"
+}
+{  
+    "_id":{  
+        "$oid":"5aabf1dec86e1b03debad1d2"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"23",
+    "teamNum":"1827",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"didnt move for the w,hole match"
+}
+{  
+    "_id":{  
+        "$oid":"5aabf33fc86e1b03debad1d3"
+    },
+    "scoutName":"Sean",
+    "matchNum":"24",
+    "teamNum":"2164",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"5",
+    "winLoss":"on",
+    "scoutComments":"unusual/effective design, excelled at putting blocks into vault (however, it was okay at getting blocks onto switches as well)"
+}
+{  
+    "_id":{  
+        "$oid":"5aac067f567a2c0602c3eef3"
+    },
+    "scoutName":"Keegan Roudebush ",
+    "matchNum":"26",
+    "teamNum":"1764",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"5",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0886567a2c0602c3eef4"
+    },
+    "scoutName":"Henry",
+    "matchNum":"27",
+    "teamNum":"938",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0893567a2c0602c3eef5"
+    },
+    "scoutName":"evan",
+    "matchNum":"27",
+    "teamNum":"5098",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0896567a2c0602c3eef6"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"27",
+    "teamNum":"1802",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac08b1567a2c0602c3eef7"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"27",
+    "teamNum":"935",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"9",
+    "winLoss":"on",
+    "scoutComments":"near perfect vault bot"
+}
+{  
+    "_id":{  
+        "$oid":"5aac092a567a2c0602c3eef8"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"27",
+    "teamNum":"2352",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0a51567a2c0602c3eef9"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"28",
+    "teamNum":"1987",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0a56567a2c0602c3eefa"
+    },
+    "scoutName":"Henry",
+    "matchNum":"28",
+    "teamNum":"5968",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0a5c567a2c0602c3eefb"
+    },
+    "scoutName":"evan",
+    "matchNum":"28",
+    "teamNum":"6805",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0a6c567a2c0602c3eefc"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"28",
+    "teamNum":"6542",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0bea567a2c0602c3eefe"
+    },
+    "scoutName":"Jake",
+    "matchNum":"29",
+    "teamNum":"5801",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0bf1567a2c0602c3eeff"
+    },
+    "scoutName":"evan",
+    "matchNum":"29",
+    "teamNum":"1763",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"1",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0bf6567a2c0602c3ef00"
+    },
+    "scoutName":"Henry",
+    "matchNum":"29",
+    "teamNum":"4809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "climbMech":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0bfe567a2c0602c3ef01"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"29",
+    "teamNum":"5801",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0c0a567a2c0602c3ef02"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"29",
+    "teamNum":"3172",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":"Poor control on mouvment"
+}
+{  
+    "_id":{  
+        "$oid":"5aac0c42567a2c0602c3ef03"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"29",
+    "teamNum":"2357",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":"Looked confused during the end of the match"
+}
+{  
+    "_id":{  
+        "$oid":"5aac0e28567a2c0602c3ef04"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"30",
+    "teamNum":"932",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0e2d567a2c0602c3ef05"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"30",
+    "teamNum":"5013",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"3",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":"too agressive"
+}
+{  
+    "_id":{  
+        "$oid":"5aac0e2f567a2c0602c3ef06"
+    },
+    "scoutName":"evan",
+    "matchNum":"30",
+    "teamNum":"1802",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0e34567a2c0602c3ef07"
+    },
+    "scoutName":"Henry",
+    "matchNum":"30",
+    "teamNum":"5809",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"5",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0e57567a2c0602c3ef08"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"30",
+    "teamNum":"7064",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"5",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0f96567a2c0602c3ef09"
+    },
+    "scoutName":"evan",
+    "matchNum":"31",
+    "teamNum":"1997",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"3",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0fac567a2c0602c3ef0a"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"31",
+    "teamNum":"5098",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"4",
+    "scoutComments":"lift non opperational"
+}
+{  
+    "_id":{  
+        "$oid":"5aac0fb0567a2c0602c3ef0b"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"31",
+    "teamNum":"1764",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0fb0567a2c0602c3ef0c"
+    },
+    "scoutName":"Henry",
+    "matchNum":"31",
+    "teamNum":"5889",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"5",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac0fcc567a2c0602c3ef0d"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"31",
+    "teamNum":"6817",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"didnt move during the match"
+}
+{  
+    "_id":{  
+        "$oid":"5aac1129567a2c0602c3ef0e"
+    },
+    "scoutName":"Henry",
+    "matchNum":"32",
+    "teamNum":"6976",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac112a567a2c0602c3ef0f"
+    },
+    "scoutName":"evan",
+    "matchNum":"32",
+    "teamNum":"2352",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac112d567a2c0602c3ef10"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"32",
+    "teamNum":"6886",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"1",
+    "vaultCount":"2",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac113b567a2c0602c3ef11"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"32",
+    "teamNum":"1827",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"no gripper control and poor driving"
+}
+{  
+    "_id":{  
+        "$oid":"5aac1297567a2c0602c3ef13"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"33",
+    "teamNum":"2345",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac129c567a2c0602c3ef14"
+    },
+    "scoutName":"evan",
+    "matchNum":"33",
+    "teamNum":"2457",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{
+    "_id":{  
+        "$oid":"5aac12a3567a2c0602c3ef15"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"33",
+    "teamNum":"2164",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"2",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac12a3567a2c0602c3ef16"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"33",
+    "teamNum":"3284",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"5",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac1393567a2c0602c3ef17"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"34",
+    "teamNum":"1986",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac1413567a2c0602c3ef18"
+    },
+    "scoutName":"evan",
+    "matchNum":"34",
+    "teamNum":"5189",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac141c567a2c0602c3ef19"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"34",
+    "teamNum":"1986",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"6",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac141d567a2c0602c3ef1a"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"34",
+    "teamNum":"2560",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac1425567a2c0602c3ef1b"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"34",
+    "teamNum":"1723",
+    "autoSwitch":"2",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"5",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"very good robot, beat titanium"
+}
+{  
+    "_id":{  
+        "$oid":"5aac142b567a2c0602c3ef1c"
+    },
+    "scoutName":"henry",
+    "matchNum":"34",
+    "teamNum":"2357",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac15a9567a2c0602c3ef1e"
+    },
+    "scoutName":"evan",
+    "matchNum":"35",
+    "teamNum":"937",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac15c5567a2c0602c3ef1f"
+    },
+    "scoutName":"henry",
+    "matchNum":"35",
+    "teamNum":"1737",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac15c5567a2c0602c3ef20"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"35",
+    "teamNum":"938",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"wandered around aimlessly the whole match"
+}
+{  
+    "_id":{  
+        "$oid":"5aac15d2567a2c0602c3ef21"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"35",
+    "teamNum":"1825",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"7",
+    "winLoss":"on",
+    "scoutComments":"did not use powerups wisely, used boost on scale, which theye did not control"
+}
+{  
+    "_id":{  
+        "$oid":"5aac1765567a2c0602c3ef22"
+    },
+    "scoutName":"evan",
+    "matchNum":"36",
+    "teamNum":"5141",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac176e567a2c0602c3ef23"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"36",
+    "teamNum":"4809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":"cruddy robot design, very slow"
+}
+{  
+    "_id":{  
+        "$oid":"5aac1784567a2c0602c3ef24"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"35",
+    "teamNum":"935",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"1",
+    "homeSwitch-count":"0",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac178b567a2c0602c3ef25"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"36",
+    "teamNum":"3284",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"3",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac178b567a2c0602c3ef26"
+    },
+    "scoutName":"henry",
+    "matchNum":"36",
+    "teamNum":"1769",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"4",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac1ba9567a2c0602c3ef27"
+    },
+    "scoutName":"Jake",
+    "matchNum":"37",
+    "teamNum":"1764",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"Fast and accurate"
+}
+{  
+    "_id":{  
+        "$oid":"5aac1baf567a2c0602c3ef28"
+    },
+    "scoutName":"henry",
+    "matchNum":"37",
+    "teamNum":"5098",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"8",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac1bb5567a2c0602c3ef29"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"37",
+    "teamNum":"3172",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":"no lift"
+}
+{  
+    "_id":{  
+        "$oid":"5aac1bd2567a2c0602c3ef2a"
+    },
+    "scoutName":"evan",
+    "matchNum":"37",
+    "teamNum":"1775",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac1c12567a2c0602c3ef2b"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"37",
+    "teamNum":"1723",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"other team climbed, this team would have, but other team climbed first"
+}
+{  
+    "_id":{  
+        "$oid":"5aac1d53567a2c0602c3ef2c"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"38",
+    "teamNum":"6886",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"something broke, and couldnt do anything all match"
+}
+{  
+    "_id":{  
+        "$oid":"5aac1d6b567a2c0602c3ef2d"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"38",
+    "teamNum":"937",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":"Interesting block-grabber-claw design, strategically decided to focus on putting blocks in vault (it used mainly its jaws but also used its bumpers)"
+}
+{  
+    "_id":{  
+        "$oid":"5aac1ddb567a2c0602c3ef2e"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"38",
+    "teamNum":"5801",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"got stuck on switch at the end "
+}
+{  
+    "_id":{  
+        "$oid":"5aac1eda567a2c0602c3ef2f"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"39",
+    "teamNum":"2345",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"6",
+    "winLoss":"on",
+    "scoutComments":"superior performance when putting blocks into vault"
+}
+{  
+    "_id":{  
+        "$oid":"5aac2055567a2c0602c3ef31"
+    },
+    "scoutName":"Jake",
+    "matchNum":"40",
+    "teamNum":"5082",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "scoutComments":"Driver was not paying attention"
+}
+{  
+    "_id":{  
+        "$oid":"5aac2070567a2c0602c3ef32"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"40",
+    "teamNum":"1825",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"8",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2084567a2c0602c3ef33"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"40",
+    "teamNum":"6817",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":"did well wth putting cubes into vault"
+}
+{  
+    "_id":{  
+        "$oid":"5aac21c7567a2c0602c3ef34"
+    },
+    "scoutName":"Jake",
+    "matchNum":"41",
+    "teamNum":"6976",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac21dd567a2c0602c3ef35"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"41",
+    "teamNum":"6542",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"block picking up mechanism was broken, climbed on 1997"
+}
+{  
+    "_id":{  
+        "$oid":"5aac2359567a2c0602c3ef37"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"42",
+    "teamNum":"2357",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"2",
+    "vaultCount":"",
+    "scoutComments":"Strategically decided to try to take opposing switch: good strategy"
+}
+{  
+    "_id":{  
+        "$oid":"5aac24c2567a2c0602c3ef38"
+    },
+    "scoutName":"Jake",
+    "matchNum":"43",
+    "teamNum":"1288",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"7",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac24d2567a2c0602c3ef39"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"43",
+    "teamNum":"5126",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"Square tower design for lift promotes stability, good climber"
+}
+{  
+    "_id":{  
+        "$oid":"5aac24ec567a2c0602c3ef3a"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"43",
+    "teamNum":"2352",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac25ec567a2c0602c3ef3b"
+    },
+    "scoutName":"Sean",
+    "matchNum":"44",
+    "teamNum":"6542",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac25ef567a2c0602c3ef3c"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"44",
+    "teamNum":"1827",
+    "autoCross":"on",
+    "autoSwitch":"",
+    "autoScale":"",
+    "homeSwitch-count":"",
+    "scale-count":"",
+    "opposingSwitch-count":"",
+    "vaultCount":"1",
+    "scoutComments":"bad intake, was flopping in the wind"
+}
+{  
+    "_id":{  
+        "$oid":"5aac25f7567a2c0602c3ef3e"
+    },
+    "scoutName":"henry",
+    "matchNum":"44",
+    "teamNum":"2457",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":"can't grip cubes"
+}
+{  
+    "_id":{  
+        "$oid":"5aac25fc567a2c0602c3ef3f"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"44",
+    "teamNum":"937",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2761567a2c0602c3ef40"
+    },
+    "scoutName":"Jake",
+    "matchNum":"44",
+    "teamNum":"1802",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2778567a2c0602c3ef41"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"45",
+    "teamNum":"1723",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"3",
+    "scale-count":"2",
+    "opposingSwitch-count":"3",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac277f567a2c0602c3ef42"
+    },
+    "scoutName":"henry",
+    "matchNum":"45",
+    "teamNum":"6976",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"5",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2791567a2c0602c3ef43"
+    },
+    "scoutName":"evan",
+    "matchNum":"45",
+    "teamNum":"2345",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"3",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac27a0567a2c0602c3ef44"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"45",
+    "teamNum":"5968",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"Interesting block-handler design (it looks like what you would see in a steam-shovel excavator)"
+}
+{  
+    "_id":{  
+        "$oid":"5aac28d6567a2c0602c3ef45"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"46",
+    "teamNum":"3284",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac28d9567a2c0602c3ef46"
+    },
+    "scoutName":"Jake",
+    "matchNum":"46",
+    "teamNum":"2560",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac28e0567a2c0602c3ef47"
+    },
+    "scoutName":"henry",
+    "matchNum":"46",
+    "teamNum":"1775",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0 ",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac28e0567a2c0602c3ef48"
+    },
+    "scoutName":"evan",
+    "matchNum":"46",
+    "teamNum":"5889",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"2",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac28fc567a2c0602c3ef49"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"46",
+    "teamNum":"7064",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":"Strategically decided to focus on getting blocks into vault: it went okay"
+}
+{  
+    "_id":{  
+        "$oid":"5aac29e2567a2c0602c3ef4a"
+    },
+    "scoutName":"Jake",
+    "matchNum":"47",
+    "teamNum":"5098",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "scoutComments":"Poor Engineering"
+}
+{  
+    "_id":{  
+        "$oid":"5aac2a37567a2c0602c3ef4b"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"47",
+    "teamNum":"2164",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"6",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2a45567a2c0602c3ef4d"
+    },
+    "scoutName":"henry",
+    "matchNum":"47",
+    "teamNum":"1763",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"3",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2a99567a2c0602c3ef50"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"47",
+    "teamNum":"4809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Interesting lift design, good at picking up blocks and putting them in scale, interesting block-grabber design"
+}
+{  
+    "_id":{  
+        "$oid":"5aac2b8c567a2c0602c3ef51"
+    },
+    "scoutName":"Jake",
+    "matchNum":"47",
+    "teamNum":"1737",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2b9e567a2c0602c3ef52"
+    },
+    "scoutName":"henry",
+    "matchNum":"48",
+    "teamNum":"1987",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2ba0567a2c0602c3ef53"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"48",
+    "teamNum":"1986",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2ba9567a2c0602c3ef54"
+    },
+    "scoutName":"evan",
+    "matchNum":"48",
+    "teamNum":"1997",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":"raised both alliance members woth ramps"
+}
+{  
+    "_id":{  
+        "$oid":"5aac2bb3567a2c0602c3ef55"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"48",
+    "teamNum":"5082",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"strategically decided to mostly focus on placing blocks in vault, did okay with putting blocks on switch"
+}
+{  
+    "_id":{  
+        "$oid":"5aac2bbe567a2c0602c3ef56"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"48",
+    "teamNum":"1288",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"7",
+    "climbMech":"on",
+    "scoutComments":"Carried by 1997"
+}
+{  
+    "_id":{  
+        "$oid":"5aac2d74567a2c0602c3ef57"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"49",
+    "teamNum":"2352",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2d75567a2c0602c3ef58"
+    },
+    "scoutName":"evan",
+    "matchNum":"49",
+    "teamNum":"5013",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"4",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2d7d567a2c0602c3ef59"
+    },
+    "scoutName":"henry",
+    "matchNum":"49",
+    "teamNum":"5141",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2d94567a2c0602c3ef5a"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"49",
+    "teamNum":"3172",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2d9f567a2c0602c3ef5b"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"49",
+    "teamNum":"5189",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":"Good autonomous, strategically decided to focus on getting blocks into vault"
+}
+{  
+    "_id":{  
+        "$oid":"5aac2dab567a2c0602c3ef5c"
+    },
+    "scoutName":"Cole",
+    "matchNum":"49",
+    "teamNum":"6805",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2f31567a2c0602c3ef5d"
+    },
+    "scoutName":"henry",
+    "matchNum":"50",
+    "teamNum":"1769",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "climbMech":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2f32567a2c0602c3ef5e"
+    },
+    "scoutName":"evan",
+    "matchNum":"50",
+    "teamNum":"2357",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2f4e567a2c0602c3ef5f"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"50",
+    "teamNum":"1764",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac2f5c567a2c0602c3ef60"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"50",
+    "teamNum":"5809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"effective placer of blocks on switch and scale, strategically decided to place blocks on opponents' switch"
+}
+{  
+    "_id":{  
+        "$oid":"5aac2f79567a2c0602c3ef61"
+    },
+    "scoutName":"Cole",
+    "matchNum":"50",
+    "teamNum":"5126",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"3",
+    "scale-count":"2",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3087567a2c0602c3ef62"
+    },
+    "scoutName":"evan",
+    "matchNum":"51",
+    "teamNum":"2345",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3087567a2c0602c3ef63"
+    },
+    "scoutName":"Dennis Meye",
+    "matchNum":"51",
+    "teamNum":"5801",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"9",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3098567a2c0602c3ef64"
+    },
+    "scoutName":"henry",
+    "matchNum":"51",
+    "teamNum":"1827",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac30ad567a2c0602c3ef65"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"51",
+    "teamNum":"932",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"LOOKED LIKE SOMTHING WENT WRONG"
+}
+{  
+    "_id":{  
+        "$oid":"5aac30af567a2c0602c3ef66"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"51",
+    "teamNum":"4809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"Interesting lift/block-grabber design (block-grabber is inside lift), strategically decided to place blocks on opponents' switch: good strategy"
+}
+{  
+    "_id":{  
+        "$oid":"5aac3259567a2c0602c3ef67"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"52",
+    "teamNum":"1723",
+    "autoSwitch":"2",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"7",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac326d567a2c0602c3ef68"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"52",
+    "teamNum":"937",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3286567a2c0602c3ef6a"
+    },
+    "scoutName":"henry",
+    "matchNum":"52",
+    "teamNum":"7064",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac33cb567a2c0602c3ef6b"
+    },
+    "scoutName":"henry",
+    "matchNum":"53",
+    "teamNum":"935",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"7",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac33d1567a2c0602c3ef6c"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"53",
+    "teamNum":"1288",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":"cruddy bot"
+}
+{  
+    "_id":{  
+        "$oid":"5aac33d8567a2c0602c3ef6d"
+    },
+    "scoutName":"evan",
+    "matchNum":"53",
+    "teamNum":"5013",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"3",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac33e1567a2c0602c3ef6e"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"53",
+    "teamNum":"2457",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"3",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":"malfunctioning lift"
+}
+{  
+    "_id":{  
+        "$oid":"5aac33e3567a2c0602c3ef6f"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"34",
+    "teamNum":"2457",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":"okay autonomous, good at strategically placing blocks into opposing switch"
+}
+{  
+    "_id":{  
+        "$oid":"5aac3407567a2c0602c3ef70"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"53",
+    "teamNum":"6886",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"4",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3560567a2c0602c3ef72"
+    },
+    "scoutName":"henry",
+    "matchNum":"54",
+    "teamNum":"5141",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac356b567a2c0602c3ef73"
+    },
+    "scoutName":"evan",
+    "matchNum":"54",
+    "teamNum":"6805",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3571567a2c0602c3ef74"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"54",
+    "teamNum":"5968",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "winLoss":"on",
+    "scoutComments":"crap-bot"
+}
+{  
+    "_id":{  
+        "$oid":"5aac358f567a2c0602c3ef75"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"54",
+    "teamNum":"5082",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"4",
+    "winLoss":"on",
+    "scoutComments":"not meant to be a vault bot but was the only thing they could do"
+}
+{  
+    "_id":{  
+        "$oid":"5aac3591567a2c0602c3ef76"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"54",
+    "teamNum":"5082",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":"electronics mounted on inclined board: promotes ease-of-access"
+}
+{  
+    "_id":{  
+        "$oid":"5aac359f567a2c0602c3ef77"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"54",
+    "teamNum":"5098",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"put a cube it there home switch but not the right color"
+}
+{  
+    "_id":{  
+        "$oid":"5aac36db567a2c0602c3ef78"
+    },
+    "scoutName":"henry",
+    "matchNum":"55",
+    "teamNum":"1769",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"6",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac36dd567a2c0602c3ef79"
+    },
+    "scoutName":"Cole",
+    "matchNum":"55",
+    "teamNum":"1764",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"5",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac36e6567a2c0602c3ef7a"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"55",
+    "teamNum":"2164",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac36e7567a2c0602c3ef7b"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"55",
+    "teamNum":"3284",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"7",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac36e7567a2c0602c3ef7c"
+    },
+    "scoutName":"evan",
+    "matchNum":"55",
+    "teamNum":"1802",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac36eb567a2c0602c3ef7d"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"55",
+    "teamNum":"5889",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3868567a2c0602c3ef7f"
+    },
+    "scoutName":"Cole",
+    "matchNum":"56",
+    "teamNum":"938",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"3",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac386b567a2c0602c3ef80"
+    },
+    "scoutName":"henry",
+    "matchNum":"56",
+    "teamNum":"1775",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac386d567a2c0602c3ef81"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"56",
+    "teamNum":"6817",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"4",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac387a567a2c0602c3ef82"
+    },
+    "scoutName":"evan",
+    "matchNum":"56",
+    "teamNum":"5189",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"5",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac389a567a2c0602c3ef83"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"55",
+    "teamNum":"5809",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"4",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac39d6567a2c0602c3ef84"
+    },
+    "scoutName":"Sean",
+    "matchNum":"57",
+    "teamNum":"2352",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"very good at placing blocks in scale, very good robot with climbing and scale capabilities"
+}
+{  
+    "_id":{  
+        "$oid":"5aac39d8567a2c0602c3ef85"
+    },
+    "scoutName":"henry",
+    "matchNum":"57",
+    "teamNum":"1997",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"6",
+    "scoutComments":"knocked over ally, tried to lift them both"
+}
+{  
+    "_id":{  
+        "$oid":"5aac39e4567a2c0602c3ef86"
+    },
+    "scoutName":"evan",
+    "matchNum":"57",
+    "teamNum":"2357",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":"used 1997's platform"
+}
+{  
+    "_id":{  
+        "$oid":"5aac39eb567a2c0602c3ef87"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"57",
+    "teamNum":"2352",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"5",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3aec567a2c0602c3ef88"
+    },
+    "scoutName":"henry",
+    "matchNum":"58",
+    "teamNum":"1737",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3b01567a2c0602c3ef89"
+    },
+    "scoutName":"Sean",
+    "matchNum":"58",
+    "teamNum":"6976",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "scoutComments":"good strategy: take over both switches, interesting design"
+}
+{  
+    "_id":{  
+        "$oid":"5aac3b0a567a2c0602c3ef8a"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"58",
+    "teamNum":"6976",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3cee567a2c0602c3ef8b"
+    },
+    "scoutName":"henry",
+    "matchNum":"59",
+    "teamNum":"6817",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3cf6567a2c0602c3ef8c"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"57",
+    "teamNum":"3284",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3cf8567a2c0602c3ef8d"
+    },
+    "scoutName":"evan",
+    "matchNum":"59",
+    "teamNum":"1775",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3d0d567a2c0602c3ef8e"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"58",
+    "teamNum":"7064",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3e28567a2c0602c3ef90"
+    },
+    "scoutName":"henry",
+    "matchNum":"60",
+    "teamNum":"2164",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"9",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3e2e567a2c0602c3ef91"
+    },
+    "scoutName":"evan",
+    "matchNum":"60",
+    "teamNum":"5801",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"1",
+    "homeSwitch-count":"1",
+    "scale-count":"5",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3e38567a2c0602c3ef92"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"58",
+    "teamNum":"1825",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"3",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3e39567a2c0602c3ef93"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"60",
+    "teamNum":"6542",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3fa1567a2c0602c3ef94"
+    },
+    "scoutName":"Keegan Roudebush",
+    "matchNum":"61",
+    "teamNum":"5013",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aac3fa4567a2c0602c3ef95"
+    },
+    "scoutName":"Nendick",
+    "matchNum":"61",
+    "teamNum":"2874",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"bad"
+}
+{  
+    "_id":{  
+        "$oid":"5aac3fa5567a2c0602c3ef96"
+    },
+    "scoutName":"henry",
+    "matchNum":"61",
+    "teamNum":"1763",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"right motors not working"
+}
+{  
+    "_id":{  
+        "$oid":"5aac3fd6567a2c0602c3ef97"
+    },
+    "scoutName":"evan",
+    "matchNum":"61",
+    "teamNum":"5098",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"6",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad1e7e9f5f450eedb2c2c1"
+    },
+    "scoutName":"Jake",
+    "matchNum":"62",
+    "teamNum":"5889",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "scoutComments":"Titanium Lost"
+}
+{  
+    "_id":{  
+        "$oid":"5aad1e869f5f450eedb2c2c2"
+    },
+    "scoutName":"Henry",
+    "matchNum":"62",
+    "teamNum":"2352",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"5",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad1e879f5f450eedb2c2c3"
+    },
+    "scoutName":"Evan",
+    "matchNum":"62",
+    "teamNum":"932",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"9",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad1e969f5f450eedb2c2c4"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"62",
+    "teamNum":"1986",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"5",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":"Payed no attention to the switch"
+}
+{  
+    "_id":{  
+        "$oid":"5aad1ec59f5f450eedb2c2c5"
+    },
+    "scoutName":"Sean",
+    "matchNum":"62",
+    "teamNum":"937",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Forklift design: tends to be good design"
+}
+{  
+    "_id":{  
+        "$oid":"5aad1eff9f5f450eedb2c2c6"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"62",
+    "teamNum":"6976",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Could not pick up  cubes off ground, can only get cubes from exchange"
+}
+{  
+    "_id":{  
+        "$oid":"5aad20429f5f450eedb2c2c8"
+    },
+    "scoutName":"Evan",
+    "matchNum":"63",
+    "teamNum":"1764",
+    "autoCross":"on",
+    "autoSwitch":"1 ",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"8",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad20429f5f450eedb2c2c9"
+    },
+    "scoutName":"Henry",
+    "matchNum":"63",
+    "teamNum":"2457",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"lost connection"
+}
+{  
+    "_id":{  
+        "$oid":"5aad20489f5f450eedb2c2ca"
+    },
+    "scoutName":"Jake",
+    "matchNum":"63",
+    "teamNum":"6886",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"1",
+    "opposingSwitch-count":"3",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"Penalty in Auto, 633-191 win"
+}
+{  
+    "_id":{  
+        "$oid":"5aad206d9f5f450eedb2c2cb"
+    },
+    "scoutName":"Sean",
+    "matchNum":"63",
+    "teamNum":"6805",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"",
+    "vaultCount":"1",
+    "scoutComments":"does okay with putting blocks into vault and getting blocks onto switch, can climb to a degree, okay all-around robot"
+}
+{  
+    "_id":{  
+        "$oid":"5aad20739f5f450eedb2c2cc"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"63",
+    "teamNum":"2357",
+    "autoCross":"on",
+    "autoSwitch":"",
+    "autoScale":"",
+    "homeSwitch-count":"",
+    "scale-count":"",
+    "opposingSwitch-count":"",
+    "vaultCount":"",
+    "scoutComments":"lost control of grippers but helped ally get out of a stuck position"
+}
+{  
+    "_id":{  
+        "$oid":"5aad20879f5f450eedb2c2cd"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"63",
+    "teamNum":"1827",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"claw is broken"
+}
+{  
+    "_id":{  
+        "$oid":"5aad22db9f5f450eedb2c2cf"
+    },
+    "scoutName":"Jake",
+    "matchNum":"64",
+    "teamNum":"1997",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "winLoss":"on",
+    "scoutComments":"They Suck"
+}
+{  
+    "_id":{  
+        "$oid":"5aad22dc9f5f450eedb2c2d0"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"64",
+    "teamNum":"3172",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":"almost climbed"
+}
+{  
+    "_id":{  
+        "$oid":"5aad22de9f5f450eedb2c2d1"
+    },
+    "scoutName":"Evan",
+    "matchNum":"64",
+    "teamNum":"1723",
+    "autoCross":"on",
+    "autoSwitch":"2",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"2",
+    "vaultCount":"3",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad22e49f5f450eedb2c2d2"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"64",
+    "teamNum":"1288",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"no connection"
+}
+{  
+    "_id":{  
+        "$oid":"5aad22f39f5f450eedb2c2d3"
+    },
+    "scoutName":"Henry",
+    "matchNum":"64",
+    "teamNum":"938",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":"almost functional lift"
+}
+{  
+    "_id":{  
+        "$oid":"5aad23049f5f450eedb2c2d4"
+    },
+    "scoutName":"Sean",
+    "matchNum":"64",
+    "teamNum":"4809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":"interesting lift/block-grabber design, block-grabber is inside the lift, low design promotes stability"
+}
+{  
+    "_id":{  
+        "$oid":"5aad242c9f5f450eedb2c2d5"
+    },
+    "scoutName":"Henry",
+    "matchNum":"65",
+    "teamNum":"2560",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad242f9f5f450eedb2c2d6"
+    },
+    "scoutName":"Evan",
+    "matchNum":"65",
+    "teamNum":"935",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad24399f5f450eedb2c2d7"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"65",
+    "teamNum":"1987",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"did not do well"
+}
+{  
+    "_id":{  
+        "$oid":"5aad244b9f5f450eedb2c2d8"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"65",
+    "teamNum":"5809",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad24519f5f450eedb2c2d9"
+    },
+    "scoutName":"Jake",
+    "matchNum":"65",
+    "teamNum":"6976",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad24719f5f450eedb2c2da"
+    },
+    "scoutName":"Sean",
+    "matchNum":"65",
+    "teamNum":"2345",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":"okay intake, good at putting blocks into vault (strategically focused on this)"
+}
+{  
+    "_id":{  
+        "$oid":"5aad25b09f5f450eedb2c2db"
+    },
+    "scoutName":"Evan",
+    "matchNum":"66",
+    "teamNum":"5801",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad25be9f5f450eedb2c2dc"
+    },
+    "scoutName":"Henry",
+    "matchNum":"66",
+    "teamNum":"1764",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"4",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad25bf9f5f450eedb2c2dd"
+    },
+    "scoutName":"Sean",
+    "matchNum":"66",
+    "teamNum":"2874",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"equipped to climb"
+}
+{  
+    "_id":{  
+        "$oid":"5aad25cd9f5f450eedb2c2de"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"66",
+    "teamNum":"5968",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad25fa9f5f450eedb2c2df"
+    },
+    "scoutName":"Jake",
+    "matchNum":"66",
+    "teamNum":"932",
+    "autoSwitch":"0",
+    "autoScale":"1",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"9",
+    "winLoss":"on",
+    "scoutComments":"Got all 9 in with 40 sec left"
+}
+{  
+    "_id":{  
+        "$oid":"5aad273c9f5f450eedb2c2e1"
+    },
+    "scoutName":"Evan",
+    "matchNum":"67",
+    "teamNum":"3284",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"4",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad27429f5f450eedb2c2e2"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"67",
+    "teamNum":"5889",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad274a9f5f450eedb2c2e3"
+    },
+    "scoutName":"Jake",
+    "matchNum":"67",
+    "teamNum":"938",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad274d9f5f450eedb2c2e4"
+    },
+    "scoutName":"Henry",
+    "matchNum":"67",
+    "teamNum":"6886",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"penalty in auto, lifted by ally"
+}
+{  
+    "_id":{  
+        "$oid":"5aad275b9f5f450eedb2c2e5"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"67",
+    "teamNum":"2357",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad27769f5f450eedb2c2e6"
+    },
+    "scoutName":"Sean",
+    "matchNum":"67",
+    "teamNum":"5082",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"3",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"did okay at defensively placing blocks on home switch"
+}
+{  
+    "_id":{  
+        "$oid":"5aad28c39f5f450eedb2c2e7"
+    },
+    "scoutName":"Evan",
+    "matchNum":"68",
+    "teamNum":"5126",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad28cb9f5f450eedb2c2e8"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"68",
+    "teamNum":"1775",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad28d29f5f450eedb2c2e9"
+    },
+    "scoutName":"Jake",
+    "matchNum":"68",
+    "teamNum":"2457",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Disconnected in the first 10 sec "
+}
+{  
+    "_id":{  
+        "$oid":"5aad28d49f5f450eedb2c2ea"
+    },
+    "scoutName":"Henry",
+    "matchNum":"68",
+    "teamNum":"937",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"  0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"5",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad28e99f5f450eedb2c2eb"
+    },
+    "scoutName":"Sean",
+    "matchNum":"68",
+    "teamNum":"2560",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"interesting design for  the grippers on the block-grabber"
+}
+{  
+    "_id":{  
+        "$oid":"5aad28f99f5f450eedb2c2ec"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"68",
+    "teamNum":"1288",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad2a249f5f450eedb2c2ed"
+    },
+    "scoutName":"Jake",
+    "matchNum":"69",
+    "teamNum":"1802",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"3",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad2a2d9f5f450eedb2c2ee"
+    },
+    "scoutName":"Evan",
+    "matchNum":"69",
+    "teamNum":"1825",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"7",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad2a379f5f450eedb2c2ef"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"69",
+    "teamNum":"1723",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"5",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad2a379f5f450eedb2c2f0"
+    },
+    "scoutName":"Sean",
+    "matchNum":"69",
+    "teamNum":"5141",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":"does not always linger over a certain block that is difficult to get (it gets another one: good strategy), placed most focus on getting blocks into vault"
+}
+{  
+    "_id":{  
+        "$oid":"5aad2a3b9f5f450eedb2c2f1"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"69",
+    "teamNum":"1827",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Claw was broken and detached, played decent defence, but could not do anything"
+}
+{  
+    "_id":{  
+        "$oid":"5aad2b309f5f450eedb2c2f3"
+    },
+    "scoutName":"Henry",
+    "matchNum":"69",
+    "teamNum":"5013",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"gained almost 200 pts from penalties while defending"
+}
+{  
+    "_id":{  
+        "$oid":"5aad2c009f5f450eedb2c2f4"
+    },
+    "scoutName":"Henry",
+    "matchNum":"70",
+    "teamNum":"6817",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad2c3f9f5f450eedb2c2f5"
+    },
+    "scoutName":"Evan",
+    "matchNum":"70",
+    "teamNum":"1737",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad2c449f5f450eedb2c2f6"
+    },
+    "scoutName":"Jake",
+    "matchNum":"70",
+    "teamNum":"6542",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":"Can't pick up anything"
+}
+{  
+    "_id":{  
+        "$oid":"5aad2c4c9f5f450eedb2c2f7"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"70",
+    "teamNum":"3172",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad2c4d9f5f450eedb2c2f8"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"70",
+    "teamNum":"1769",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"6",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad2c8c9f5f450eedb2c2f9"
+    },
+    "scoutName":"Sean",
+    "matchNum":"70",
+    "teamNum":"6805",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"okay jaw performance, effectively placed blocks in empty scale/enemy switch: good strategy"
+}
+{  
+    "_id":{  
+        "$oid":"5aad2ddc9f5f450eedb2c2fb"
+    },
+    "scoutName":"Evan",
+    "matchNum":"71",
+    "teamNum":"2164",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"6",
+    "climbMech":"on",
+    "scoutComments":"used 1997's ramp"
+}
+{  
+    "_id":{  
+        "$oid":"5aad2ddd9f5f450eedb2c2fc"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"71",
+    "teamNum":"2345",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"3",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad2dea9f5f450eedb2c2fd"
+    },
+    "scoutName":"Henry",
+    "matchNum":"71",
+    "teamNum":"5809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"1",
+    "homeSwitch-count":"0",
+    "scale-count":"5",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"blocked enemy climb with a cube"
+}
+{  
+    "_id":{  
+        "$oid":"5aad2dee9f5f450eedb2c2fe"
+    },
+    "scoutName":"Jake",
+    "matchNum":"71",
+    "teamNum":"1997",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"4",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"Lift Bot"
+}
+{  
+    "_id":{  
+        "$oid":"5aad2e089f5f450eedb2c2ff"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"71",
+    "teamNum":"2352",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"5",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad2e299f5f450eedb2c300"
+    },
+    "scoutName":"Sean",
+    "matchNum":"71",
+    "teamNum":"7064",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":"strategically decided to focus on putting blocks into vault: good strategy (used jaws and bumpers to do this)"
+}
+{  
+    "_id":{  
+        "$oid":"5aad2f279f5f450eedb2c301"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"72",
+    "teamNum":"5189",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":"robot stopped responding halfway through"
+}
+{  
+    "_id":{  
+        "$oid":"5aad2f2b9f5f450eedb2c302"
+    },
+    "scoutName":"Jake",
+    "matchNum":"72",
+    "teamNum":"5126",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"4",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad2f2d9f5f450eedb2c303"
+    },
+    "scoutName":"Evan",
+    "matchNum":"72",
+    "teamNum":"1986",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"4",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"tipped a team mate with ramp"
+}
+{  
+    "_id":{  
+        "$oid":"5aad2f319f5f450eedb2c304"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"72",
+    "teamNum":"5968",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad2f4d9f5f450eedb2c305"
+    },
+    "scoutName":"Henry",
+    "matchNum":"72",
+    "teamNum":"4809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":"lost connection"
+}
+{  
+    "_id":{  
+        "$oid":"5aad2f4e9f5f450eedb2c306"
+    },
+    "scoutName":"Sean",
+    "matchNum":"72",
+    "teamNum":"1763",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "scoutComments":"launcher bot, interesting design, can adjust launcher trajectory, launcher works well, okay intake"
+}
+{  
+    "_id":{  
+        "$oid":"5aad30839f5f450eedb2c307"
+    },
+    "scoutName":"Jake",
+    "matchNum":"73",
+    "teamNum":"1769",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad30a19f5f450eedb2c308"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"73",
+    "teamNum":"6886",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"2",
+    "vaultCount":"1",
+    "scoutComments":"could have climbed"
+}
+{  
+    "_id":{  
+        "$oid":"5aad30a69f5f450eedb2c309"
+    },
+    "scoutName":"Henry",
+    "matchNum":"73",
+    "teamNum":"2457",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad30ae9f5f450eedb2c30a"
+    },
+    "scoutName":"Evan",
+    "matchNum":"73",
+    "teamNum":"938",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad30bf9f5f450eedb2c30b"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"73",
+    "teamNum":"5801",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "winLoss":"on",
+    "scoutComments":"consistant"
+}
+{  
+    "_id":{  
+        "$oid":"5aad30c49f5f450eedb2c30c"
+    },
+    "scoutName":"Sean",
+    "matchNum":"73",
+    "teamNum":"6542",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":"okay at putting blocks in vault (strategically decided to focus on this: good strategy)"
+}
+{  
+    "_id":{  
+        "$oid":"5aad31679f5f450eedb2c30d"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"74",
+    "teamNum":"5013",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"THEY ARE BAD, NO SHOW"
+}
+{  
+    "_id":{  
+        "$oid":"5aad33389f5f450eedb2c30e"
+    },
+    "scoutName":"Jake",
+    "matchNum":"74",
+    "teamNum":"5082",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad33429f5f450eedb2c30f"
+    },
+    "scoutName":"Henry",
+    "matchNum":"74",
+    "teamNum":"5098",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"6",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad33469f5f450eedb2c311"
+    },
+    "scoutName":"Evan",
+    "matchNum":"74",
+    "teamNum":"2345",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"1",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad33549f5f450eedb2c312"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"74",
+    "teamNum":"2357",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"4",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad33569f5f450eedb2c313"
+    },
+    "scoutName":"Sean",
+    "matchNum":"74",
+    "teamNum":"937",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"wide area of reach for block-grabber"
+}
+{  
+    "_id":{  
+        "$oid":"5aad349b9f5f450eedb2c315"
+    },
+    "scoutName":"Jake",
+    "matchNum":"75",
+    "teamNum":"1802",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"00",
+    "opposingSwitch-count":"1",
+    "vaultCount":"2",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad34c29f5f450eedb2c316"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"75",
+    "teamNum":"6805",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"3",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad34c89f5f450eedb2c317"
+    },
+    "scoutName":"Henry",
+    "matchNum":"75",
+    "teamNum":"935",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"8",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad34cc9f5f450eedb2c318"
+    },
+    "scoutName":"Evan",
+    "matchNum":"75",
+    "teamNum":"1986",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":"knocked a team mate over with ramp"
+}
+{  
+    "_id":{  
+        "$oid":"5aad34d09f5f450eedb2c319"
+    },
+    "scoutName":"Sean (Nendick)",
+    "matchNum":"75",
+    "teamNum":"1997",
+    "autoSwitch":"1",
+    "autoScale":"",
+    "homeSwitch-count":"",
+    "scale-count":"",
+    "opposingSwitch-count":"",
+    "vaultCount":"4",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad352a9f5f450eedb2c31a"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"75",
+    "teamNum":"6805",
+    "autoCross":"on",
+    "autoSwitch":"0  ",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad35f09f5f450eedb2c31b"
+    },
+    "scoutName":"Jake",
+    "matchNum":"76",
+    "teamNum":"1775",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2  ",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"5 ",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad35fa9f5f450eedb2c31c"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"76",
+    "teamNum":"5889",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad35fa9f5f450eedb2c31d"
+    },
+    "scoutName":"Evan",
+    "matchNum":"76",
+    "teamNum":"1775",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad35fd9f5f450eedb2c31e"
+    },
+    "scoutName":"Henry",
+    "matchNum":"76",
+    "teamNum":"5141",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad36109f5f450eedb2c31f"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"76",
+    "teamNum":"1288",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"6",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":"Levitate "
+}
+{  
+    "_id":{  
+        "$oid":"5aad36399f5f450eedb2c320"
+    },
+    "scoutName":"Sean",
+    "matchNum":"76",
+    "teamNum":"1827",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"went offline during match, interesting design (like a forklift, but narrower)"
+}
+{  
+    "_id":{  
+        "$oid":"5aad37459f5f450eedb2c321"
+    },
+    "scoutName":"Jake",
+    "matchNum":"77",
+    "teamNum":"5189",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad37519f5f450eedb2c322"
+    },
+    "scoutName":"Henry",
+    "matchNum":"77",
+    "teamNum":"2874",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":"major lift/jaw issues"
+}
+{  
+    "_id":{  
+        "$oid":"5aad375e9f5f450eedb2c323"
+    },
+    "scoutName":"Evan",
+    "matchNum":"77",
+    "teamNum":"1825",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"3",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad375e9f5f450eedb2c324"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"77",
+    "teamNum":"6976",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"5",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad376d9f5f450eedb2c325"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"77",
+    "teamNum":"3284",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"3",
+    "scale-count":"2",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad37869f5f450eedb2c326"
+    },
+    "scoutName":"Sean",
+    "matchNum":"77",
+    "teamNum":"3172",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":"very fast, srategically decided to focus on putting blocks into vault (good strategy)"
+}
+{  
+    "_id":{  
+        "$oid":"5aad3ab19f5f450eedb2c327"
+    },
+    "scoutName":"Jake",
+    "matchNum":"78",
+    "teamNum":"1737",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Literally drove in circles; didnt touch a cube"
+}
+{  
+    "_id":{  
+        "$oid":"5aad3ac79f5f450eedb2c328"
+    },
+    "scoutName":"Evan",
+    "matchNum":"78",
+    "teamNum":"2164",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"7",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad3aca9f5f450eedb2c329"
+    },
+    "scoutName":"Sean",
+    "matchNum":"78",
+    "teamNum":"1763",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"launcher bot, interesting design"
+}
+{  
+    "_id":{  
+        "$oid":"5aad3ace9f5f450eedb2c32a"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"78",
+    "teamNum":"5809",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Broke"
+}
+{  
+    "_id":{  
+        "$oid":"5aad3ad09f5f450eedb2c32b"
+    },
+    "scoutName":"Henry",
+    "matchNum":"78",
+    "teamNum":"7064",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad3ad79f5f450eedb2c32c"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"78",
+    "teamNum":"1723",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"8",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad3bf99f5f450eedb2c32d"
+    },
+    "scoutName":"Jake",
+    "matchNum":"79",
+    "teamNum":"6805",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "scoutComments":"Drops Cubes a lot (x5)"
+}
+{  
+    "_id":{  
+        "$oid":"5aad3c0d9f5f450eedb2c32e"
+    },
+    "scoutName":"Evan",
+    "matchNum":"79",
+    "teamNum":"1764",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"7",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad3c1e9f5f450eedb2c32f"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"79",
+    "teamNum":"2352",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"4",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad3c279f5f450eedb2c330"
+    },
+    "scoutName":"Henry",
+    "matchNum":"79",
+    "teamNum":"6817",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad3c2d9f5f450eedb2c331"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"79",
+    "teamNum":"2560",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad3c849f5f450eedb2c332"
+    },
+    "scoutName":"Sean",
+    "matchNum":"79",
+    "teamNum":"4809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "winLoss":"on",
+    "scoutComments":"Interesting lift/block-grabber design(block-grabber is inside lift), strategically decided to focus on putting blocks into vault (good strategy)"
+}
+{  
+    "_id":{  
+        "$oid":"5aad3d409f5f450eedb2c333"
+    },
+    "scoutName":"Sean",
+    "matchNum":"80",
+    "teamNum":"5098",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"",
+    "scale-count":"",
+    "opposingSwitch-count":"",
+    "vaultCount":"5",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad3d7a9f5f450eedb2c334"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"80",
+    "teamNum":"1769",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"claw not on robot, gud defence though"
+}
+{  
+    "_id":{  
+        "$oid":"5aad3d7a9f5f450eedb2c335"
+    },
+    "scoutName":"Jake",
+    "matchNum":"80",
+    "teamNum":"1827",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"Broken Claw; Defensive"
+}
+{  
+    "_id":{  
+        "$oid":"5aad3d7d9f5f450eedb2c336"
+    },
+    "scoutName":"Henry",
+    "matchNum":"80",
+    "teamNum":"938",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad3d809f5f450eedb2c337"
+    },
+    "scoutName":"Evan",
+    "matchNum":"80",
+    "teamNum":"5968",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad3d829f5f450eedb2c338"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"80",
+    "teamNum":"5189",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1 ",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad3da39f5f450eedb2c339"
+    },
+    "scoutName":"Sean",
+    "matchNum":"80",
+    "teamNum":"5098",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"8",
+    "winLoss":"on",
+    "scoutComments":"equipped to climb, very good at putting blocks into vault (it strategically focused on this during the match)"
+}
+{  
+    "_id":{  
+        "$oid":"5aad3f089f5f450eedb2c33c"
+    },
+    "scoutName":"Evan",
+    "matchNum":"81",
+    "teamNum":"5126",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad3f109f5f450eedb2c33d"
+    },
+    "scoutName":"Sean",
+    "matchNum":"81",
+    "teamNum":"935",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"1",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "scoutComments":"interesting design/lift mechanism, capable of ejecting blocks, has intake with wheels, interesting climbing system, pretty good robot"
+}
+{  
+    "_id":{  
+        "$oid":"5aad3f1d9f5f450eedb2c33e"
+    },
+    "scoutName":"Henry",
+    "matchNum":"81",
+    "teamNum":"5889",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad3fc49f5f450eedb2c33f"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"81",
+    "teamNum":"1723",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad40559f5f450eedb2c340"
+    },
+    "scoutName":"Henry",
+    "matchNum":"82",
+    "teamNum":"3172",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad40599f5f450eedb2c341"
+    },
+    "scoutName":"Evan",
+    "matchNum":"82",
+    "teamNum":"932",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad407e9f5f450eedb2c342"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"82",
+    "teamNum":"1986",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"5",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad40909f5f450eedb2c343"
+    },
+    "scoutName":"Sean",
+    "matchNum":"82",
+    "teamNum":"5141",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"1",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":"Square tower design promotes stability, electronics mounted on vertical board (promotes ease-of-access)"
+}
+{  
+    "_id":{  
+        "$oid":"5aad40cb9f5f450eedb2c344"
+    },
+    "scoutName":"Jake",
+    "matchNum":"83",
+    "teamNum":"6886",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"2",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad41ae9f5f450eedb2c345"
+    },
+    "scoutName":"Jake",
+    "matchNum":"83",
+    "teamNum":"6542",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad41b59f5f450eedb2c346"
+    },
+    "scoutName":"Evan",
+    "matchNum":"83",
+    "teamNum":"1764",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"3",
+    "scale-count":"2",
+    "opposingSwitch-count":"0",
+    "vaultCount":"1",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad41b99f5f450eedb2c347"
+    },
+    "scoutName":"Henry",
+    "matchNum":"83",
+    "teamNum":"2352",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad41ca9f5f450eedb2c348"
+    },
+    "scoutName":"Dennis Meyer",
+    "matchNum":"83",
+    "teamNum":"1288",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1 ",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"9",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad421b9f5f450eedb2c349"
+    },
+    "scoutName":"Sean",
+    "matchNum":"83",
+    "teamNum":"1763",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "scoutComments":"very good robot with interesting design, good at putting blocks into switches, launcher bot, capable of getting blocks into vault"
+}
+{  
+    "_id":{  
+        "$oid":"5aad43139f5f450eedb2c34a"
+    },
+    "scoutName":"Evan",
+    "matchNum":"84",
+    "teamNum":"4809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"5",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad431a9f5f450eedb2c34b"
+    },
+    "scoutName":"Henry",
+    "matchNum":"84",
+    "teamNum":"2457",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"3",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad432f9f5f450eedb2c34c"
+    },
+    "scoutName":"Sean",
+    "matchNum":"84",
+    "teamNum":"7064",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"plastic enclosure surrounds electronics (good idea), relatively stable when operating"
+}
+{  
+    "_id":{  
+        "$oid":"5aad44709f5f450eedb2c34d"
+    },
+    "scoutName":"Jake",
+    "matchNum":"85",
+    "teamNum":"1987",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"4",
+    "winLoss":"on",
+    "scoutComments":"Connection Loss"
+}
+{  
+    "_id":{  
+        "$oid":"5aad44809f5f450eedb2c34e"
+    },
+    "scoutName":"Henry",
+    "matchNum":"85",
+    "teamNum":"5013",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"5",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad448b9f5f450eedb2c34f"
+    },
+    "scoutName":"Evan",
+    "matchNum":"85",
+    "teamNum":"6976",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"3",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad44989f5f450eedb2c350"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"",
+    "teamNum":"5801",
+    "autoCross":"on",
+    "autoSwitch":"1",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"4",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad449e9f5f450eedb2c351"
+    },
+    "scoutName":"Sean",
+    "matchNum":"85",
+    "teamNum":"6817",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"0",
+    "scoutComments":"interesting block-flipper design, seemed to be playing a defensive role for its alliance"
+}
+{  
+    "_id":{  
+        "$oid":"5aad45fb9f5f450eedb2c352"
+    },
+    "scoutName":"Evan",
+    "matchNum":"86",
+    "teamNum":"1737",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"3",
+    "climbMech":"on",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad45fc9f5f450eedb2c353"
+    },
+    "scoutName":"Jake",
+    "matchNum":"86",
+    "teamNum":"2560",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"2",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"4",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad45ff9f5f450eedb2c354"
+    },
+    "scoutName":"Henry",
+    "matchNum":"86",
+    "teamNum":"5809",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"4",
+    "opposingSwitch-count":"1",
+    "vaultCount":"0",
+    "winLoss":"on",
+    "scoutComments":""
+}
+{  
+    "_id":{  
+        "$oid":"5aad460e9f5f450eedb2c355"
+    },
+    "scoutName":"Sean",
+    "matchNum":"86",
+    "teamNum":"1997",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"0",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":"interesting block-grabbing system, equipped with 2 side panels (lift-assist system), good at getting blocks into vault, has good potential"
+}
+{  
+    "_id":{  
+        "$oid":"5aad461e9f5f450eedb2c356"
+    },
+    "scoutName":"Seamus",
+    "matchNum":"86",
+    "teamNum":"1802",
+    "autoCross":"on",
+    "autoSwitch":"0",
+    "autoScale":"0",
+    "homeSwitch-count":"1",
+    "scale-count":"0",
+    "opposingSwitch-count":"0",
+    "vaultCount":"2",
+    "scoutComments":""
+}
