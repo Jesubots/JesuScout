@@ -12,6 +12,9 @@ var objectID			= mongo.ObjectID;
 var murl = 'mongodb://localhost:27017/jesuscout';
 var DB_NAME   = 'jesuscout';
 
+var BlueAlliance = require("bluealliance");
+var tba = new BlueAlliance("7cymjCMr5YSfd4GrpKYbQCTop2Ejltvf3wzkingqufcovTHcRbXb4rDolgIv22O8");
+
 var app = express();
 var router = express.Router(); // add support for express routing
 
@@ -119,7 +122,19 @@ mongo.connect(murl, function(err, dbn) {
 	};
 });
 
+/*************
+	TBA
+*************/
 
+var main = async function() {
+	var team = await tba.getTeam(5809);
+	var greaterkc = await tba.getEvent("MOKC", 2018);
+
+	logg(greaterkc.name);
+    logg(team.nickname);
+}
+
+main();
 
 /**
  * Custom logger to prevent circular reference in JSON.parse(obj)

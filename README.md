@@ -9,7 +9,7 @@ JesuScout
 ## The Basics
 JesuScout is a web-based Scouting System built for the simplest and most effective data collection in FIRST Robotics Competitions. With just a few laptops any team can configure the system to their needs and have access to analysis of every match at a competition.
 
-> **Note**: At this point in time, JesuScout docs only cover using the system for data collection, data processing and analysis will be added soon.
+> **Note**: At this point in time, JesuScout docs only cover using the system for data collection; data processing and analysis will be added soon.
 
 ## Contents
 
