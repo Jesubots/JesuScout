@@ -212,6 +212,13 @@ canvas {
 	display: inline-block;
 	margin-left: 4%;
 }
+.startingPos {
+	display: inline-block;
+	margin-left: 4%;
+}
+#startPos {
+	width: 40px;
+}
 .homeSwitch {
 	display: inline-block;
 	margin-top: 25px;
@@ -294,6 +301,13 @@ canvas {
 	display: inline-block;
 }
 #autoScale {
+	width: 50px;
+}
+.farScale {
+	margin-left: 5%;
+	display: inline-block;
+}
+#autofarScale {
 	width: 50px;
 }
 /* SUBMIT */
