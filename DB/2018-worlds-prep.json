@@ -1,0 +1,433 @@
+{
+	"year": 2018,
+	"date": "April 18 - 21",
+	"competition": "Houston Champs - Hopper Division",
+	"totalTeams": 68,
+	"teamNums": {
+		"1":"59",
+		"2":"148",
+		"3":"180",
+		"4":"254",
+		"5":"294",
+		"6":"359",
+		"7":"399",
+		"8":"456",
+		"9":"585",
+		"10":"957",
+		"11":"973",
+		"12":"980",
+		"13":"1156",
+		"14":"1261",
+		"15":"1706",
+		"16":"1810",
+		"17":"1828",
+		"18":"1902",
+		"19":"1984",
+		"20":"2096",
+		"21":"2283",
+		"22":"2583",
+		"23":"2854",
+		"24":"2974",
+		"25":"2976",
+		"26":"2990",
+		"27":"2992",
+		"28":"3019",
+		"29":"3075",
+		"30":"3223",
+		"31":"3284",
+		"32":"3339",
+		"33":"3397",
+		"34":"3489",
+		"35":"3495",
+		"36":"3506",
+		"37":"3711",
+		"38":"3970",
+		"39":"4400",
+		"40":"4733",
+		"41":"4775",
+        "42":"5242",
+        "43":"5291",
+		"44":"5414",
+		"45":"5496",
+		"46":"5572",
+		"47":"5801",
+		"48":"5809",
+		"49":"5839",
+		"50":"5854",
+		"51":"6014",
+		"52":"6025",
+		"53":"6050",
+		"54":"6060",
+		"55":"6353",
+		"56":"6672",
+		"57":"6702",
+        "58":"6705",
+		"59":"6803",
+		"60":"6885",
+		"61":"6907",
+		"62":"6919",
+		"63":"7034",
+		"64":"7039",
+		"65":"7140",
+		"66":"7157",
+		"67":"7173",
+		"68":"7293"
+	},
+	"teamNames": {
+		"1":"RamTech",
+		"2":"Robowranglers",
+		"3":"SPAM",
+		"4":"The Cheesy Poofs",
+		"5":"Beach Cities Robotics",
+		"6":"Hawaiian Kids",
+		"7":"Eagle Robotics",
+		"8":"Siege Robotics",
+		"9":"Cyber Penguins",
+		"10":"SWARM",
+		"11":"Greybots",
+		"12":"Thunderbots",
+		"13":"Under Control",
+		"14":"Robo Lions",
+		"15":"Ratchet Rockers",
+		"16":"Jaguar Robotics",
+		"17":"BoxerBots",
+		"18":"Exploding Bacon",
+		"19":"Jawas",
+		"20":"RoboActive",
+		"21":"Panteras",
+		"22":"RoboWarriors",
+		"23":"The Prototypes",
+		"24":"Walton Robotics",
+		"25":"Spartabots",
+		"26":"Hotwire",
+		"27":"The SS Prometheus",
+		"28":"Firebirds",
+		"29":"Ha-Dream Team",
+		"30":"Robotics of Central Kitsap",
+		"31":"Camdenton LASER",
+		"32":"BumbleB",
+		"33":"Robolions",
+		"34":"Category 5",
+		"35":"MindCraft Robotics",
+		"36":"YETI Robotics",
+		"37":"Iron Mustang",
+		"38":"Duncan Dynamics",
+		"39":"CERBOTICS",
+		"40":"Scarlett Robotics",
+		"41":"Aztech Robotics",
+        "42":"RoboCats",
+        "43":"Emperius",
+		"44":"Pearadox",
+		"45":"Robo Knights",
+		"46":"ROSBOTS",
+		"47":"CTC Inspire",
+		"48":"The Jesubots",
+		"49":"Blue Whales",
+		"50":"GLITCH",
+		"51":"ARC",
+		"52":"Adroit Androids",
+		"53":"Wee Waa Bush Bots",
+		"54":"Circuit Serpents",
+		"55":"Zodiac",
+		"56":"Fusion Corps",
+		"57":"StingBots Santa Anita",
+        "58":"WildCat 5e",
+		"59":"HAI-Panda",
+		"60":"The Pilots",
+		"61":"The GOAT",
+		"62":"The Commodores",
+		"63":"2B Determined",
+		"64":"XO",
+		"65":"OKSEF ROBOTICS",
+		"66":"uBotics",
+		"67":"Iris Robotics",
+		"68":"COTANAK ROBOTICS"
+	},
+	"eventPage": "https://www.thebluealliance.com/event/2018hop"
+}
+
+
+
+
+/******************************
+
+        TEAMS
+
+******************************/
+
+
+
+
+{
+	"teamNum": 59,
+    "teamName": "RamTech",
+    "location": {
+        "city":"Miami",
+        "state":"Florida",
+        "country":"USA"
+    },
+    "record":"20-8-0",
+	"competitions": {
+		"1":"Orlando Regional",
+		"2":"South Florida Regional"
+	},
+	"OrlandoRegional-RESULTS": {
+		"quals-record":"8-0",
+		"rank":"1",
+		"ranking-score":"2.62",	
+		"park-climb-points":"430",
+		"auto-points":"213",
+		"ownership":"2134",	
+		"vault":"200",
+		"total-ranking-points":"21",
+		"OPR":"210.03",
+		"playoffs":"alliance-1-captain",
+		"playoffs-record":"4-3",
+		"result":"finals"
+    },
+    "SouthFloridaRegional-RESULTS": {
+		"quals-record":"7-3",
+		"rank":"9",
+		"ranking-score":"2.30",	
+		"park-climb-points":"470",
+		"auto-points":"331",
+		"ownership":"2170",	
+		"vault":"325",
+		"total-ranking-points":"23",
+		"OPR":"140.27",
+		"playoffs":"alliance-2-pick-1",
+		"playoffs-record":"1-2",
+		"result":"quarters"
+	},
+	"2017-record": "12-11-0"
+}
+{
+	"teamNum": 148,
+    "teamName": "Robowranglers",
+    "location": {
+        "city":"Greenville",
+        "state":"Texas",
+        "country":"USA"
+    },
+    "record":"29-3-0",
+	"competitions": {
+		"1":"Dallas Regional",
+		"2":"Colorado Regional"
+	},
+	"DallasRegional-RESULTS": {
+		"quals-record":"9-0",
+		"rank":"1",
+		"ranking-score":"3.33",	
+		"park-climb-points":"735",
+		"auto-points":"270",
+		"ownership":"2355",	
+		"vault":"260",
+		"total-ranking-points":"30",
+		"OPR":"311.46",
+		"playoffs":"alliance-1-captain",
+		"playoffs-record":"6-0",
+		"result":"champs"
+    },
+    "ColoradoRegional-RESULTS": {
+		"quals-record":"10-1",
+		"rank":"2",
+		"ranking-score":"3.18",	
+		"park-climb-points":"770",
+		"auto-points":"439",
+		"ownership":"3211",	
+		"vault":"405",
+		"total-ranking-points":"35",
+		"OPR":"216.13",
+		"playoffs":"alliance-1-pick-1",
+		"playoffs-record":"4-2",
+		"result":"finals"
+	},
+	"2017-record": "63-28-0"
+}
+{
+	"teamNum": 180,
+    "teamName": "SPAM",
+    "location": {
+        "city":"Stuart",
+        "state":"Florida",
+        "country":"USA"
+    },
+    "record":"23-9-0",
+	"competitions": {
+		"1":"Orlando Regional",
+		"2":"South Florida Regional"
+	},
+	"OrlandoRegional-RESULTS": {
+		"quals-record":"6-2",
+		"rank":"16",
+		"ranking-score":"1.75",	
+		"park-climb-points":"285",
+		"auto-points":"173",
+		"ownership":"1751",	
+		"vault":"275",
+		"total-ranking-points":"14",
+		"OPR":"210.03",
+		"playoffs":"alliance-1-pick-1",
+		"playoffs-record":"4-3",
+		"result":"finals"
+    },
+    "SouthFloridaRegional-RESULTS": {
+		"quals-record":"7-3",
+		"rank":"17",
+		"ranking-score":"2.00",	
+		"park-climb-points":"475",
+		"auto-points":"324",
+		"ownership":"2344",	
+		"vault":"355",
+		"total-ranking-points":"20",
+		"OPR":"153.66",
+		"playoffs":"alliance-1-pick-1",
+		"playoffs-record":"6-1",
+		"result":"champs"
+	},
+	"2017-record": "41-9-0"
+}
+{
+	"teamNum": 254,
+    "teamName": "The Cheesy Poofs",
+    "location": {
+        "city":"San Jose",
+        "state":"California",
+        "country":"USA"
+    },
+    "record":"30-0-0",
+	"competitions": {
+		"1":"Arizona North Regional",
+		"2":"Silicon Valley Regional"
+	},
+	"ArizonaNorthRegional-RESULTS": {
+		"quals-record":"9-0",
+		"rank":"1",
+		"ranking-score":"3.44",	
+		"park-climb-points":"710",
+		"auto-points":"382",
+		"ownership":"2585",	
+		"vault":"255",
+		"total-ranking-points":"31",
+		"OPR":"232.36",
+		"playoffs":"alliance-1-captain",
+		"playoffs-record":"6-0",
+		"result":"champs"
+    },
+    "SiliconValleyRegional-RESULTS": {
+		"quals-record":"9-0",
+		"rank":"1",
+		"ranking-score":"4.00",	
+		"park-climb-points":"810",
+		"auto-points":"369",
+		"ownership":"2658",	
+		"vault":"285",
+		"total-ranking-points":"36",
+		"OPR":"223.09",
+		"playoffs":"alliance-1-captain",
+		"playoffs-record":"6-0",
+		"result":"champs"
+	},
+	"2017-record": "12-11-0"
+}
+{
+    "teamNum": 294,
+    "teamName": "Beach Cities Robotics",
+    "location": {
+        "city":"Redondo Beach",
+        "state":"California",
+        "country":"USA"
+    },
+    "record":"21-12-0",
+	"competitions": {
+		"1":"Orange County Regional",
+        "2":"Aerospace Valley Regional"
+	},
+	"OrangeCountyRegional-RESULTS": {
+		"quals-record":"8-2",
+		"rank":"6",
+		"ranking-score":"2.30",	
+		"park-climb-points":"380",
+		"auto-points":"289",
+		"ownership":"2536",	
+		"vault":"260",
+		"total-ranking-points":"23",
+		"OPR":"none",
+		"playoffs":"alliance-5-captain",
+		"playoffs-record":"0-2",
+		"result":"quarters"
+    },
+    "AerospaceValleyRegional-RESULTS": {
+		"quals-record":"8-5",
+		"rank":"3",
+		"ranking-score":"2.46",	
+		"park-climb-points":"835",
+		"auto-points":"534",
+		"ownership":"3152",	
+		"vault":"395",
+		"total-ranking-points":"32",
+		"OPR":"171.99",
+		"playoffs":"alliance-3-captain",
+		"playoffs-record":"4-3",
+		"result":"finals"
+    },
+    "2017-record": "15-18-1"
+}
+{
+	"teamNum": 359,
+    "teamName": "Hawaiian Kids",
+    "location": {
+        "city":"Waialua",
+        "state":"Hawaii",
+        "country":"USA"
+    },
+    "record":"43-12-0",
+	"competitions": {
+		"1":"Festival de Robotique-Montreal Regional",
+        "2":"Hawaii Regional",
+        "3":"Canadian Rockies Regional"
+	},
+	"FestivaldrmRegional-RESULTS": {
+		"quals-record":"7-2",
+		"rank":"2",
+		"ranking-score":"2.66",	
+		"park-climb-points":"620",
+		"auto-points":"269",
+		"ownership":"2253",	
+		"vault":"255",
+		"total-ranking-points":"24",
+		"OPR":"200.27",
+		"playoffs":"alliance-1-pick-1",
+		"playoffs-record":"6-2",
+		"result":"champs"
+    },
+    "HawaiiRegional-RESULTS": {
+		"quals-record":"10-3",
+		"rank":"3",
+		"ranking-score":"2.38",	
+		"park-climb-points":"820",
+		"auto-points":"329",
+		"ownership":"2879",	
+		"vault":"350",
+		"total-ranking-points":"31",
+		"OPR":"198.81",
+		"playoffs":"alliance-1-pick-1",
+		"playoffs-record":"6-0",
+		"result":"champs"
+    },
+    "CanadianRockiesRegional-RESULTS": {
+		"quals-record":"7-5",
+		"rank":"4",
+		"ranking-score":"2.25",	
+		"park-climb-points":"800",
+		"auto-points":"332",
+		"ownership":"2595",	
+		"vault":"285",
+		"total-ranking-points":"27",
+		"OPR":"176.41",
+		"playoffs":"alliance-1-pick-1",
+		"playoffs-record":"6-0",
+		"result":"champs"
+	},
+	"2017-record": "47-29-0"
+}
