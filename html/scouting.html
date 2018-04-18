@@ -7,89 +7,205 @@
 	<link rel="stylesheet" href="../assets/style.css">
 	<title>Scouting Portal</title>
 	<script src="../sources/jquery-3.3.1.min.js"></script>
-	<script src="../sources/p5/p5.min.js"></script>
-	<script src="../sources/p5/addons/p5.dom.min.js"></script>
-	<script src="../sources/processing.min.js"></script>
-	<script src="../createMap.js" type="text/javascript"></script>
+	
+	<link rel="stylesheet" href="../Sources/bootstrap/css/bootstrap.min.css">
+	<script src="../Sources/bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<div class="container2">
-		<div id="map-holder"></div>
-		<div class="formSect">
-			<div class="manualForm">
-				<form action="/match" method="POST" class="formStuff" id="scoutForm">
-					Scouter Name:
-					<input type="text" name="scoutName" id="scoutName">
-					<div class="matchNum">
-						Match Number:
-						<input type="text" name="matchNum" id="matchNum" autocomplete="off">
-					</div>
-					<div class="teamNum">
-						Team #:
-						<input type="text" name="teamNum" id="teamNum" autocomplete="off">
-					</div>
-					<div class="startingPos">
-						Starting Position:
-						<input type="text" name="startPos" id="startPos" autocomplete="off">
-					</div>
-					<div class="autoPoints">
-						<p id="autoData">AUTO:</p>
-						<div class="lineCross">
-							Line Cross
-							<input type="checkbox" name="autoCross" id="autoCross" autocomplete="off">
+	<div class="container-fluid">
+		<div class ="row">
+			<div class="col-5" id="headSect">
+				<h1 id="news">JesuScout</h1>
+			</div>
+			<div class="col-6" id="teamSect">
+				<h6 id="news2">TEAM 5809</h6>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-1"></div>
+			<div class="col-10" id="divisionz">
+				<form action="/match" method="POST" id="genForm">
+					<h4>Pre-Match</h4>
+					<div class="form-row">
+						<div class="col">
+							<input type="text" class="form-control" placeholder="Scouter Name" id="scoutName" name="scoutName">
 						</div>
-						<div class="preSwitch">
-							Auto Switch
-							<input type="text" name="autoSwitch" id="autoSwitch" autocomplete="off">
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Match Number" id="matchNum" name="matchNum">
 						</div>
-						<div class="preScale">
-							Auto Scale
-							<input type="text" name="autoScale" id="autoScale" autocomplete="off">
-						</div>
-						<div class="farScale">
-							Auto FSS
-							<input type="text" name="autofarScale" id="autofarScale" autocomplete="off">
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Team Number" id="teamNum" name="teamNum">
 						</div>
 					</div>
-					<div class="homeSwitch">
-						Blocks in Home Switch:
-						<input type="text" name="homeSwitch-count" id="homeSwitchCount" autocomplete="off">
+					<div class="row">
+						<div class="col-1"></div>
+						<div class="col-10" id="formSpacer"></div>
+						<div class="col-1"></div>
 					</div>
-					<div class="scale-count">
-						Blocks in Scale:
-						<input type="text" name="scale-count" id="scaleCount" autocomplete="off">
-					</div>
-					<div class="opposingSwitch">
-						Blocks in Opposing Switch:
-						<input type="text" name="opposingSwitch-count" id="opposingSwitchCount" autocomplete="off">
-					</div>
-					<div class="vault">
-						Blocks in vault:
-						<input type="text" name="vaultCount" id="vaultCount" autocomplete="off">
-					</div>
-					<br>
-					<div class="endPoints">
-						<p id="endData">END:</p>
-						<div class="climbMech">
-							Climb?
-							<input type="checkbox" name="climbMech" id="climbMech" autocomplete="off">
+					<h4>Autonomous</h4>
+					<div class="form-row">
+						<div class="col" id="autoRadios">
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="radio" name="robotWorks" id="robotWorks" value="1">
+								<label class="form-check-input" for="robotWorks" id="radioLevel">
+									Robot Working
+								</label>
+							</div>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="radio" name="crossBase" id="crossBaseline" value="1">
+								<label class="form-check-input" for="crossBase" id="radioLevel">
+									Crossed Baseline
+								</label>
+							</div>
 						</div>
-						<div class="winLoss">
-							Win?
-							<input type="checkbox" name="winLoss" id="winLoss" autocomplete="off">
+						<div class="col">
+							<label class="my-1 mr-2 col-form-label" for="selectStartPos">Start Position</label>
+							<select class="custom-select my-1 mr-sm-2 col-8" id="selectStartPos" name="startPos">
+								<option selected>Choose...</option>
+								<option value="r1">RED 1</option>
+								<option value="r2">RED 2</option>
+								<option value="r3">RED 3</option>
+								<option value="b1">BLUE 1</option>
+								<option value="b2">BLUE 2</option>
+								<option value="b3">BLUE 3</option>
+							</select>
 						</div>
-						<div class="comments">
-							Scouter Comments:
-							<input type="text" name="scoutComments" id="scoutComments" autocomplete="off">
+					</div>
+					<div class="form-row" id="rowBump">
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Close Switch Attempted" id="closeSwitchAtt" name="autocloseSwitchAtt">
 						</div>
-						<button type="submit" id="manualScout">Submit</button>
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Close Switch Achieved" id="closeSwitchAch" name="autocloseSwitchAch">
+						</div>
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Far Switch Attempted" id="farSwitchAtt" name="autofarSwitchAtt">
+						</div>
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Far Switch Achieved" id="farSwitchAch" name="autofarSwitchAch">
+						</div>
+					</div>
+					<div class="form-row" id="rowBump">
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Mid Switch Attempted" id="midSwitchAtt" name="automidSwitchAtt">
+						</div>
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Mid Switch Achieved" id="midSwitchAch" name="automidSwitchAch">
+						</div>
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Mid Scale Attempted" id="mideScaleAtt" name="automideScaleAtt">
+						</div>
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Mid Scale Achieved" id="midScaleAch" name="automidScaleAch">
+						</div>
+					</div>
+					<div class="form-row" id="rowBump">
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Close Scale Attempted" id="closeScaleAtt" name="autocloseScaleAtt">
+						</div>
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Close Scale Achieved" id="closeScaleAch" name="autocloseScaleAch">
+						</div>
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Far Scale Attempted" id="farScaleAtt" name="autofarScaleAtt">
+						</div>
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Far Scale Achieved" id="farScaleAch" name="autofarScaleAch">
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-1"></div>
+						<div class="col-10" id="formSpacer"></div>
+						<div class="col-1"></div>
+					</div>
+					<h4>Tele-op</h4>
+					<div class="form-row">
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Home Switch Attempted" id="homeSwitchAtt" name="homeSwitchAtt">
+						</div>
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Home Switch Scored" id="homeSwitchAch" name="homeSwitchAch">
+						</div>
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Far Switch Attempted" id="farSwitchAtt" name="farSwitchAtt">
+						</div>
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Far Switch Scored" id="farSwitchAch" name="farSwitchAch">
+						</div>
+					</div>
+					<div class="form-row" id="rowBump">
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Scale Blocks Attempted" id="scaleAtt" name="scaleAtt">
+						</div>
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Scale Blocks Scored" id="scaleAch" name="scaleAch">
+						</div>
+					</div>
+					<div class="form-row" id="rowBump">
+						<div class="col">
+							<input type="number" class="form-control" placeholder="Exchange Blocks Scored" id="vaultScored" name="vaultScored">
+						</div>
+						<div class="col">
+							<label class="my-1 mr-2 col-form-label" for="intakeRating">Intake Rating</label>
+							<select class="custom-select my-1 mr-sm-2 col-8" id="intakeRating" name="intakeRating">
+								<option selected>Choose...</option>
+								<option value="1">1</option>
+								<option value="2">2</option>
+								<option value="3">3</option>
+								<option value="4">4</option>
+								<option value="5">5</option>
+							</select>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-1"></div>
+						<div class="col-10" id="formSpacer"></div>
+						<div class="col-1"></div>
+					</div>
+					<h4>End Game</h4>
+					<div class="form-row">
+						<div class="col-2"></div>
+						<div class="col-3">
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="radio" name="climbY" id="climbY" value="1">
+								<label class="form-check-input" for="climbY" id="radioLevel">
+									Climb?
+								</label>
+							</div>
+						</div>
+						<div class="col-5">
+							<input type="number" class="form-control" placeholder="# Bots Lifted" id="botsLifted" name="botsLifted">
+						</div>
+						<div class="col-2"></div>
+					</div>
+					<div class="form-row" id="rowBump">
+						<div class="col-2"></div>
+						<div class="col-8">
+							<input type="text" class="form-control" placeholder="Scouter Comments" id="scoutCommentz" name="scoutComments">
+						</div>
+						<div class="col-2"></div>
+					</div>
+					<div class="row">
+						<div class="col-1"></div>
+						<div class="col-10" id="formSpacer"></div>
+						<div class="col-1"></div>
+					</div>
+					<div class="row" id="bottomRow">
+						<div class="col-5"></div>
+						<div class="col-2" id="buttonSect">
+							<button type="submit" class="btn btn-primary">Submit Match Data</button>
+						</div>
+						<div class="col-5"></div>
 					</div>
 				</form>
 			</div>
-		</div>
-		<div class="footer"
-			<div>
-				<a href="../index.html" class="goHome">Go Home</a>
+			<div class="col-1"></div>
+			<div class="row no-gutters" id="footerBase">
+				<div class="col-5"></div>
+				<div class="col-2" id="homeParams">
+					<a class="btn btn-primary" href="../index.html" role="button" id="returnHome">GO HOME</a>
+				</div>
+				<div class="col-5"></div>
 			</div>
 		</div>
 	</div>
