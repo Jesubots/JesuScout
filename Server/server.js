@@ -50,7 +50,7 @@ server.listen(3000, function() {
 });
 
 app.post('/match', function(req,res) {
-	mongo.ops.insert('houstonMatches', req.body, function(error, result) {
+	mongo.ops.insert('arkansasMatches', req.body, function(error, result) {
 		logg('/match req.body = ', req.body);
 		
 		if(error) res.status(500).send(error);
@@ -58,9 +58,9 @@ app.post('/match', function(req,res) {
 	});
 });
 
-app.get('/api/houstonMatches', function(req, res) {
-	mongo.ops.find('houstonMatches', req.body, function(error, result) {
-		logg('/houstonMatches req.body = ', req.body); //not logging?
+app.get('/api/arkansasMatches', function(req, res) {
+	mongo.ops.find('arkansasMatches', req.body, function(error, result) {
+		logg('/arkansasMatches req.body = ', req.body); //not logging?
 		
 		if(error) res.status(500).send(error);
 		else res.status(200).send(result);
