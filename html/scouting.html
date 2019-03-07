@@ -1,113 +1,27 @@
-<!doctype html>
-<html lang="en" class="no-js">
+<!DOCTYPE html>
+<html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="../assets/img/rock-shield.png">
-	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
-
-	<link rel="stylesheet" href="../assets/css/reset.css"> <!-- CSS reset -->
-	<link rel="stylesheet" href="../assets/css/style.css"> <!-- Resource style -->
-	<script src="../assets/js/modernizr.js"></script> <!-- Modernizr -->
-  	
-    <title>Scouting Portal</title>
-	<link rel="stylesheet" href="../sources/bootstrap/css/bootstrap.css">
-	<link rel="stylesheet" type="text/css" href="../assets/css/main.css">
-    <link rel="stylesheet" type="text/css" href="../assets/css/scout.css">
-	<script src="../sources/bootstrap/js/bootstrap.min.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="../assets/style.css">
+	<title>Scouting Portal</title>
+	<script src="../sources/jquery-3.3.1.min.js"></script>
+	
+	<link rel="stylesheet" href="../Sources/bootstrap/css/bootstrap.min.css">
+	<script src="../Sources/bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<header class="cd-main-header">
-		<a href="#0" class="cd-logo"><img src="../assets/img/9d9752e5-c8dd-4ee0-a255-977b34653f75.png" alt="Logo"></a>
-		
-		<div class="cd-search is-hidden">
-			<form action="#0">
-				<input type="search" placeholder="Search...">
-			</form>
-		</div> <!-- cd-search -->
-
-		<a href="#0" class="cd-nav-trigger">Menu<span></span></a>
-
-		<nav class="cd-nav">
-			<ul class="cd-top-nav">
-				<li><a href="#0">Tour</a></li>
-				<li><a href="#0">Support</a></li>
-				<li class="has-children account">
-					<a href="#0">
-						<img src="../assets/img/rock-shield.png" alt="avatar">
-						Account
-					</a>
-
-					<ul>
-
-						<li><a href="#0">My Account</a></li>
-						<li><a href="#0">Edit Account</a></li>
-						<li><a href="#0">Logout</a></li>
-					</ul>
-				</li>
-			</ul>
-		</nav>
-	</header> <!-- .cd-main-header -->
-
-	<main class="cd-main-content">
-		<nav class="cd-side-nav">
-			<ul>
-				<li class="cd-label">Main</li>
-				<li class="has-children overview">
-					<a href="../index.html">Dashboard</a>
-				</li>
-				<li class="has-children">
-					<a href="scout.html">Scouting</a>
-				</li>
-
-				<li class="has-children comments">
-					<a href="insights">Insights</a>
-					
-					<ul>
-						<li><a href="#0">Competition Specific</a></li>
-						<li><a href="#0">Database</a></li>
-						<li><a href="teams.html">Team Profiles</a></li>
-					</ul>
-				</li>
-			</ul>
-
-			<ul>
-				<li class="cd-label">Secondary</li>
-				<li class="has-children bookmarks">
-					<a href="#0">Analysis</a>
-					
-					<ul>
-						<li><a href="#0">Tableau</a></li>
-					</ul>
-				</li>
-				<li class="has-children images">
-					<a href="#0">Video</a>
-					
-					<ul>
-						<li><a href="#0">All Images</a></li>
-						<li><a href="#0">Edit Image</a></li>
-					</ul>
-				</li>
-
-				<li class="has-children users">
-					<a href="#0">Users</a>
-					
-					<ul>
-						<li><a href="#0">All Users</a></li>
-						<li><a href="#0">Edit User</a></li>
-						<li><a href="#0">Add User</a></li>
-					</ul>
-				</li>
-			</ul>
-
-			<ul>
-				<li class="cd-label">Action</li>
-				<li class="action-btn"><a href="#0">Report a Bug</a></li>
-			</ul>
-		</nav>
-
-		<div class="content-wrapper">
-			<div class="row" id="scoutProfile">
+	<div class="container-fluid">
+		<div class ="row">
+			<div class="col-5" id="headSect">
+				<h1 id="news">JesuScout</h1>
+			</div>
+			<div class="col-6" id="teamSect">
+				<h6 id="news2">TEAM 5809</h6>
+			</div>
+		</div>
+		<div class="row">
 			<div class="col-1"></div>
 			<div class="col-10" id="divisionz">
 				<form action="/match" method="POST" id="genForm">
@@ -287,10 +201,5 @@
 			</div>
 		</div>
 	</div>
-		</div> <!-- .content-wrapper -->
-	</main> <!-- .cd-main-content -->
-<script src="../assets/js/jquery-2.1.4.js"></script>
-<script src="../assets/js/jquery.menu-aim.js"></script>
-<script src="../assets/js/main.js"></script> <!-- Resource jQuery -->
 </body>
 </html>
