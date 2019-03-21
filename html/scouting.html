@@ -27,14 +27,53 @@
 				<form action="/match" method="POST" id="genForm">
 					<h4>Pre-Match</h4>
 					<div class="form-row">
-						<div class="col">
+						<div class="col-4">
 							<input type="text" class="form-control" placeholder="Scouter Name" id="scoutName" name="scoutName">
 						</div>
-						<div class="col">
+						<div class="col-4">
 							<input type="number" class="form-control" placeholder="Match Number" id="matchNum" name="matchNum">
 						</div>
-						<div class="col">
-							<input type="number" class="form-control" placeholder="Team Number" id="teamNum" name="teamNum">
+						<div class="col-4">
+							<select class="custom-select my-1 mr-sm-2 col-8" id="teamNum" name="teamNum">
+								<option selected>Team Number...</option>
+								<option value="937">937</option>
+								<option value="1108">1108</option>
+								<option value="1723">1723</option>
+								<option value="1730">1730</option>
+								<option value="1763">1763</option>
+								<option value="1764">1764</option>
+								<option value="1769">1769</option>
+								<option value="1775">1775</option>
+								<option value="1777">1777</option>
+								<option value="1785">1785</option>
+								<option value="1802">1802</option>
+								<option value="1806">1806</option>
+                                <option value="1810">1810</option>
+								<option value="1847">1847</option>
+                                <option value="1982">1982</option>
+								<option value="1982">1982</option>
+                                <option value="1984">1984</option>
+								<option value="1986">1986</option>
+                                <option value="2335">2335</option>
+								<option value="2352">2352</option>
+                                <option value="2353">2353</option>
+								<option value="2357">2357</option>
+                                <option value="2410">2410</option>
+								<option value="2723">2723</option>
+								<option value="3284">3284</option>
+                                <option value="4809">4809</option>
+                                <option value="5082">5082</option>
+                                <option value="5098">5098</option>
+                                <option value="5189">5189</option>
+                                <option value="5268">5268</option>
+                                <option value="5801">5801</option>
+                                <option value="5809">5809</option>
+                                <option value="5918">5918</option>
+                                <option value="5968">5968</option>
+                                <option value="6542">6542</option>
+                                <option value="6805">6805</option>
+                                <option value="7064">7064</option>
+							</select>
 						</div>
 					</div>
 					<div class="row">
@@ -44,24 +83,10 @@
 					</div>
 					<h4>Sandstorm</h4>
 					<div class="form-row">
-						<div class="col" id="autoRadios">
-							<div class="form-check form-check-inline">
-								<input class="form-check-input" type="radio" name="robotWorks" id="robotWorks" value="1">
-								<label class="form-check-input" for="robotWorks" id="radioLevel">
-									Robot Working
-								</label>
-							</div>
-							<div class="form-check form-check-inline">
-								<input class="form-check-input" type="radio" name="crossBase" id="crossBaseline" value="1">
-								<label class="form-check-input" for="crossBase" id="radioLevel">
-									Crossed Baseline
-								</label>
-							</div>
-						</div>
-						<div class="col">
-							<label class="my-1 mr-2 col-form-label" for="selectStartPos">Start Position</label>
-							<select class="custom-select my-1 mr-sm-2 col-8" id="selectStartPos" name="startPos">
-								<option selected>Choose...</option>
+					    <div class="col-1"></div>
+						<div class="col-3">
+							<select class="custom-select mr-sm-2 col-12" id="selectTeamPos" name="teamPos">
+								<option selected>Team Position</option>
 								<option value="r1">RED 1</option>
 								<option value="r2">RED 2</option>
 								<option value="r3">RED 3</option>
@@ -70,46 +95,64 @@
 								<option value="b3">BLUE 3</option>
 							</select>
 						</div>
+						<div class="col-3">
+							<select class="custom-select mr-sm-3  col-11" id="selectStartPos" name="startPos">
+								<option selected>Start Position</option>
+								<option value="hab-l1">Hab Level 1</option>
+								<option value="hab-l2">Hab Level 2</option>
+							</select>
+						</div>
+						<div class="col-3">
+						    <div class="form-check form-check-inline">
+								<input class="form-check-input" type="checkbox" name="crossBase" id="crossBaseline" value="1">
+								<label class="form-check-label" for="crossBase">
+									Crossed Baseline
+								</label>
+							</div>
+						</div>
 					</div>
+					<div class="form-row" id="rowBump"></div>
 					<div class="form-row" id="rowBump">
+                        <div class="col-1"></div>
                         <div class="col" id="autoRadios">
                             <div class="form-check form-check-inline">
-								    <input class="form-check-input" type="radio" name="auto-rocketHatch" id="auto-rocketHatch" value="1">
-								    <label class="form-check-input" for="auto-rocketHatch" id="radioLevel">
-								    	Attempted Rocket Hatch
+								    <input class="form-check-input" type="checkbox" name="auto-rocketHatch" id="auto-rocketHatch" value="1">
+								    <label class="form-check-label" for="auto-rocketHatch">
+								    	Attempt Rocket Hatch
 								    </label>
 				            </div>
 				            <div class="form-check form-check-inline">
-						    		<input class="form-check-input" type="radio" name="auto-cargoHatch" id="auto-cargoHatch" value="1">
-						    		<label class="form-check-input" for="auto-cargoHatch" id="radioLevel">
-						    			Attempted Cargo Hatch
+						    		<input class="form-check-input" type="checkbox" name="auto-cargoHatch" id="auto-cargoHatch" value="1">
+						    		<label class="form-check-label" for="auto-cargoHatch">
+						    			Attempt Cargo Hatch
 						    		</label>
 				            </div>
 				            <div class="form-check form-check-inline">
-						    		<input class="form-check-input" type="radio" name="auto-rocketBall" id="auto-rocketBall" value="1">
-						    		<label class="form-check-input" for="auto-rocketBall" id="radioLevel">
-						    			Attempted Rocket Ball
+						    		<input class="form-check-input" type="checkbox" name="auto-rocketBall" id="auto-rocketBall" value="1">
+						    		<label class="form-check-label" for="auto-rocketBall">
+						    			Attempt Rocket Ball
 						    		</label>
 				            </div>
 				            <div class="form-check form-check-inline">
-						    		<input class="form-check-input" type="radio" name="auto-cargoBall" id="auto-cargoBall" value="1">
-						    		<label class="form-check-input" for="auto-cargoBall" id="radioLevel">
-						    			Attempted Cargo Ball
+						    		<input class="form-check-input" type="checkbox" name="auto-cargoBall" id="auto-cargoBall" value="1">
+						    		<label class="form-check-label" for="auto-cargoBall">
+						    			Attempt Cargo Ball
 						    		</label>
 				            </div>
                         </div>
 					</div>
+					<div class="form-row" id="rowBump"></div>
 					<div class="form-row" id="rowBump">
-						<div class="col">
+						<div class="col-3">
 							<input type="number" class="form-control" placeholder="# Rocket Hatch Scored" id="auto-rocketHatchscored" name="auto-rocketHatchscored">
 						</div>
-						<div class="col">
+						<div class="col-3">
 							<input type="number" class="form-control" placeholder="# Cargo Hatch Scored" id="auto-cargoHatchscored" name="auto-cargoHatchscored">
 						</div>
-						<div class="col">
+						<div class="col-3">
 							<input type="number" class="form-control" placeholder="# Rocket Ball Scored" id="auto-rocketBallscored" name="auto-rocketBallscored">
 						</div>
-						<div class="col">
+						<div class="col-3">
 							<input type="number" class="form-control" placeholder="# Cargo Ball Scored" id="auto-cargoBallscored" name="auto-cargoBallscored">
 						</div>
 					</div>
@@ -119,33 +162,48 @@
 						<div class="col-1"></div>
 					</div>
 					<h4>Tele-op</h4>
+					<div class="form-row" id="rowBump">
+                        <div class="col-1"></div>
+					    <div class="col-4" id="autoRadios">
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="checkbox" name="robotWorks" id="robotWorks" value="1">
+								<label class="form-check-label" for="robotWorks" id="robotWorks">
+									Robot Working
+								</label>
+							</div>
+						</div>
+					</div>
+					
 					<div class="form-row">
-						<div class="col">
+					    <div class="col-1"></div>
+						<div class="col-3">
 							<input type="number" class="form-control" placeholder="Rocket L1 Hatch Scored" id="rocket-l1-h-scored" name="rocket-l1-h-scored">
 						</div>
-						<div class="col">
+						<div class="col-3">
 							<input type="number" class="form-control" placeholder="Rocket L2 Hatch Scored" id="rocket-l2-h-scored" name="rocket-l2-h-scored">
 						</div>
-						<div class="col">
+						<div class="col-3">
 							<input type="number" class="form-control" placeholder="Rocket L3 Hatch Scored" id="rocket-l3-h-scored" name="rocket-l3-h-scored">
 						</div>
 					</div>
 					<div class="form-row" id="rowBump">
-						<div class="col">
+					    <div class="col-1"></div>
+						<div class="col-3">
 							<input type="number" class="form-control" placeholder="Rocket L1 Ball Scored" id="rocket-l1-b-scored" name="rocket-l1-b-scored">
 						</div>
-						<div class="col">
+						<div class="col-3">
 							<input type="number" class="form-control" placeholder="Rocket L2 Ball Scored" id="rocket-l2-b-scored" name="rocket-l2-b-scored">
 						</div>
-						<div class="col">
+						<div class="col-3">
 							<input type="number" class="form-control" placeholder="Rocket L3 Ball Scored" id="rocket-l3-b-scored" name="rocket-l3-b-scored">
 						</div>
 					</div>
 					<div class="form-row" id="rowBump">
-						<div class="col">
+					    <div class="col-1"></div>
+						<div class="col-4">
 							<input type="number" class="form-control" placeholder="Cargo Ball Scored" id="cargo-ball-scored" name="cargo-ball-scored">
 						</div>
-						<div class="col">
+						<div class="col-5">
 							<input type="number" class="form-control" placeholder="Cargo Hatch Scored" id="cargo-hatch-scored" name="cargo-hatch-scored">
 						</div>
 					</div>
@@ -156,25 +214,33 @@
 					</div>
 					<h4>End Game</h4>
 					<div class="form-row">
-						<div class="col-3"></div>
-						<div class="col-3">
+					    <div class="col-3"></div>
+						<div class="col-2">
 							<div class="form-check form-check-inline">
-								<input class="form-check-input" type="radio" name="climb-l1" id="climb-l1" value="1">
-								<label class="form-check-input" for="climb-l1" id="radioLevel">
-									Climb L1
+								<input class="form-check-input" type="checkbox" name="hab-l1" id="hab-l1" value="1">
+								<label class="form-check-label" for="hab-l1">
+									Hab Level 1
 								</label>
 							</div>
 						</div>
-						<div class="col-3">
+						<div class="col-2">
 							<div class="form-check form-check-inline">
-								<input class="form-check-input" type="radio" name="climb-l2" id="climb-l2" value="1">
-								<label class="form-check-input" for="climb-l2" id="radioLevel">
-									Climb L2
+								<input class="form-check-input" type="checkbox" name="hab-l2" id="hab-l2" value="1">
+								<label class="form-check-label" for="hab-l2">
+									Hab Level 2
 								</label>
 							</div>
 						</div>
-						<div class="col-3"></div>
+						<div class="col-2">
+						    <div class="form-check form-check-inline">
+								<input class="form-check-input" type="checkbox" name="hab-l3" id="hab-l3" value="1">
+								<label class="form-check-label" for="hab-l3">
+									Hab Level 3
+								</label>
+							</div>
+						</div>
 					</div>
+					<div class="form-row" id="rowBump"></div>
 					<div class="form-row" id="rowBump">
 						<div class="col-2"></div>
 						<div class="col-4">
@@ -196,6 +262,9 @@
 							<button type="submit" class="btn btn-primary">Submit Match Data</button>
 						</div>
 						<div class="col-5"></div>
+					</div>
+					<div id="scoutFooter">
+					    <div class="row"></div>
 					</div>
 				</form>
 			</div>

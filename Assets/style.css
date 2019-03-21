@@ -154,7 +154,7 @@ h1 {
 .container2 {
   position: relative;
   width: 100%;
-  height: 750px;
+  height: 800px;
   background: #d3d3d3;
 }
 /*******************
@@ -395,7 +395,10 @@ td {
 	margin-top: 11px;
 }
 #selectStartPos {
-	float: right;
+	float: left;
+}
+#selectTeamPos {
+	float: left;
 }
 #intakeRating {
 	float: right;
@@ -426,4 +429,11 @@ td {
 #homeParams {
 	margin-top: 30px;
 	margin-bottom: 30px;
+}
+#scoutFooter {
+    height: 50px;
+    margin-top: 25px;
+}
+.bootstrap-overrides custom-select {
+    margin-top: 0px;
 }
